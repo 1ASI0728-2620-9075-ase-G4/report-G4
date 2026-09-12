@@ -368,11 +368,33 @@ Qué otras suposiciones tenemos que, de probarse falsas, pueden causar que nuest
 
 Para el proyecto FreshSense se han seleccionado dos segmentos principales de usuarios a los cuales la solución aporta un valor claro y adaptado a sus necesidades específicas:
 
-Restaurantes pequeños y minimarkets. Esta situación se ve agravada por la falta de herramientas accesibles que permitan monitorear factores críticos como la temperatura, humedad y niveles de gas etileno, estos factores influyen directamente en la conservación y vida útil de los alimentos. Esto se debe a que dichas herramientas están mayormente enfocadas en grandes cadenas comerciales y empresas de distribución, siendo inaccesibles económicamente para negocios pequeños.
+##### Propietarios y Gerentes de Restaurantes Pequeños
 
-En consecuencia, los propietarios y gerentes de restaurantes pequeños y minimarkets sufren de pérdidas económicas constantes por desperdicio de inventario, reducción de márgenes de ganancia, y contribuyen al impacto ambiental negativo generado por el desperdicio de alimentos.
+Edad: 28 a 50 años
 
-¿Cómo podríamos mejorar el monitoreo y disponibilidad de información sobre el estado de los alimentos en las bodegas y refrigeradores de restaurantes pequeños y minimarkets para que optimicen la rotación de inventario, reduzcan pérdidas económicas y disminuyan el desperdicio de alimentos?
+Perfil: Emprendedores con experiencia en gastronomía que operan restaurantes de capacidad pequeña a media (20-100 platos diarios).
+
+Estilo de vida: Dinámico, ocupado y con jornadas largas dedicadas a operaciones diarias y atención al cliente.
+
+Uso de tecnología: Frecuente, preferentemente en dispositivos móviles para consultas rápidas durante el servicio.
+
+Necesidad principal: Gestionar el inventario alimenticio de forma sencilla y eficiente sin dedicar horas a tareas administrativas, mientras se garantiza la calidad de ingredientes y se optimiza el flujo operativo diario.
+
+Beneficios buscados: Alertas automáticas sobre vencimientos de ingredientes, visibilidad en tiempo real del estado del inventario, sugerencias de menú para optimizar uso de recursos, y reportes que demuestren el impacto económico en márgenes de ganancia.
+
+Dueños y Encargados de Minimarkets
+
+Edad: 30 a 55 años
+
+##### Perfil: Emprendedores que operan pequeños comercios de venta al por menor especializados en productos frescos y perecederos.
+
+Estilo de vida: Ocupado y enfocado en operaciones diarias del negocio, atención a clientes y gestión de compras.
+
+Uso de tecnología: Moderado a frecuente, con disposición a adoptar herramientas que mejoren la eficiencia operativa.
+
+Necesidad principal: Controlar la frescura y rotación de sus productos para garantizar calidad, minimizar pérdidas económicas por desperdicio y vencimientos, y optimizar decisiones de reorden de inventario.
+
+Beneficios buscados: Solución económica y accesible para monitorear productos perecederos en tiempo real, alertas automáticas de vencimiento para implementar promociones o descuentos, reportes claros sobre pérdidas y rentabilidad por producto, y herramientas que simplifiquen el manejo de inventario sin complicaciones técnicas.
 
 <div style="page-break-after: always;"></div>
 
