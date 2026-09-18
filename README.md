@@ -204,197 +204,236 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 ### 1.2.1. Antecedentes y problemática
 
-El desperdicio de alimentos es un problema grave en el Perú tanto a nivel económico como ambiental. Según la información explicada en el II Foro Nacional de la Recuperación de Alimentos y Conmemoración del Día de Concienciación sobre la Pérdida y el Desperdicio de Alimentos en el Perú, realizado por la FOA (Organización de la Naciones Unidas para la Alimentación y la
-Agricultura) junto con MIDAGRI (Ministerio de Desarrollo Agrario y Riego) y PMA (Programa Mundial de Alimentos), en el país, 12.8 millones de toneladas de alimentos se pierden en la cadena de producción (FOA, 2024). Es un número muy preocupante considerando que el 51% de las familias peruanas está en situación de inseguridad alimentaria (Blas, 2022). A partir de ello, es claro que hay una relación estrecha entre el desperdicio de alimentos y la inseguridad alimentaria; el gobierno se está encargando de mitigar tal desperdicio mediante foros, proyectos, etc. Teniendo en cuenta este contexto, Enrique Román, representante asistente de FAO en Perú señala que los hogares peruanos representan el 16% en el desperdicio de alimentos (FAO, 2024), un porcentaje alarmante. Más aún, acorde a Alberto Huiman, doctor en Ciencias Ambientales, cada peruano genera un desperdicio de 67 kilogramos por año y los restaurantes es alrededor de 500 kilogramos por día. Esto complica gravemente la situación del país respecto a las pérdidas en el aspecto de alimentos.  
+El desperdicio de alimentos es un problema grave en el Perú tanto a nivel económico como ambiental. Según la información explicada en el II Foro Nacional de la Recuperación de Alimentos y Conmemoración del Día de Concienciación sobre la Pérdida y el Desperdicio de Alimentos en el Perú, realizado por la FOA (Organización de la Naciones Unidas para la Alimentación y la Agricultura) junto con MIDAGRI (Ministerio de Desarrollo Agrario y Riego) y PMA (Programa Mundial de Alimentos), en el país, 12.8 millones de toneladas de alimentos se pierden en la cadena de producción (FOA, 2024). Es un número muy preocupante considerando que el 51% de las familias peruanas está en situación de inseguridad alimentaria (Blas, 2022). A partir de ello, es claro que hay una relaciónestrecha entre el desperdicio de alimentos y la inseguridad alimentaria; el gobierno se está encargando de mitigar tal desperdicio mediante foros, proyectos, etc. Teniendo en cuenta este contexto, Enrique Román, representante asistente de FAO en Perú señala que los hogares peruanos representan el 16% en el desperdicio de alimentos (FAO, 2024), un porcentaje alarmante. Más aún, acorde a Alberto Huiman, doctor en Ciencias Ambientales, cada peruano genera un desperdicio de 67 kilogramos por año y los restaurantes es alrededor de 500 kilogramos por día. Esto complica gravemente la situación del país respecto a las pérdidas en el aspecto de alimentos.  
 
 Para analizar con más detalle los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
 
-#### What? (¿Qué es?)
+## What? (¿Qué es?)
 
-FreshSense es una aplicación web diseñada para facilitar el monitoreo del inventario alimenticio, y evita el desperdicio de alimentos mediante el uso de alarmas y notificaciones. Esto permite que los usuarios tengan mejor control de lo que tienen en el refrigerador y puedan cocinar acorde a lo que tienen disponible, que es una de las formas óptimas de prevenir el desperdicio (Casimiro & Delgado, 2020, p. 27).
+FreshSense es una aplicación web orientada a restaurantes y negocios de alimentos fríos que permite monitorear y gestionar el inventario de productos perecibles. Mediante alertas y notificaciones, ayuda a detectar oportunamente condiciones que pueden ocasionar el deterioro de los alimentos, facilitando decisiones para reducir mermas y pérdidas económicas.
 
 #### Why? (¿Por qué?)
 
-Es necesario realizar una aplicación de monitoreo de inventario por la falta de información precisa y oportuna sobre las condiciones reales dentro del refrigerador (temperatura, humedad, gas etileno) hace que los usuarios no puedan anticipar la descomposición de alimentos, resultando en desperdicio y pérdidas económicas.
+La falta de información precisa y oportuna sobre las condiciones de conservación de los alimentos dificulta detectar su deterioro antes de que se convierta en una pérdida. Esto puede generar desperdicio de productos, costos de reposición y una reducción de la rentabilidad del negocio.
 
 #### Where? (¿Dónde?)
 
-Se aplica en la mayoría de los restaurantes y minimarkets en Lima, principalmente dentro de
-refrigeradores donde se almacenan frutas, verduras y otros productos perecederos.
+FreshSense está orientada a restaurantes y negocios de alimentos fríos, principalmente en espacios donde se almacenan productos perecibles, como refrigeradores, congeladores, cámaras de frío y almacenes.
 
 #### When? (¿Cuándo?)
 
-El desperdicio ocurre frecuentemente cuando los alimentos permanecen almacenados por tiempos prolongados sin monitoreo adecuado, intensificándose en días o semanas, según el tipo de alimento. Es por ello que la aplicación surgió como una solución para esos problemas.
+El problema ocurre durante el almacenamiento y conservación de los productos, especialmente cuando permanecen durante periodos prolongados sin un monitoreo adecuado de sus condiciones. FreshSense permite realizar un seguimiento continuo y recibir alertas para tomar decisiones oportunas.
 
 #### Who? (¿Quién?)
 
-Esta aplicación está enfocada en minimarkets que buscan mantener un monitoreo exhaustivo de sus productos y tiene en cuenta la sostenibilidad ambiental. Asimismo, se incluye
-restaurantes, mypes que necesitan una manera eficiente de monitorear su inventario alimenticio.
+Los principales usuarios de FreshSense son los propietarios, administradores y encargados de restaurantes, así como los responsables de negocios de alimentos fríos que necesitan controlar la conservación de sus productos, reducir mermas y proteger la rentabilidad del negocio.
 
 #### How? (¿Cómo?)
 
-Se desarrolla FreshSense con miras a proveer la mejor experiencia para el usuario, por ello se definen los siguientes puntos importantes sobre su funcionamiento:
-• El usuario sube los alimentos que tiene disponibles en el refrigerador
-• A partir de esa información, para los hogares genera recetas acordes al inventario. Para los
-hogares y restaurantes manda alarmas y notificaciones de los alimentos que están prontos
-a vencer. Incluye dashboards para monitorear los comestibles de manera rápida.
-• Incluye suscripciones que brindan nuevas funcionalidades a los usuarios.
+FreshSense busca facilitar la gestión y conservación de los productos mediante:
+
+* Registro y gestión del inventario de alimentos.
+* Monitoreo de condiciones de conservación mediante sensores.
+* Alertas ante condiciones que puedan afectar los productos.
+* Notificaciones sobre productos próximos a deteriorarse o vencer.
+* Reportes sobre pérdidas, rotación y estado del inventario.
+* Sugerencias para aprovechar productos antes de que representen una pérdida económica.
+* Acceso a la información desde diferentes dispositivos.
 
 #### How much? (¿Cuánto?)
 
-El desperdicio de alimentos genera un impacto fuerte en la economía de los hogares, el hecho de que los peruanos desperdicien alrededor de 67 kilogramos en alimentos por año implica un gasto
-innecesario.
-Para poder mantener FreshSense y monetizar a partir del producto se tiene en cuenta:
-• Las suscripciones disponibles en la aplicación (se considera versión mensual y anual)
-• Venta del dispositivo sensor (pago único entre 80 a 190 soles)
+El desperdicio y deterioro de alimentos representa una pérdida económica para los negocios, ya que implica desechar productos que fueron adquiridos para su comercialización o utilización. FreshSense busca reducir estas pérdidas mediante el monitoreo y gestión preventiva del inventario.
+
+El modelo de negocio considera:
+
+* Suscripción mensual o anual para acceder a funcionalidades avanzadas.
+* Venta del dispositivo sensor como pago único.
+* Funcionalidades premium orientadas al análisis del inventario y las pérdidas económicas.
 
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-El estado actual de la conservación de alimentos es deficiente en restaurantes pequeños y minimarkets. En ambos segmentos, los propietarios y gerentes desperdician alimentos debido a la falta de información precisa y anticipada sobre su estado dentro de refrigeradores y almacenes, así como la ausencia de alertas preventivas que les permitan tomar decisiones oportunas respecto a su conservación, rotación de inventario y consumo de los mismos.
+Los restaurantes y negocios de alimentos fríos pueden sufrir pérdidas económicas debido al deterioro de productos perecibles que no es detectado oportunamente. La falta de monitoreo continuo de las condiciones de conservación dificulta tomar decisiones preventivas sobre el inventario, generando mermas, costos de reposición y reducción de la rentabilidad.
 
-Creemos que reducir el desperdicio de alimentos permitirá que los minimarkets y restaurantes pequeños optimicen sus costos operativos mejorando el margen de ganancia. Sabremos que esto es cierto cuando el porcentaje de alimentos reportados como utilizados antes de la fecha de alerta supere el 70% durante el primer mes de uso.
-Creemos que permitir el acceso a la aplicación desde múltiples dispositivos (PC, móvil) facilitará que los encargados de cocina y gerentes de minimarket monitoreen el inventario en tiempo real, mejorando la gestión diaria del negocio. Sabremos que esto es cierto cuando al menos el 50% de los usuarios activos inicien sesión desde dos o más tipos de dispositivos en la primera semana tras la adopción.
-Creemos que agregar funciones premium como análisis detallado de rotación de inventario, reportes de pérdidas y alertas automáticas de vencimiento incentivarán a los usuarios a suscribirse y optimizar su operación. Sabremos que esto es cierto cuando al menos el 30% de los usuarios activos se suscriban al plan premium dentro de los tres primeros meses de uso.
-Creemos que incluir sugerencias inteligentes de menú basadas en ingredientes próximos a vencer motivará a restaurantes pequeños a aprovechar mejor sus insumos y reducir el desperdicio operativo. Sabremos que esto es cierto cuando al menos el 40% de los usuarios implementen las recomendaciones al menos una vez por semana durante el primer mes de uso.
+La gestión manual del inventario y las condiciones de conservación también dificulta conocer en tiempo real qué productos presentan mayor riesgo de deterioro y cuáles requieren atención prioritaria.
+
+**Creemos que** reducir el desperdicio de alimentos permitirá a los negocios disminuir sus pérdidas económicas y mejorar su rentabilidad. **Sabremos que esto es cierto cuando** se observe una reducción medible de las pérdidas asociadas al deterioro de productos durante el periodo de evaluación.
+
+**Creemos que** las alertas sobre condiciones de conservación y productos próximos a deteriorarse ayudarán a los usuarios a tomar decisiones oportunas. **Sabremos que esto es cierto cuando** los usuarios utilicen las alertas para realizar acciones preventivas sobre los productos identificados.
+
+**Creemos que** permitir el acceso a la aplicación desde diferentes dispositivos facilitará el monitoreo del inventario durante la operación diaria. **Sabremos que esto es cierto cuando** los usuarios consulten regularmente el estado de sus productos desde al menos dos tipos de dispositivos.
+
+**Creemos que** los reportes de pérdidas y rotación de inventario ayudarán a los administradores a identificar oportunidades para reducir mermas. **Sabremos que esto es cierto cuando** los usuarios consulten estos reportes para tomar decisiones relacionadas con su inventario.
 
 #### 1.2.2.2. Lean UX Assumptions
 
-##### Business Assumptions:
+##### Business Assumptions
 
-Creemos que nuestros usuarios necesitan una plataforma que les permita monitorear el estado de su inventario alimenticio de manera eficiente y provea soluciones para optimizar la rotación de productos antes de que venzan, reduciendo pérdidas económicas.
-Estas necesidades se pueden resolver con una aplicación web intuitiva que brinde un inventario organizado y accesible para todo el equipo, además de un dashboard que muestre toda la información necesaria mediante gráficos, alertas automáticas y reportes de rentabilidad.
-Nuestros clientes iniciales son restaurantes pequeños y minimarkets que cuentan con bodegas y refrigeradores comerciales, y buscan una solución que les permita evitar pérdidas económicas por desperdicio, controlar y monitorear productivamente su inventario alimenticio, y optimizar márgenes de ganancia.
-El valor #1 que un cliente requiere de nuestro servicio es que muestre la información del estado de sus productos de manera detallada, fácil de entender y en tiempo real para tomar decisiones operativas inmediatas.
+* Creemos que nuestros usuarios necesitan una solución que les permita monitorear las condiciones de conservación de sus productos y gestionar su inventario para reducir pérdidas económicas. 
 
-El cliente también puede obtener estos beneficios adicionales como sugerencias de menú basadas en productos próximos a vencer, reportes analíticos de rotación de inventario y análisis de márgenes de ganancia por producto.
+*  Estas necesidades pueden resolverse mediante una aplicación que centralice el inventario, las alertas de conservación y los reportes de pérdidas en una interfaz sencilla y accesible.
 
-Adquiriremos a nuestros clientes a través de una landing page que muestre cómo funciona la aplicación, qué beneficios operativos y económicos ofrece, una forma de contactarnos y cómo FreshSense es una herramienta indispensable para el manejo eficiente del inventario alimenticio y la rentabilidad de restaurantes pequeños y minimarkets. Asimismo, tendremos una estrategia de marketing digital y ventas directas B2B enfocada en los segmentos objetivos que hemos definido.
+*  Nuestros clientes iniciales son restaurantes y negocios de alimentos fríos que manejan productos perecibles y buscan reducir mermas y proteger la rentabilidad de sus operaciones.
 
-Haremos dinero a través de suscripciones mensuales para servicios premium y funcionalidades avanzadas de análisis.
-Nuestra competencia de mercado serán aplicaciones genéricas de inventario, sistemas POS básicos, y métodos tradicionales de control manual de stock con cuadernos o spreadsheets.
-Los venceremos porque ofrecemos una solución accesible y especializada para restaurantes y minimarkets, eficiente y basada en las tecnologías más recientes. Nuestro modelo de suscripción brinda más funcionalidades específicas a un costo razonable comparado con sistemas empresariales costosos que no se adaptan a negocios pequeños.
-Nuestros mayores riesgos son la preferencia por aplicaciones más básicas, la resistencia al cambio tecnológico, el deseo de mantener un inventario de manera tradicional o manual, y la dificultad de integración con sistemas POS existentes.
+* El principal valor que el cliente requiere de FreshSense es conocer oportunamente el estado de sus productos para tomar decisiones antes de que estos representen una pérdida económica.
 
-Resolveremos esto mediante el desarrollo del producto enfocándonos en las necesidades específicas de usuarios, proveer una solución intuitiva y fácil de usar que no sobrecargue al usuario con funcionalidades complejas, ofrecer integraciones con sistemas POS populares, y brindar soporte técnico dedicado.
-Sabremos que hemos tenido éxito cuando observemos estos cambios en el comportamiento de nuestros clientes: reducción de al menos 20% en pérdidas por desperdicio de alimentos, disminución significativa de kilogramos de inventario no utilizado anualmente, y mejora medible en los márgenes de ganancia operativa de cada negocio.
-Qué otras suposiciones tenemos que, de probarse falsas, pueden causar que nuestro proyecto fracase: Suponer que nuestros segmentos objetivos (restaurantes pequeños y minimarkets) prefieren una solución tecnológica que sea fácil de acceder mediante dispositivos portátiles (celular, tablet, laptop) e integrable con sus operaciones diarias sin interrupciones.
+* Como beneficios adicionales, el cliente podrá acceder a reportes de inventario, análisis de pérdidas, alertas preventivas y recomendaciones para aprovechar productos próximos a deteriorarse.
 
-##### Business Outcomes:
-Reducir en al menos un 25% las pérdidas económicas por desperdicio de alimentos en restaurantes pequeños y minimarkets durante el primer año de uso del sistema.
-Generar un ahorro económico mensual a los usuarios de al menos 15% en costos de inventario, esto sería medido a través de encuestas y análisis de reportes de la aplicación.
-Conseguir una tasa de retención del 60% de los usuarios después de los primeros seis meses de uso de la aplicación.
-Alcanzar 200 usuarios (restaurantes pequeños y minimarkets) en los primeros cinco meses tras el lanzamiento del producto.
-Conseguir que más del 40% de usuarios pague la suscripción premium ofrecida para acceder a reportes avanzados y análisis de rentabilidad.
-User Assumptions:
+* Adquiriremos clientes mediante una landing page, demostraciones del producto, marketing digital y estrategias de venta directa orientadas a los segmentos objetivo.
 
-¿Quiénes serán nuestros usuarios?
+* Generaremos ingresos mediante la venta del dispositivo sensor y suscripciones para acceder a funcionalidades avanzadas.
 
-##### Nuestros usuarios principales son:
+* Nuestra competencia incluye métodos manuales de control de inventario, hojas de cálculo y sistemas genéricos de gestión de inventario.
+  
+* Nos diferenciaremos mediante una solución especializada en la conservación de productos perecibles, que combine monitoreo, alertas y gestión del inventario.
 
-Propietarios y gerentes de restaurantes pequeños (capacidad de 20-100 platos diarios) que están constantemente ocupados en operaciones diarias, pero necesitan gestionar su inventario alimenticio de forma sencilla y eficiente sin dedicar horas a tareas administrativas.
-Dueños y encargados de minimarkets que necesitan controlar la frescura de sus productos para garantizar calidad, minimizar pérdidas económicas y optimizar la rotación de stock.
-¿Dónde encaja nuestro producto en su vida o trabajo?
-Para propietarios y gerentes de restaurantes pequeños con necesidad de gestionar su inventario eficientemente: FreshSense encaja exactamente en un proceso crítico de su operación diaria. El hecho de tener una aplicación que les brinde visibilidad del estado de los alimentos, alertas de vencimiento y sugerencias de menú ahorra tiempo de inspección manual, evita desperdicios costosos, y optimiza el flujo de trabajo de cocina.
-Para dueños de minimarkets con necesidad de controlar la frescura de sus productos para garantizar calidad y minimizar pérdidas: FreshSense encaja en un proceso muy importante del negocio: el manejo y monitoreo del inventario. Con esta aplicación, el encargado tiene conocimiento preciso del estado de los productos en tiempo real. Asimismo, brinda la oportunidad de tener reportes semanales sobre rotación de inventario sin necesidad de estar revisando constantemente los estantes y refrigeradores.
-¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+* Nuestros principales riesgos son la resistencia al cambio tecnológico, la preferencia por métodos manuales, el costo percibido de la solución y la dificultad para incorporar el sistema en las actividades diarias del negocio.
 
-##### Problemas:
+* Reduciremos estos riesgos mediante una interfaz sencilla, procesos de registro rápidos, funcionalidades enfocadas en las necesidades principales del usuario y una implementación que requiera la menor cantidad posible de cambios en su rutina.
 
-El control de inventario en restaurantes pequeños y minimarkets se realiza mediante métodos manuales: inspección visual, cuadernos de registro o, en el mejor de los casos, simples spreadsheets.
-Los pequeños negocios no tienen visibilidad en tiempo real del estado de sus productos, lo que resulta en compras innecesarias, desperdicio y pérdida de márgenes de ganancia.
-La falta de automatización hace que tareas de monitoreo de inventario consuman horas valiosas que podrían dedicarse a mejorar servicio al cliente o crecimiento del negocio.
+* Sabremos que hemos tenido éxito cuando los negocios usuarios reduzcan sus pérdidas asociadas al deterioro de alimentos y utilicen regularmente la aplicación para gestionar su inventario.
 
-##### Soluciones:
+##### Business Outcomes
 
-Mostrar a propietarios y gerentes de restaurantes la facilidad y beneficio financiero inmediato que brinda FreshSense. En este caso, sería necesario incrementar anuncios y testimonios que expresen cómo FreshSense impacta de manera positiva la rentabilidad y eficiencia operativa del negocio.
-Promocionar las funcionalidades que ofrece FreshSense a través de demostraciones, casos de estudio y análisis de ROI. De esta manera, los restaurantes pequeños y minimarkets se mostrarán interesados por la solución tecnológica que puede aumentar sus ganancias.
-¿Cómo y cuándo es usado nuestro producto?
+* Reducir las pérdidas económicas ocasionadas por el deterioro de alimentos.
+* Disminuir la merma de productos perecibles.
+* Mejorar la rentabilidad de los negocios mediante una gestión eficiente del inventario.
+* Lograr la adopción y retención de usuarios mediante una solución simple y útil.
+* Generar ingresos recurrentes mediante la venta del dispositivo y suscripción premium.
+* Validar un modelo de negocio escalable para restaurantes y negocios de alimentos fríos.
 
-FreshSense es utilizada por los propietarios, gerentes y encargados que necesitan una manera de monitorear su inventario de alimentos en restaurantes pequeños y minimarkets. En el caso de los restaurantes, permite controlar el estado de los ingredientes, recibir alertas de vencimiento, y obtener sugerencias de menú basadas en productos próximos a vencer para optimizar su uso y evitar desperdicio. Por otro lado, para los minimarkets, lo utilizan porque necesitan asegurarse de que los productos estén frescos, controlar rotación de stock, y minimizar pérdidas económicas. Es utilizado a lo largo de toda la jornada operativa: al abrir el negocio, durante el inventario diario, y al cerrar para registrar lo utilizado.
+##### User Assumptions
 
-¿Qué características son importantes?
-La UI de la aplicación debe de ser clara, intuitiva y profesional para ambos segmentos objetivos. Los usuarios deben de ser capaces de utilizar el producto sin necesidad de tutoriales extensivos, enfocándose en su operación diaria.
-Las notificaciones son críticas para alertar al usuario sobre qué alimentos están cerca a su vencimiento, qué productos están agotándose, y cuándo es necesario hacer reorden para que puedan tomar decisiones operativas inmediatas y evitar interrupciones en el servicio.
-La capacidad de generar reportes automatizados es importante para que gerentes puedan analizar tendencias de desperdicio, rotación de inventario y márgenes de ganancia sin dedicar tiempo a tareas manuales.
+###### ¿Quiénes serán nuestros usuarios?
 
-¿Cómo debe verse y comportarse nuestro producto?
-El producto debe de estar activo las 24 horas del día, los 7 días a la semana debido a la importancia que significa para las operaciones diarias del negocio, incluyendo acceso móvil para consultas rápidas desde la cocina o el mostrador.
-La aplicación debe verse profesional y moderna, con paleta de colores que evoque frescura y naturaleza (tonalidades de verde y azul). Asimismo, cada color debe combinar adecuadamente para una visualización clara que facilite la lectura rápida de información crítica.
-La navegación debe permitir acceso rápido a información crítica (productos próximos a vencer, nivel bajo de stock, reportes diarios) sin necesidad de múltiples clics.
+**Nuestros usuarios principales son:**
 
-##### User Outcomes:
-Adopción de prácticas de gestión de inventario más eficientes y basadas en datos, reduciendo pérdidas económicas.
-Uso frecuente de las sugerencias de menú que provee la aplicación para optimizar uso de ingredientes y mejorar márgenes de ganancia.
-Revisión del estado de inventario de manera frecuente a través de la aplicación web y móvil durante operaciones diarias.
-Reducción significativa de acumulación de productos olvidados o vencidos en bodegas y refrigeradores.
-Mejora en la planificación de compras y reórdenes, basada en datos reales de consumo y rotación.
-Mayor confianza en la calidad de productos servidos al cliente final gracias a visibilidad mejorada del estado de ingredientes.
+* Propietarios y administradores de restaurantes que necesitan controlar sus insumos perecibles y reducir pérdidas económicas.
+* Propietarios y encargados de negocios de alimentos fríos que necesitan monitorear la conservación de sus productos y reducir mermas.
 
-##### Features Assumptions:
-Desde la cuenta de un propietario o gerente de restaurante pequeño:
-Los usuarios deben poder agregar los alimentos e ingredientes que tienen en bodega y refrigeradores, además de la fecha de vencimiento, cantidad disponible, y costo unitario. Asimismo, pueden proveer una descripción breve y categoría de dicho producto.
-Recibir notificaciones automáticas que alerten de los alimentos que están próximos a su vencimiento para que puedan incorporarlos en el menú del día o planificación de platos especiales.
-Acceder a sugerencias inteligentes de menú basadas en ingredientes disponibles y próximos a vencer, permitiendo que el chef/cocinero optimice el uso de recursos y reduzca desperdicio.
-Generar reportes semanales y mensuales que detallen rotación de inventario, productos con mayor desperdicío, márgenes de ganancia por producto, y tendencias de consumo.
-Diferentes logros u hitos que puede obtener el negocio al utilizar la aplicación (reducción de desperdicio %, eficiencia operativa, etc.). Esto permite que los usuarios se sientan motivados a mantener buenos hábitos de gestión.
-Desde la cuenta de un dueño o encargado de minimarket:
-Recibir notificaciones automáticas que les avisen de los productos que están próximos a su vencimiento para hacer reorden o promociones.
-Tener disponible información clara y en tiempo real sobre cómo se encuentra el estado del inventario por sección o categoría de productos (perecederos, bebidas, lácteos, etc.).
-Acceder a alertas de stock bajo para saber cuándo es necesario hacer reorden y evitar desabastecimiento.
-Reportes semanales y mensuales que ayuden al usuario a entender cómo va su inventario, qué productos se rotan más rápido, cuáles generan más pérdidas, y cuál es el impacto económico del desperdicio.
-Análisis de patrones de compra y demanda para optimizar futuras compras y maximizar ganancias.
+###### ¿Dónde encaja nuestro producto en su vida o trabajo?
+
+Para los restaurantes, FreshSense se integra en la gestión diaria de insumos, permitiendo conocer el estado de los productos, recibir alertas y tomar decisiones para evitar pérdidas.
+
+Para los negocios de alimentos fríos, FreshSense se integra en el proceso de almacenamiento y conservación, proporcionando información sobre las condiciones de los productos y alertando ante situaciones que puedan generar pérdidas.
+
+###### ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+
+**Problemas:**
+
+* El control del inventario y conservación puede realizarse mediante inspecciones manuales o registros poco actualizados.
+* Los usuarios pueden no detectar oportunamente condiciones que afectan la conservación de sus productos.
+* El deterioro de alimentos genera merma, costos de reposición y reducción de la rentabilidad.
+* El monitoreo manual consume tiempo durante las actividades operativas del negocio.
+
+**Soluciones:**
+
+* Implementar monitoreo de las condiciones de conservación.
+* Generar alertas ante condiciones que puedan afectar los productos.
+* Mostrar información del inventario de forma clara y accesible.
+* Generar reportes que permitan identificar pérdidas y oportunidades de mejora.
+* Facilitar decisiones preventivas para reducir la merma.
+
+###### ¿Cómo y cuándo es usado nuestro producto?
+
+FreshSense es utilizada por propietarios, administradores y encargados durante las actividades de almacenamiento, conservación y gestión del inventario. Los usuarios pueden consultar el estado de sus productos, recibir alertas y revisar información sobre pérdidas y rotación durante la jornada operativa.
+
+###### ¿Qué características son importantes?
+
+* Interfaz clara, sencilla y fácil de utilizar.
+* Monitoreo de las condiciones de conservación.
+* Alertas oportunas ante situaciones de riesgo.
+* Gestión rápida del inventario.
+* Reportes de pérdidas y rotación.
+* Acceso desde diferentes dispositivos.
+
+###### ¿Cómo debe verse y comportarse nuestro producto?
+
+FreshSense debe presentar una interfaz profesional, clara y orientada a la consulta rápida de información crítica. La navegación debe permitir acceder fácilmente al estado del inventario, alertas y reportes sin requerir múltiples pasos.
+
+La aplicación debe estar disponible durante la jornada operativa del negocio y permitir consultas desde dispositivos móviles y computadoras.
+
+##### User Outcomes
+
+* Reducción de pérdidas económicas por deterioro de alimentos.
+* Reducción de productos desperdiciados o descartados.
+* Mayor frecuencia de monitoreo del inventario.
+* Identificación oportuna de productos en riesgo.
+* Mejor planificación de compras y reposición.
+* Mayor control sobre las condiciones de conservación.
+* Mejora de la rentabilidad mediante la reducción de mermas.
+
+##### Features Assumptions
+
+**Desde la cuenta de un restaurante:**
+
+* Registrar alimentos e ingredientes, incluyendo cantidad, fecha de vencimiento y costo.
+* Recibir alertas sobre productos próximos a deteriorarse.
+* Consultar las condiciones de conservación de los productos.
+* Recibir sugerencias para aprovechar productos próximos a deteriorarse.
+* Generar reportes de rotación y pérdidas.
+
+**Desde la cuenta de un negocio de alimentos fríos:**
+
+* Registrar productos y cantidades disponibles.
+* Monitorear las condiciones de conservación.
+* Recibir alertas ante cambios que puedan afectar los productos.
+* Identificar productos próximos a deteriorarse o vencer.
+* Consultar reportes sobre pérdidas, rotación y estado del inventario.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Creemos que nuestros usuarios (propietarios y gerentes) necesitan una plataforma que les permita monitorear el estado de su inventario alimenticio de manera eficiente y provea soluciones para utilizar dichos productos antes de que venzan, optimizando rotación de stock.
-Estas necesidades se pueden resolver con una aplicación web intuitiva que brinde un inventario organizado y accesible para todo el equipo, además de un dashboard que muestre toda la información necesaria mediante gráficos, alertas automáticas y reportes de rentabilidad.
-Nuestros clientes iniciales son restaurantes pequeños y minimarkets que cuentan con bodegas y refrigeradores comerciales, y buscan una solución que les permita evitar pérdidas económicas por desperdicio, controlar y monitorear productivamente su inventario alimenticio.
-El valor #1 que un cliente requiere de nuestro servicio es que muestre la información del estado de sus productos de manera detallada, fácil de entender y accesible en tiempo real para tomar decisiones operativas inmediatas.
-El cliente también puede obtener estos beneficios adicionales como sugerencias de menú basadas en productos próximos a vencer, reportes analíticos de rotación de inventario y análisis de márgenes de ganancia por producto.
-Adquiriremos a nuestros clientes a través de una landing page que muestre cómo funciona la aplicación, qué beneficios operativos y económicos ofrece, una forma de contactarnos y cómo FreshSense es una herramienta indispensable para el manejo eficiente del inventario alimenticio y la rentabilidad de restaurantes pequeños y minimarkets. Asimismo, tendremos una estrategia de marketing digital y ventas directas B2B enfocada en los segmentos objetivos que hemos definido.
-Haremos dinero a través de suscripciones mensuales para servicios premium y funcionalidades avanzadas de análisis.
-Nuestra competencia de mercado serán aplicaciones genéricas de inventario, sistemas POS básicos, y aplicaciones simples de notas para anotaciones manuales de stock.
-Los venceremos porque ofrecemos una solución accesible, especializada para restaurantes y minimarkets, eficiente y basada en las tecnologías más recientes. Nuestro modelo de suscripción brinda más funcionalidades específicas a un costo razonable comparado con sistemas empresariales costosos que no se adaptan a negocios pequeños.
-Nuestros mayores riesgos son la preferencia por aplicaciones más básicas, la resistencia al cambio tecnológico, el deseo de mantener un inventario de manera tradicional o manual, y la dificultad de integración con sistemas existentes.
-Resolveremos esto mediante el desarrollo del producto enfocándonos en las necesidades específicas de usuarios, proveer una solución intuitiva y fácil de usar que no sobrecargue al usuario con funcionalidades complejas, ofrecer integraciones con sistemas POS populares, y brindar soporte técnico dedicado.
-Sabremos que hemos tenido éxito cuando observemos estos cambios en el comportamiento de nuestros clientes: reducción de al menos 20% en pérdidas por desperdicio de alimentos, disminución significativa de kilogramos de inventario no utilizado anualmente, y mejora medible en los márgenes de ganancia operativa de cada negocio.
-Qué otras suposiciones tenemos que, de probarse falsas, pueden causar que nuestro proyecto fracase: Suponer que nuestros segmentos objetivos (restaurantes pequeños y minimarkets) prefieren una solución tecnológica que sea fácil de acceder mediante dispositivos portátiles (celular, tablet, laptop) e integrable con sus operaciones diarias sin interrupciones.
+**Creemos que** los restaurantes y negocios de alimentos fríos necesitan una solución que les permita monitorear sus productos y detectar oportunamente condiciones que puedan generar pérdidas económicas.
+
+**Creemos que** las alertas de deterioro y las sugerencias de comercialización ayudarán a los negocios a reducir la merma de productos.
+
+**Creemos que** la carga rápida del inventario facilitará la adopción de la aplicación sin alterar significativamente las actividades diarias de los usuarios.
+
+**Creemos que** los reportes de pérdidas y rotación ayudarán a los administradores a identificar oportunidades para reducir costos y mejorar la rentabilidad.
+
+**Creemos que** una aplicación accesible desde diferentes dispositivos facilitará el monitoreo del inventario durante la operación diaria.
+
+**Sabremos que estas hipótesis son válidas cuando** los usuarios utilicen regularmente las funcionalidades de monitoreo, alertas y reportes, y se observe una reducción medible de las pérdidas económicas asociadas al deterioro de alimentos.
+
 
 #### 1.2.2.4. Lean UX Canvas
 
+A continuación se presenta el Lean UX Canvas:
+
+![Lean UX Canvas](Assets/LeanUxCanvas.jpg)
+
 ## 1.3. Segmentos objetivo
 
-Para el proyecto FreshSense se han seleccionado dos segmentos principales de usuarios a los cuales la solución aporta un valor claro y adaptado a sus necesidades específicas:
+Para el proyecto FreshSense se han seleccionado dos segmentos principales de usuarios a los cuales la solución aporta un valor adaptado a sus necesidades específicas:
 
 ##### Propietarios y Gerentes de Restaurantes Pequeños
 
-Edad: 28 a 50 años
+**Edad:** 28 a 50 años
 
-Perfil: Emprendedores con experiencia en gastronomía que operan restaurantes de capacidad pequeña a media (20-100 platos diarios).
+**Perfil:** Emprendedores que administran restaurantes pequeños y gestionan insumos perecibles para la preparación de alimentos.
 
-Estilo de vida: Dinámico, ocupado y con jornadas largas dedicadas a operaciones diarias y atención al cliente.
+**Estilo de vida:** Dinámico y enfocado en las operaciones diarias, atención al cliente y control del negocio.
 
-Uso de tecnología: Frecuente, preferentemente en dispositivos móviles para consultas rápidas durante el servicio.
+**Uso de tecnología:** Frecuente, principalmente mediante dispositivos móviles y computadoras para realizar consultas rápidas.
 
-Necesidad principal: Gestionar el inventario alimenticio de forma sencilla y eficiente sin dedicar horas a tareas administrativas, mientras se garantiza la calidad de ingredientes y se optimiza el flujo operativo diario.
+**Necesidad principal:** Controlar y conservar adecuadamente los insumos perecibles para reducir desperdicios, pérdidas económicas y costos innecesarios.
 
-Beneficios buscados: Alertas automáticas sobre vencimientos de ingredientes, visibilidad en tiempo real del estado del inventario, sugerencias de menú para optimizar uso de recursos, y reportes que demuestren el impacto económico en márgenes de ganancia.
+**Beneficios buscados:** Alertas sobre productos en riesgo de deterioro, monitoreo de las condiciones de conservación, gestión del inventario y reportes que permitan identificar pérdidas y mejorar la rentabilidad.
 
-Dueños y Encargados de Minimarkets
+##### Propietarios y Encargados de Negocios de Alimentos Fríos
 
-Edad: 30 a 55 años
+**Edad:** 30 a 55 años
 
-##### Perfil: Emprendedores que operan pequeños comercios de venta al por menor especializados en productos frescos y perecederos.
+**Perfil:** Emprendedores y encargados de negocios dedicados al almacenamiento, conservación y comercialización de productos que requieren cadena de frío.
 
-Estilo de vida: Ocupado y enfocado en operaciones diarias del negocio, atención a clientes y gestión de compras.
+**Estilo de vida:** Ocupado y enfocado en la operación diaria, supervisión de productos, atención al cliente y gestión del inventario.
 
-Uso de tecnología: Moderado a frecuente, con disposición a adoptar herramientas que mejoren la eficiencia operativa.
+**Uso de tecnología:** Moderado a frecuente, con disposición a utilizar herramientas que faciliten el monitoreo y control de sus productos.
 
-Necesidad principal: Controlar la frescura y rotación de sus productos para garantizar calidad, minimizar pérdidas económicas por desperdicio y vencimientos, y optimizar decisiones de reorden de inventario.
+**Necesidad principal:** Mantener las condiciones adecuadas de conservación para reducir el deterioro de productos, las mermas y las pérdidas económicas.
 
-Beneficios buscados: Solución económica y accesible para monitorear productos perecederos en tiempo real, alertas automáticas de vencimiento para implementar promociones o descuentos, reportes claros sobre pérdidas y rentabilidad por producto, y herramientas que simplifiquen el manejo de inventario sin complicaciones técnicas.
+**Beneficios buscados:** Monitoreo de las condiciones de conservación, alertas ante posibles riesgos, información sobre el estado del inventario y reportes que permitan identificar pérdidas y mejorar la rentabilidad del negocio.
 
 <div style="page-break-after: always;"></div>
 
