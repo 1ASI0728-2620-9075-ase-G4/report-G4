@@ -309,6 +309,16 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 ## 3.3. Impact Mapping
 
+<figure id="fig-cmap" style="margin:1.5em 0;text-align:center">
+<img src="assets/Impact map 1.png" alt="Context Map consolidado — ocho bounded contexts de FreshSense." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Impact Mapping - User Persona 1.</em></figcaption>
+</figure>
+
+<figure id="fig-cmap" style="margin:1.5em 0;text-align:center">
+<img src="assets/Impact map_2.png" alt="Context Map consolidado — ocho bounded contexts de FreshSense." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Impact Mapping - User Persona 2.</em></figcaption>
+</figure>
+
 ## 3.4. Product Backlog
 
 <div style="page-break-after: always;"></div>
