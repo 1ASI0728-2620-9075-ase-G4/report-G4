@@ -213,6 +213,59 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table border="1">
+  <tr>
+      <td style="text-align:center;">
+        <img alt="Romina Alejandra Tuesta" src="Assets/FotoRomina.png" />
+      </td>
+      <td>
+        <strong>Romina Alejandra Tuesta Marin - u202211706</strong><br>
+        Mi nombre es Romina Alejandra Tuesta Marin. Soy estudiante de la carrera de Ingeniería de Software en la UPC. Me considero una persona responsable, organizada y comprometida con el desarrollo de los proyectos en los que participo. Como integrante del equipo, busco aportar activamente mediante el trabajo colaborativo, la comunicación y el cumplimiento de los objetivos establecidos.
+      </td>
+  </tr>
+
+  <tr>
+      <td style="text-align:center;">
+        <img alt="Eduardo Cossar" src="Assets/FotoEduardo.png" />
+      </td>
+      <td>
+        <strong>Eduardo Cossar - u202312109</strong><br>
+        Mi nombre es Eduardo Cossar. Soy estudiante de la carrera de Ingeniería de Software, tengo 20 años y actualmente estoy cursando el septimo ciclo en la UPC. Me considero una persona responsable y comprometida con un gran interés por la tecnología. Como integrante de este equipo, me comprometo a brindar todo mi apoyo y participación activa para afrontar los desafíos que se presenten y dar lo mejor de mí para lograr el éxito de este proyecto.
+      </td>
+  </tr>
+
+  <tr>
+      <td style="text-align:center;">
+        <img alt="Maria Fernanda Mostajo" src="Assets/FotoMariaFernanda.png" />
+      </td>
+      <td>
+        <strong>Maria Fernanda Mostajo - u202312874</strong><br>
+        Mi nombre es Maria Fernanda Mostajo, estoy estudiando la carrera de Ingeniería de Software en la UPC, tengo conocimientos en los lenguajes de programación C++, Python, HTML, CSS, JavaScript y SQL. Además, cuento con habilidades de trabajo en equipo, el cual me permitira realizar un buen trabajo y cumplir con los objetivos planteados en el tiempo establecido.
+      </td>
+  </tr>
+
+  <tr>
+      <td style="text-align:center;">
+        <img alt="Joseph Manuel Chavez" src="Assets/.png" />
+      </td>
+      <td>
+        <strong>-</strong><br>
+        
+      </td>
+  </tr>
+
+  <tr>
+      <td style="text-align:center;">
+        <img alt="Juan Carlos Pastor" src="Assets/FotoJuanCarlos.png" />
+      </td>
+      <td>
+        <strong>-8</strong><br>
+        
+      </td>
+  </tr>
+
+</table>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
