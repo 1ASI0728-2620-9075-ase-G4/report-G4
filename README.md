@@ -252,23 +252,15 @@ La startup plantea un modelo de negocio basado en la comercialización de los di
 
   <tr>
       <td style="text-align:center;">
-        <img alt="Joseph Manuel Chavez" src="Assets/.png" />
+        <img alt="Carlos Matthew Gonzales Valverde" src="Assets/FotoCarlos.png" />
       </td>
       <td>
-        <strong>-</strong><br>
-        
+        <strong>Carlos Matthew Gonzáles Valverde - u202314130 </strong><br>
+        Mi nombre es Carlos Matthew Gonzales Valverde, soy estudiante de la carrera de Ingenieria de Software, me encuentro cursando el octavo ciclo y tengo 21 años. Me considero una persona amable y activa en el ambito tanto de los proyectos como fuera de ellos, se trabajar bajo presion y apoyo cada vez que pueda a mis compañeros, siempre busco que todo se cumpla a su medida segun las cosas que se requiera para un trabajo. Disfruto aprender ya sea de mis compañeros, siempre estoy dispuesto a aprender cosas nuevas o tambien a enseñarlas ya que me ayuda mucho en mi ambito profesional que me estoy desarrollando.
       </td>
   </tr>
 
-  <tr>
-      <td style="text-align:center;">
-        <img alt="Juan Carlos Pastor" src="Assets/FotoJuanCarlos.png" />
-      </td>
-      <td>
-        <strong>-8</strong><br>
-        
-      </td>
-  </tr>
+
 
 </table>
 
