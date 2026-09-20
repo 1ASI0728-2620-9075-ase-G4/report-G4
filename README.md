@@ -41,8 +41,11 @@
 | Apellidos y Nombres | Código |
 |:-------------------:|:------:|
 | Tuesta Marin, Romina Alejandra | U202211706 |
-
+| Cossar Sánchez, Eduardo Jose | U202312109 |
+| Mostajo Orosco, Maria Fernanda | U202312874 |
+| Gonzáles Valverde, Carlos Matthew | u202314130 |
 <br>
+
 
 **Septiembre 2026**
 
@@ -54,7 +57,7 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |:------:|:-----:|:-----|:----------------------------|
-| 1.0 | 08/09/2026 | Romina Tuesta Marin | Cargó archivos y actualizó la descripción de la Startup |
+| 1.0 | 08/09/2026 | Todos los integrantes | Se realizó los capitulos del 1-4 |
 
 <div style="page-break-after: always;"></div>
 
