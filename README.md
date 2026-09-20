@@ -14,9 +14,14 @@
 **9.º ciclo**
 
 **Nombre del curso:** Arquitecturas de Software Emergentes
+
 **Sección:** 9075
+
 **Código del curso:** : 1ASI0728 
+
+
 **Periodo:** 202620  
+
 
 **Nombre del profesor:** Wilder Aurelio Vega Calero
 
