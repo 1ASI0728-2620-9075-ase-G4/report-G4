@@ -254,6 +254,11 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 ## 3.1. To-Be Scenario Mapping
 
+<figure id="fig-cmap" style="margin:1.5em 0;text-align:center">
+<img src="Assets/To Be Scenario Mapping.png" alt="Context Map consolidado — ocho bounded contexts de FreshSense." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>To-Be Scenario Mapping.</em></figcaption>
+</figure>
+
 ## 3.2. User Stories
 
 | User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
@@ -310,12 +315,12 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 ## 3.3. Impact Mapping
 
 <figure id="fig-cmap" style="margin:1.5em 0;text-align:center">
-<img src="assets/Impact map 1.png" alt="Context Map consolidado — ocho bounded contexts de FreshSense." style="max-width:100%;height:auto"/>
+<img src="Assets/Impact map 1.png" alt="Context Map consolidado — ocho bounded contexts de FreshSense." style="max-width:100%;height:auto"/>
 <figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Impact Mapping - User Persona 1.</em></figcaption>
 </figure>
 
 <figure id="fig-cmap" style="margin:1.5em 0;text-align:center">
-<img src="assets/Impact map_2.png" alt="Context Map consolidado — ocho bounded contexts de FreshSense." style="max-width:100%;height:auto"/>
+<img src="Assets/Impact map_2.png" alt="Context Map consolidado — ocho bounded contexts de FreshSense." style="max-width:100%;height:auto"/>
 <figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Impact Mapping - User Persona 2.</em></figcaption>
 </figure>
 
