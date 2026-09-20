@@ -65,7 +65,7 @@
 
 **AV1:**
 
-![Project Report Collaboration Insights](assets/.png)
+![Project Report Collaboration Insights](Assets/.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -197,11 +197,12 @@ El curso contribuye al cumplimiento del Student Outcome ABET.
 
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|:--------------------|:--------------------|:-------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería | | |
+| Criterio especifico | Acciones realizadas | Conclusiones |
+|---|---|---|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a publico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniera.** | **Maria Fernanda Mostajo Orosco** <br> *AV1* <br> Presenta los hallazgos del analisis competitivo con claridad y precision tecnica, adaptando el lenguaje a la audiencia multidisciplinaria del proyecto. <br><br> **Eduardo Jose Cossar Sanchez** <br> *AV1* <br> Comunica efectivamente los conceptos de Domain-Driven Design y arquitectura C4, explicando la estrategia de bounded contexts de manera comprensible para stakeholders sin experiencia en DDD. <br><br> **Romina Tuesta Marin** <br> *AV1* <br> Expuso el diseño tactico de los bounded contexts, demostrando capacidad para sintetizar informacion compleja en presentaciones accesibles a diferentes niveles tecnicos. <br><br> **Carlos Matthew Gonzales Valverde** <br> *AV1* <br> Participó activamente en la organización y distribución de las responsabilidades del equipo, apoyando en las actividades de análisis, diseño y documentación del proyecto. Asimismo, coordinó con los demás integrantes para revisar los avances. <br>| Los cuatro integrantes demostraron capacidad de comunicacion oral efectiva adaptando el contenido tecnico a la audiencia, cumpliendo con el objetivo de transmitir ideas de manera clara y objetiva en un contexto de ingenieria. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingenieria.** | **Maria Fernanda Mostajo Orosco** <br> *AV1* <br> Redacta el analisis competitivo con estructura clara, utilizando tablas comparativas y un lenguaje tecnico preciso, facilitando la comprensi√≥n de estrategias diferenciadas. <br><br> **Eduardo Jose Cossar Sanchez** <br> *AV1* <br> Documentó exhaustivamente el diseño estrategico con diagramas EventStorming y Context Maps, proporcionando explicaciones complementarias que justifican cada decisi√≥n arquitectonica. <br><br> **Romina Tuesta Marin** <br> *AV1* <br> Escribia especificaciones técnicas detalladas de los bounded contexts tacticos, manteniendo coherencia terminologica y estructura jerarquica que facilita la lectura y referencia posterior. <br><br> **Carlos Matthew Gonzales Valverde** <br> *AV1* <br> Se establecieron objetivos y tareas para cada integrante, organizando las actividades de acuerdo con las prioridades del proyecto. Se mantuvo una comunicación constante para resolver dudas, compartir avances y realizar ajustes cuando fue necesario. <br>| Los cuatro miembros cumplieron con el estandar de comunicacion escrita en ingenieria, produciendo documentacion tecnica clara, estructurada y accesible a diferentes niveles de especializacion. |
 
+---
 <div style="page-break-after: always;"></div>
 
 # Capítulo I: Introducción
