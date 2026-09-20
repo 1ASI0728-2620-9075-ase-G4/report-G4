@@ -441,29 +441,567 @@ Para el proyecto FreshSense se han seleccionado dos segmentos principales de usu
 
 ## 2.1. Competidores
 
+El análisis de competidores de FreshSense se enfoca en soluciones relacionadas con el monitoreo de cadena de frío, control de condiciones ambientales, trazabilidad y supervisión de productos alimenticios perecibles. El análisis se realiza considerando los dos segmentos objetivo definidos para el proyecto:
+
+- **Segmento 1: Propietarios y Gerentes de Restaurantes Pequeños.**
+- **Segmento 2: Propietarios y Encargados de Negocios de Alimentos Fríos.**
+
+Debido a que los competidores identificados poseen un alcance empresarial y logístico mayor que el planteado inicialmente para FreshSense, se consideran principalmente **competidores indirectos y referentes tecnológicos**. Las soluciones seleccionadas son:
+
+- **Sensitech**
+- **Tive**
+- **Roambee**
+
+Estas soluciones presentan similitudes con FreshSense en el monitoreo de variables ambientales, generación de alertas y visualización de información mediante plataformas digitales. Sin embargo, se diferencian por su nivel de especialización, mercados atendidos, alcance internacional y complejidad tecnológica.
+
 ### 2.1.1. Análisis competitivo
+
+El objetivo de este análisis es responder la siguiente pregunta:
+
+> **¿Cómo puede FreshSense diferenciarse de las soluciones existentes de monitoreo de cadena de frío mediante una propuesta accesible y especializada para pequeños restaurantes y negocios de alimentos fríos, orientada a reducir pérdidas por deterioro y facilitar el control de conservación e inventario?**
+
+Los competidores seleccionados representan alternativas consolidadas dentro del mercado de monitoreo de condiciones y visibilidad de cadena de suministro.
+
+#### Competitive Analysis Landscape
+
+| Criterio | FreshSense | Sensitech | Tive | Roambee |
+|---|---|---|---|---|
+| **Tipo de competidor** | Startup analizada | Indirecto / referente | Indirecto / referente | Indirecto / referente |
+| **Overview** | Solución IoT enfocada en el monitoreo de productos perecibles mediante dispositivos que recopilan temperatura y humedad y transmiten información hacia una plataforma digital. | Empresa especializada en visibilidad y monitoreo de cadena de frío, con soluciones para almacenamiento y transporte de productos sensibles. | Plataforma de visibilidad logística en tiempo real que combina rastreadores IoT con una plataforma cloud para monitorear envíos. | Plataforma de visibilidad de cadena de suministro que combina dispositivos IoT, sensores, conectividad y análisis para monitorear mercancías y activos. |
+| **Ventaja competitiva** | Propuesta enfocada específicamente en empresas que trabajan con alimentos perecibles, con una arquitectura simplificada basada en dispositivos IoT, monitoreo de lotes, alertas y trazabilidad. | Amplio portafolio especializado en cadena de frío, experiencia empresarial y soluciones para almacenamiento y transporte. | Amplia capacidad de monitoreo multimodal y dispositivos capaces de medir múltiples variables en tiempo real. | Integración de monitoreo de condiciones, ubicación, analítica y visibilidad logística en una misma plataforma. |
+| **Valor ofrecido al cliente** | Centralizar información sobre condiciones de conservación, dispositivos, lotes y alertas para detectar desviaciones y reducir pérdidas por deterioro. | Proteger la integridad de productos mediante monitoreo continuo, alertas y visibilidad de extremo a extremo. | Detectar desviaciones durante el transporte en tiempo real para actuar antes de que el producto resulte comprometido. | Proporcionar información en tiempo real y señales relacionadas con condiciones y ubicación para mejorar la toma de decisiones logísticas. |
+| **Mercado objetivo** | Propietarios/Gerentes de Restaurantes Pequeños; Propietarios/Encargados de Negocios de Alimentos Fríos. | Alimentos, ciencias de la vida, industria y organizaciones con cadenas de suministro sensibles a temperatura. | Alimentos y bebidas, productos perecibles, farmacéutica, ciencias de la vida, bienes de alto valor y operadores logísticos. | Empresas de logística, alimentos y bebidas, farmacéutica, manufactura y organizaciones con cadenas de suministro complejas. |
+| **Estrategia de marketing** | Marketing B2B orientado a demostrar reducción de pérdidas, control de condiciones y facilidad de monitoreo. | Demostraciones comerciales, contenido especializado, casos de uso e información dirigida a industrias reguladas y cadenas de frío. | Demostraciones, pruebas de producto, contenido especializado y comunicación centrada en visibilidad logística y prevención de pérdidas. | Demostraciones, pruebas del servicio, contenido sobre supply chain y comunicación orientada a visibilidad y analítica logística. |
+| **Productos y servicios** | Dispositivo IoT con ESP32 + DHT22, Edge API, plataforma Web/Mobile, monitoreo de temperatura y humedad, lotes, dispositivos, alertas, trazabilidad y reportes. | SensiWatch Platform, TempTale, ColdStream Site y distintos sensores/registradores para monitoreo estacionario y en tránsito. | Plataforma Tive, trackers Solo Lite, Solo 5G, Solo Pro, sensores, alertas, reportes e integraciones. | Plataforma de visibilidad, dispositivos como BeeSense, monitoreo de temperatura, humedad, ubicación y eventos de transporte. |
+| **Precios y costos** | Modelo previsto basado en dispositivo IoT y servicio digital. Los precios comerciales deben validarse posteriormente con los segmentos objetivo. | No publica una lista estándar de precios; el acceso comercial se gestiona mediante contacto y demostración. | Los precios de los trackers principales no se publican de forma general y dependen del volumen y contrato. La plataforma dispone de niveles Essential, Plus y Premium. | Utiliza modelos de suscripción y planes bajo demanda definidos mediante órdenes comerciales según cantidad de dispositivos, activos o envíos. |
+| **Canales de distribución** | Landing Page, Web Application y Mobile Application. | Plataforma web, aplicación móvil y contacto comercial. | Plataforma web, integraciones/API y soluciones de seguimiento accesibles digitalmente. | Plataforma web, aplicación móvil, API y contacto comercial. |
+
+### Sensitech
+
+Sensitech ofrece soluciones de monitoreo de cadena de frío tanto para productos almacenados como transportados. Su sistema de monitoreo estacionario permite controlar temperatura y humedad en almacenes e instalaciones, consultar datos históricos y en tiempo real y generar alertas cuando las condiciones salen de los rangos establecidos.
+
+También dispone de la plataforma SensiWatch, que proporciona visibilidad de extremo a extremo de la cadena de suministro y acceso a información desde dispositivos móviles.
+
+#### SWOT - Sensitech
+
+**Fortalezas**
+
+- Amplio portafolio especializado en cadena de frío.
+- Monitoreo estacionario y durante transporte.
+- Soporte para temperatura, humedad y otras variables.
+- Alertas y datos en tiempo real.
+- Experiencia en sectores como alimentos y ciencias de la vida.
+- Plataforma Web y aplicación móvil.
+
+**Debilidades**
+
+- Solución empresarial de mayor complejidad que puede requerir procesos de implementación y contratación más extensos.
+- No ofrece precios públicos estándar para sus principales soluciones.
+- Su amplio alcance puede resultar superior a las necesidades de empresas que requieren únicamente monitoreo básico de alimentos perecibles.
+
+**Oportunidades**
+
+- Crecimiento de la digitalización en cadenas de frío.
+- Mayor necesidad de trazabilidad y reducción de pérdidas de productos sensibles.
+- Incremento de requisitos de control y cumplimiento en cadenas logísticas.
+
+**Amenazas**
+
+- Aparición de soluciones IoT de menor costo.
+- Empresas que desarrollen sistemas internos utilizando sensores y plataformas cloud.
+- Competidores especializados en soluciones más simples para sectores específicos.
+
+### Tive
+
+Tive ofrece monitoreo de cadena de frío en tiempo real utilizando dispositivos capaces de recopilar información sobre temperatura, humedad, luz, impactos y ubicación.
+
+Su plataforma permite supervisar envíos por transporte terrestre, marítimo, aéreo y ferroviario y generar alertas cuando las condiciones se encuentran fuera de los rangos establecidos.
+
+#### SWOT - Tive
+
+**Fortalezas**
+
+- Monitoreo en tiempo real de múltiples variables.
+- Seguimiento multimodal de envíos.
+- Amplia cobertura de conectividad.
+- Diversos modelos de trackers según el nivel de monitoreo requerido.
+- Alertas automáticas e historial de los envíos.
+- Integraciones mediante API y webhooks.
+
+**Debilidades**
+
+- Orientación principal hacia monitoreo de mercancías en tránsito.
+- La oferta puede resultar más compleja para organizaciones que solo necesitan monitorear instalaciones o lotes específicos.
+- Los precios de los dispositivos principales dependen de cotización y volumen.
+
+**Oportunidades**
+
+- Crecimiento del comercio y logística de productos sensibles.
+- Mayor demanda de monitoreo en tiempo real.
+- Integración con sistemas empresariales y plataformas logísticas.
+
+**Amenazas**
+
+- Competidores globales con soluciones equivalentes de seguimiento IoT.
+- Reducción del costo de sensores y conectividad que facilita la entrada de nuevas soluciones.
+- Desarrollo de plataformas de monitoreo propias por grandes operadores logísticos.
+
+### Roambee
+
+Roambee desarrolla soluciones de visibilidad de cadena de suministro mediante dispositivos IoT y servicios cloud.
+
+Sus soluciones permiten monitorear condiciones como temperatura y humedad, además de eventos relacionados con ubicación y transporte. La plataforma genera alertas y señales para apoyar la toma de decisiones durante operaciones logísticas.
+
+#### SWOT - Roambee
+
+**Fortalezas**
+
+- Combina monitoreo de condiciones y ubicación.
+- Dispositivos con múltiples sensores.
+- Plataforma orientada a visibilidad logística empresarial.
+- Integración mediante API.
+- Opciones de servicio y suscripción según necesidades de monitoreo.
+- Capacidad para trabajar con operaciones logísticas de gran escala.
+
+**Debilidades**
+
+- Solución de mayor alcance y complejidad que un sistema enfocado únicamente en conservación de alimentos.
+- Costos dependientes de contratos, dispositivos y volumen de operaciones.
+- Su propuesta está orientada a supply chain visibility de forma amplia y no exclusivamente al sector de alimentos perecibles.
+
+**Oportunidades**
+
+- Mayor adopción de IoT en transporte y logística.
+- Demanda creciente de información en tiempo real.
+- Necesidad empresarial de reducir interrupciones y pérdidas en cadenas de suministro.
+
+**Amenazas**
+
+- Alta competencia en plataformas de supply chain visibility.
+- Evolución rápida de sensores IoT y plataformas de análisis.
+- Aparición de alternativas especializadas de menor costo.
+
+### SWOT - FreshSense
+
+**Fortalezas**
+
+- Enfoque específico en productos alimenticios perecibles.
+- Integración de dispositivos IoT con una plataforma digital.
+- Monitoreo de temperatura y humedad.
+- Gestión centralizada de dispositivos y lotes.
+- Generación de alertas ante condiciones que requieren atención.
+- Arquitectura preparada para Web y Mobile.
+- Propuesta orientada a trazabilidad y reducción de pérdidas.
+
+**Debilidades**
+
+- Producto aún en etapa de desarrollo y validación.
+- Menor cantidad de variables monitoreadas frente a competidores internacionales.
+- Menor cobertura tecnológica y comercial.
+- Dependencia inicial de sensores y conectividad del dispositivo.
+- Modelo comercial y precios aún pendientes de validación con usuarios empresariales.
+
+**Oportunidades**
+
+- Digitalización de pequeños restaurantes y negocios dedicados al almacenamiento o comercialización de alimentos fríos.
+- Necesidad de reducir pérdidas provocadas por una conservación inadecuada.
+- Crecimiento de soluciones IoT accesibles.
+- Posibilidad de adaptar la solución a necesidades específicas del mercado local.
+- Incorporación futura de sensores adicionales y analítica avanzada.
+
+**Amenazas**
+
+- Presencia de competidores internacionales consolidados.
+- Reducción de precios de soluciones comerciales existentes.
+- Resistencia de algunas empresas a reemplazar procesos manuales.
+- Entrada de nuevos proveedores de soluciones IoT.
+- Dependencia de la correcta instalación y conectividad de los dispositivos.
+
+### Conclusión del análisis competitivo
+
+El análisis evidencia que FreshSense se desenvolvería en un mercado donde existen soluciones consolidadas con capacidades superiores en cobertura global, cantidad de sensores e infraestructura tecnológica.
+
+Sensitech presenta una propuesta especialmente fuerte en monitoreo de cadena de frío tanto estacionario como en tránsito; Tive destaca por el seguimiento multimodal y la captura de múltiples variables en tiempo real; y Roambee ofrece una solución amplia de visibilidad y monitoreo de cadenas de suministro.
+
+Frente a estos referentes, FreshSense no busca competir inicialmente por amplitud tecnológica. Su oportunidad de diferenciación se encuentra en adaptar el monitoreo de condiciones de conservación a una experiencia más simple y específica para **Propietarios/Gerentes de Restaurantes Pequeños** y **Propietarios/Encargados de Negocios de Alimentos Fríos**. La propuesta busca relacionar el estado de conservación con inventario, lotes, alertas e historial de condiciones, priorizando la reducción de mermas y pérdidas económicas.
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+A partir del análisis competitivo, FreshSense plantea una estrategia de diferenciación basada en especialización, simplicidad y adaptación a los segmentos objetivo.
+
+- **Especialización en alimentos perecibles:** orientar la experiencia y terminología a la conservación de insumos de restaurantes y productos almacenados o comercializados bajo refrigeración.
+
+- **Implementación progresiva:** facilitar que el negocio pueda comenzar con un número reducido de dispositivos o zonas monitoreadas y ampliar posteriormente el alcance.
+
+- **Experiencia simplificada:** concentrar la interacción en tareas relevantes para los segmentos, como verificar condiciones de conservación, controlar inventario o lotes, revisar incidencias y consultar historial.
+
+- **Adaptación al contexto de pequeños negocios:** evitar replicar la complejidad de plataformas empresariales de gran escala y priorizar una solución comprensible para responsables que combinan tareas operativas y administrativas.
+
+- **Modelo comercial flexible:** evaluar alternativas que combinen el dispositivo de monitoreo con el acceso al servicio digital, dejando la definición final de precios sujeta a validación con los segmentos objetivo.
+
+- **Alertas orientadas a la acción:** priorizar avisos que permitan detectar desviaciones de conservación y actuar antes de que se produzcan pérdidas mayores.
+
+- **Trazabilidad centralizada:** conservar el historial de condiciones e incidencias vinculadas con productos, inventario o lotes cuando corresponda al proceso del negocio.
+
+- **Evolución tecnológica gradual:** mantener la posibilidad de incorporar nuevos sensores, capacidades de conectividad y funciones analíticas conforme evolucionen las necesidades de los usuarios.
+
+Estas estrategias buscan que FreshSense se diferencie mediante una propuesta focalizada en los problemas operativos de conservación y desperdicio de alimentos de sus segmentos objetivo, en lugar de intentar replicar desde el inicio la amplitud funcional de plataformas internacionales consolidadas.
+
+
 ## 2.2. Entrevistas
+
+Las entrevistas constituyen una fuente de información para comprender problemas, necesidades y prácticas relacionadas con la conservación de alimentos perecibles. Para esta versión del informe se conservan las **seis entrevistas realizadas durante la exploración inicial del dominio**, sin modificar la identidad, cargo, respuestas ni evidencia de los participantes.
+
+Los entrevistados disponibles corresponden principalmente a responsables de logística, almacén, operaciones, calidad y cadena de frío. Por ello, sus hallazgos se utilizan como evidencia del problema transversal de conservación, monitoreo, lotes e incidencias. La interpretación de estos resultados se alinea con los segmentos objetivo definitivos del proyecto:
+
+- **Segmento 1: Propietarios y Gerentes de Restaurantes Pequeños.**
+- **Segmento 2: Propietarios y Encargados de Negocios de Alimentos Fríos.**
+
+La evidencia disponible tiene una relación más directa con el segundo segmento. Para el primer segmento, los hallazgos se utilizan únicamente cuando describen necesidades transferibles al contexto de conservación de insumos perecibles; no se atribuyen a los entrevistados características propias de un restaurante que no hayan sido registradas.
 
 ### 2.2.1. Diseño de entrevistas
 
+Las entrevistas realizadas fueron de tipo semiestructurado. La guía se orientó a conocer el contexto de trabajo de los participantes, los procesos actuales de conservación de productos perecibles, los problemas encontrados, las herramientas utilizadas y los criterios de adopción de una posible solución de monitoreo.
+
+Las preguntas principales consideradas durante la investigación fueron las siguientes:
+
+1. ¿Cuál es su cargo y qué responsabilidades tiene relacionadas con almacenamiento, conservación, calidad, transporte o comercialización de alimentos perecibles?
+2. ¿Qué tipo de productos perecibles maneja y cuáles requieren mayor control de sus condiciones de conservación?
+3. ¿Cómo monitorean actualmente variables como temperatura y humedad durante el almacenamiento o transporte?
+4. ¿Qué problemas de conservación, deterioro o ruptura de la cadena de frío se presentan con mayor frecuencia?
+5. ¿Qué consecuencias económicas, operativas o de calidad generan estas incidencias?
+6. ¿Qué herramientas utilizan actualmente para controlar las condiciones de conservación: termómetros, sensores, registradores, hojas de cálculo, sistemas de inventario u otras?
+7. ¿Con qué frecuencia revisan las condiciones de almacenamiento y qué información consideran más importante consultar?
+8. ¿Qué tan útil sería recibir alertas automáticas cuando las condiciones se encuentren fuera de los límites establecidos?
+9. ¿Cómo identifican y realizan actualmente el seguimiento de los lotes o grupos de productos?
+10. Cuando ocurre una incidencia, ¿qué tan sencillo es identificar los productos o lotes que podrían haber sido afectados?
+11. ¿Qué características debería tener una solución de monitoreo para que resulte útil y sencilla de implementar?
+12. ¿Qué factores influirían más en una decisión de adopción: costo, precisión, facilidad de uso, instalación, trazabilidad, alertas, reportes, soporte u otros?
+
+Además de las respuestas funcionales, el análisis considera características observables de los entrevistados como rol, responsabilidades, uso de herramientas digitales y principales frustraciones operativas, de modo que los hallazgos puedan alimentar los artefactos posteriores de Needfinding.
+
 ### 2.2.2. Registro de entrevistas
+
+
+##### Entrevista 1
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Carlos Mendoza Ruiz |
+| Edad | 26 años |
+| Distrito | Callao |
+| Empresa / sector | Distribución refrigerada de alimentos |
+| Cargo | Supervisor de Logística |
+| Inicio de entrevista | 00:00 |
+| Duración | 08:42 |
+| Enlace | [Ver entrevista](URL) |
+
+![Evidencia entrevista](Assets/EntrevistaS21.png)
+
+**Resumen:**  
+Carlos Mendoza trabaja como supervisor de logística en una empresa dedicada a la distribución refrigerada de alimentos. Dentro de sus funciones supervisa el almacenamiento y transporte de productos como lácteos, carnes y alimentos congelados.
+
+Explicó que actualmente realizan el control de temperatura mediante termómetros instalados en cámaras de refrigeración y registradores ubicados en algunas unidades de transporte. Parte de la información es revisada manualmente y posteriormente registrada en hojas de cálculo.
+
+Señaló que uno de los principales problemas ocurre cuando existen variaciones de temperatura durante el transporte y estas se detectan recién al finalizar el recorrido. Este tipo de incidencias puede ocasionar revisión adicional de mercadería, retrasos y, en algunos casos, pérdida de productos.
+
+Considera que recibir alertas automáticas sería especialmente útil para reaccionar antes de que una desviación genere un daño importante. Entre la información que considera prioritaria se encuentran la temperatura, humedad, ubicación del producto, identificación del lote y el historial de lecturas.
+
+También indicó que una solución como FreshSense debería ser fácil de instalar, contar con información clara y permitir revisar rápidamente qué producto o lote fue afectado. Para una eventual adopción considera importantes la precisión de los sensores, el precio y la disponibilidad de soporte técnico.
+
+
+##### Entrevista 2
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Carlos Guimaraes |
+| Edad | 27 años |
+| Distrito | Villa El Salvador |
+| Empresa / sector | Producción y almacenamiento de carnes y productos congelados |
+| Cargo | Jefe de Almacén |
+| Inicio de entrevista | 0:00 |
+| Duración | 08:36 |
+| Enlace | [Ver entrevista](https://drive.google.com/file/d/1Q8i84GD9mqFdKOLVYLR2PqdWQVT1MYik/view?usp=drive_link) |
+
+![Evidencia entrevista](Assets/1.png)
+
+**Resumen:**  
+Carlos Guimaraes se desempeña como jefe de almacén en una empresa que trabaja con carnes y productos congelados. Dentro de sus funciones se encuentra supervisar el ingreso y salida de mercadería, verificar las condiciones de las cámaras frigoríficas y coordinar el movimiento de los diferentes lotes almacenados.
+
+Explicó que los controles se realizan mediante termómetros instalados en las cámaras y verificaciones periódicas del personal. La identificación de lotes se gestiona mediante registros internos y etiquetas asociadas a cada ingreso de mercadería.
+
+Indicó que los principales problemas pueden aparecer cuando existen fallas en los equipos de refrigeración o cuando las cámaras permanecen abiertas durante demasiado tiempo. Estas situaciones pueden ocasionar incrementos temporales de temperatura que deben ser identificados rápidamente.
+
+Considera especialmente útil contar con alertas que indiquen cuándo una cámara o producto se encuentra fuera del rango permitido. También mencionó que sería importante identificar rápidamente qué lotes se encontraban almacenados durante una incidencia.
+
+Para una posible implementación, considera relevantes el costo del sistema, la facilidad de instalación, la confiabilidad de las mediciones y la disponibilidad de soporte técnico.
+
+
+##### Entrevista 3
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Daniela Vargas Medina |
+| Edad | 22 años |
+| Distrito | Lurín |
+| Empresa / sector | Comercialización y almacenamiento de frutas y vegetales |
+| Cargo | Coordinadora de Operaciones |
+| Inicio de entrevista | 00:00 |
+| Duración | 09:04 |
+| Enlace | [Ver entrevista](https://drive.google.com/file/d/1AqFpCV5FGpSXy3RIi9gN7BdsXJm4ywSU/view?usp=drive_link) |
+
+![Evidencia entrevista](Assets/4.png)
+
+**Resumen:**  
+Daniela Vargas trabaja como coordinadora de operaciones en una empresa dedicada al almacenamiento y comercialización de frutas y vegetales. Sus responsabilidades incluyen coordinar el ingreso de productos, revisar el inventario disponible y supervisar las condiciones generales de almacenamiento.
+
+Comentó que algunos controles de temperatura se realizan mediante equipos instalados en las cámaras, mientras que la revisión de humedad y estado de los productos depende en mayor medida de inspecciones realizadas por el personal.
+
+Uno de los problemas que identifica es que diferentes productos requieren condiciones distintas de conservación y no siempre resulta sencillo mantener un seguimiento constante de todos los lotes almacenados.
+
+Considera que una plataforma que permita visualizar lotes, condiciones ambientales e incidencias desde un mismo lugar ayudaría a mejorar el control de la operación. También considera útil contar con alertas configurables según el tipo de producto.
+
+Entre las funcionalidades que considera importantes destacó el historial de mediciones, los reportes, la identificación de lotes afectados y una interfaz sencilla que pueda ser utilizada tanto por responsables de operaciones como por personal de calidad.
+
+
+##### Entrevista 4
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | María Fernanda Rojas Díaz |
+| Edad | 36 años |
+| Distrito | Santa Anita |
+| Empresa / sector | Producción y comercialización de productos lácteos |
+| Cargo | Supervisora de Calidad |
+| Inicio de entrevista | 00:00 |
+| Duración | 09:18 |
+| Enlace | [Ver entrevista](https://drive.google.com/file/d/1yaP9FCvV9rKo09GO2Eu2jYF9UUS8Ujob/view?usp=drive_link) |
+
+![Evidencia entrevista](Assets/2.png)
+
+**Resumen:**  
+María Fernanda Rojas trabaja como supervisora de calidad en una empresa dedicada a la producción y comercialización de productos lácteos. Entre sus responsabilidades se encuentra verificar las condiciones de almacenamiento de productos terminados y coordinar controles relacionados con temperatura y calidad.
+
+Comentó que actualmente utilizan termómetros digitales y realizan registros periódicos de temperatura en las áreas de almacenamiento. Parte de esta información es trasladada posteriormente a hojas de cálculo para mantener evidencia de los controles realizados.
+
+Según indicó, uno de los principales problemas se presenta cuando una desviación ocurre entre dos controles manuales, debido a que puede pasar cierto tiempo antes de ser detectada. Esto puede generar revisiones adicionales del producto y, en algunos casos, la separación de lotes hasta confirmar que mantienen condiciones adecuadas.
+
+Considera que contar con información disponible en tiempo real y recibir alertas automáticas facilitaría el trabajo del área de calidad. También considera importante poder revisar el historial de temperatura y humedad correspondiente a cada lote.
+
+Entre los factores más relevantes para adoptar una solución de este tipo destacó la precisión de los sensores, la facilidad de uso, la generación de reportes y la posibilidad de acceder a información histórica.
+
+
+##### Entrevista 5
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Andrea Salazar Paredes |
+| Edad | 29 años |
+| Distrito | Ate |
+| Empresa / sector | Operador logístico de productos refrigerados |
+| Cargo | Coordinadora de Operaciones |
+| Inicio de entrevista | 00:00 |
+| Duración | 09:15 |
+| Enlace | [Ver entrevista](https://drive.google.com/file/d/1iQW9Vu0lRPL9HhDX3PIfNHNQqrBESufE/view?usp=drive_link) |
+
+![Evidencia entrevista](Assets/5.png)
+
+**Resumen:**  
+Andrea Salazar se desempeña como coordinadora de operaciones en una empresa que almacena y distribuye productos refrigerados para diferentes clientes del sector alimentario.
+
+Indicó que la empresa trabaja con cámaras de refrigeración y vehículos acondicionados para mantener determinadas temperaturas. El control se realiza mediante sensores en algunos puntos de almacenamiento y verificaciones periódicas efectuadas por el personal.
+
+Comentó que una dificultad importante es que la información de almacenamiento, transporte y lotes se encuentra distribuida entre diferentes registros. Cuando ocurre una incidencia, identificar cuándo sucedió y qué mercadería estuvo expuesta puede requerir revisar distintas fuentes de información.
+
+Para ella, una plataforma centralizada que permita relacionar dispositivos, lotes e incidencias facilitaría considerablemente el trabajo operativo. Considera especialmente importantes las alertas en tiempo real y la posibilidad de consultar un historial de temperatura y humedad.
+
+Señaló también que una solución tecnológica debería ser sencilla de utilizar por diferentes perfiles de empleados y ofrecer reportes que puedan ser revisados posteriormente. En una decisión de compra priorizaría la confiabilidad, facilidad de implementación y capacidad de generar alertas oportunas.
+
+
+##### Entrevista 6
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Javier Torres Castillo |
+| Edad | 26 años |
+| Distrito | San Luis |
+| Empresa / sector | Distribución mayorista de alimentos perecibles |
+| Cargo | Responsable de Cadena de Frío |
+| Inicio de entrevista | 00:00 |
+| Duración | 08:57 |
+| Enlace | [Ver entrevista](https://drive.google.com/file/d/1_Jg-67dLuuAXt6bTV69x12lShay-IJ0v/view?usp=drive_link) |
+
+![Evidencia entrevista](Assets/3.png)
+
+**Resumen:**  
+Javier Torres trabaja como responsable de cadena de frío en una empresa distribuidora de productos perecibles. Sus principales responsabilidades incluyen supervisar las condiciones de almacenamiento, coordinar despachos y verificar que los productos mantengan condiciones adecuadas durante su traslado.
+
+Actualmente utilizan termómetros digitales y controles manuales realizados por el personal. Algunos vehículos disponen de dispositivos capaces de registrar temperatura, aunque señaló que no toda la información se encuentra disponible en una única plataforma.
+
+Según su experiencia, las principales incidencias están relacionadas con variaciones de temperatura ocasionadas por aperturas prolongadas, problemas de refrigeración o retrasos durante la distribución. Estas situaciones pueden afectar la calidad de los productos y ocasionar devoluciones.
+
+Considera que contar con alertas automáticas y un historial asociado a cada lote ayudaría a detectar problemas más rápidamente y facilitaría la identificación de responsabilidades frente a una incidencia.
+
+Entre las características que considera indispensables mencionó facilidad de uso, precisión de las mediciones, disponibilidad de información histórica y generación de reportes. También considera importante que la solución pueda implementarse progresivamente, comenzando con determinados almacenes o vehículos antes de extenderse al resto de la operación.
+
 
 ### 2.2.3. Análisis de entrevistas
 
+#### Hallazgos generales de la evidencia disponible
+
+Los resultados registrados en las seis entrevistas muestran patrones consistentes relacionados con la conservación de alimentos perecibles. En los dos grupos originales de entrevistas, el **100 % de los participantes indicó realizar algún tipo de control de temperatura**, aunque parte del proceso continúa dependiendo de verificaciones manuales.
+
+Asimismo, en ambos grupos originales el **100 % consideró útil recibir alertas automáticas** cuando las condiciones salen de los rangos establecidos y el **100 % consideró relevante relacionar las condiciones registradas con los lotes monitoreados** para facilitar la identificación de incidencias.
+
+En el primer grupo de entrevistas, el **66.7 %** indicó utilizar sensores o registradores digitales en determinadas etapas, aunque la información no siempre se encuentra centralizada. En el segundo grupo, el **66.7 %** destacó la utilidad de disponer de reportes e historiales de mediciones.
+
+De manera transversal, los principales problemas y necesidades identificados son:
+
+- dependencia parcial de controles manuales;
+- detección tardía de variaciones de temperatura;
+- información distribuida entre diferentes registros;
+- dificultad para identificar rápidamente productos o lotes afectados;
+- necesidad de alertas oportunas;
+- necesidad de consultar historial de condiciones;
+- importancia de la facilidad de uso, precisión de las mediciones y reportes.
+
+#### Interpretación para el Segmento 1: Propietarios y Gerentes de Restaurantes Pequeños
+
+Las entrevistas disponibles no incluyen de manera directa a propietarios o gerentes de restaurantes pequeños. Por ello, para este segmento se utilizan únicamente los hallazgos que pueden trasladarse de forma razonable al manejo de insumos perecibles: controles manuales, necesidad de detectar desviaciones de conservación, importancia de actuar antes de que el producto se deteriore y necesidad de reducir pérdidas.
+
+Con base en ello, la investigación disponible permite sustentar de manera preliminar necesidades relacionadas con la **supervisión de condiciones de conservación**, el **control de inventario perecible**, la **detección oportuna de productos en riesgo** y la **reducción de mermas**. Las características específicas del flujo operativo de un restaurante deben tratarse como hipótesis del arquetipo y no como respuestas directas de los entrevistados existentes.
+
+#### Interpretación para el Segmento 2: Propietarios y Encargados de Negocios de Alimentos Fríos
+
+La evidencia disponible presenta una relación directa con este segmento, ya que varios entrevistados son responsables de almacenes, operaciones, calidad o cadena de frío en negocios que manipulan alimentos refrigerados, congelados o perecibles.
+
+Los hallazgos respaldan especialmente la necesidad de **monitorear temperatura y humedad**, **detectar desviaciones mediante alertas**, **relacionar incidencias con lotes o productos**, **consultar información histórica** y **centralizar datos que actualmente se encuentran distribuidos**. También se observa que la facilidad de implementación, la precisión de las mediciones y la disponibilidad de reportes son factores relevantes para la adopción.
+
+#### Conclusión del análisis de entrevistas
+
+La evidencia de entrevistas respalda el problema general que FreshSense busca abordar: la dificultad de mantener un control continuo y centralizado sobre las condiciones de conservación de alimentos perecibles.
+
+Para el **Segmento 2**, el sustento es directo y permite identificar patrones de comportamiento y necesidades operativas. Para el **Segmento 1**, el sustento es indirecto y se utiliza como evidencia del problema transversal de conservación de insumos; por ello, los artefactos de Needfinding correspondientes se presentan como una aproximación preliminar alineada con la definición del segmento establecida en el Capítulo I.
+
+
 ## 2.3. Needfinding
+
+El proceso de Needfinding organiza los hallazgos obtenidos durante la investigación para representar a los usuarios, las tareas que realizan en su contexto actual, sus principales preocupaciones y la forma en la que enfrentan el problema antes de utilizar FreshSense.
+
+Los artefactos de esta sección se estructuran a partir de los dos segmentos objetivo definitivos:
+
+- **Segmento 1: Propietarios y Gerentes de Restaurantes Pequeños.**
+- **Segmento 2: Propietarios y Encargados de Negocios de Alimentos Fríos.**
+
+La evidencia de entrevistas se utiliza como base para los aspectos relacionados con conservación, control, incidencias, inventario y pérdida de productos. Cuando un aspecto corresponde específicamente al entorno de restaurantes y no fue observado directamente en las entrevistas existentes, se mantiene como una hipótesis de diseño que deberá ser validada posteriormente.
 
 ### 2.3.1. User Personas
 
+Se mantienen los nombres de los User Personas ya definidos por el equipo, pero se corrige su caracterización para que cada uno represente de manera consistente uno de los segmentos objetivo establecidos en el Capítulo I.
+
+#### José Jiménez - Segmento 1: Propietarios y Gerentes de Restaurantes Pequeños
+
+José Jiménez representa al propietario o gerente de un restaurante pequeño que combina responsabilidades administrativas con la supervisión de la operación diaria. Su interés principal es mantener disponibles los insumos necesarios para preparar los productos del negocio, conservarlos en condiciones adecuadas y evitar pérdidas por deterioro o vencimiento.
+
+Dentro de su contexto de trabajo necesita revisar existencias, supervisar la conservación de ingredientes perecibles, organizar su rotación y actuar cuando identifica un producto que ya no se encuentra en condiciones adecuadas. Debido a que sus tareas se desarrollan en paralelo con la atención del negocio, valora mecanismos que reduzcan la dependencia de revisiones manuales y le permitan detectar riesgos de forma oportuna.
+
+Sus principales objetivos son reducir mermas, mantener la calidad de los insumos, evitar compras innecesarias y disponer de información suficiente para tomar decisiones sobre uso, descarte o reposición de productos.
+
+![User Persona - José Jiménez](Assets/user-persona-jose.png)
+
+#### Luisa Pérez - Segmento 2: Propietarios y Encargados de Negocios de Alimentos Fríos
+
+Luisa Pérez representa a la propietaria o encargada de un negocio que almacena o comercializa alimentos que requieren refrigeración o congelación. Su trabajo exige supervisar las condiciones de conservación, controlar el inventario disponible y reaccionar ante variaciones que puedan comprometer la calidad del producto.
+
+Su principal preocupación es evitar pérdidas ocasionadas por fallas de refrigeración, productos próximos a vencer o incidencias que no sean detectadas a tiempo. Necesita identificar los productos o lotes afectados, mantener una rotación adecuada y contar con información histórica cuando debe revisar una incidencia.
+
+Sus principales objetivos son mantener la cadena de frío, reducir mermas, conservar la calidad de los productos y mejorar el control operativo del negocio.
+
+![User Persona - Luisa Pérez](Assets/user-persona-luisa.png)
+
 ### 2.3.2. User Task Matrix
+
+La siguiente matriz representa las tareas que los User Personas realizan para alcanzar sus objetivos **independientemente de la existencia de FreshSense**. Por ello, las tareas se expresan como actividades del negocio y no como funcionalidades de una aplicación.
+
+Dado que la evidencia directa para el Segmento 1 es limitada, la matriz se presenta como una versión preliminar construida a partir de la definición de los segmentos y de los hallazgos transversales de las entrevistas.
+
+| Tarea | José Jiménez - Frecuencia | José Jiménez - Importancia | Luisa Pérez - Frecuencia | Luisa Pérez - Importancia |
+|---|---|---|---|---|
+| Verificar las condiciones de conservación de los alimentos | Siempre | Muy alta | Siempre | Muy alta |
+| Identificar productos próximos a vencer o deteriorarse | Casi siempre | Muy alta | Casi siempre | Muy alta |
+| Registrar o revisar entradas y salidas de productos | Casi siempre | Alta | Siempre | Muy alta |
+| Organizar la rotación del inventario | Casi siempre | Alta | Siempre | Muy alta |
+| Revisar el funcionamiento de los equipos de refrigeración | Casi siempre | Muy alta | Siempre | Muy alta |
+| Identificar productos o lotes afectados por una incidencia | A veces | Muy alta | Casi siempre | Muy alta |
+| Revisar mermas y pérdidas de productos | A veces | Alta | Casi siempre | Alta |
+| Planificar reposición o compra de productos | Casi siempre | Alta | Casi siempre | Alta |
+
+El análisis muestra que ambos perfiles comparten tareas críticas relacionadas con la conservación, control de existencias y reducción de pérdidas. En José, estas tareas se integran con la operación diaria de un restaurante pequeño, donde los insumos se consumen continuamente para la preparación de alimentos. En Luisa, la prioridad se concentra en mantener condiciones estables de refrigeración, controlar la rotación y responder ante incidencias que puedan comprometer productos almacenados o comercializados.
+
+La mayor coincidencia entre ambos perfiles se encuentra en la verificación de las condiciones de conservación y la detección oportuna de productos en riesgo. La principal diferencia está en que el segundo segmento requiere un énfasis mayor en el seguimiento de productos o lotes bajo cadena de frío.
 
 ### 2.3.3. Empathy Mapping
 
+Los Empathy Maps se elaboran para representar la perspectiva de cada User Persona mediante sus preocupaciones, acciones, pensamientos, observaciones, pains y gains. La versión gráfica deberá elaborarse en la herramienta indicada para el curso y mantenerse consistente con las características definidas en esta sección.
+
+#### Empathy Map - José Jiménez
+
+El mapa de empatía de José refleja a un propietario o gerente de restaurante pequeño que necesita mantener la calidad de sus insumos mientras atiende múltiples responsabilidades operativas. Entre sus principales preocupaciones se encuentran el deterioro de alimentos, las pérdidas económicas, la falta de tiempo para revisar constantemente el inventario y la necesidad de disponer de ingredientes en condiciones adecuadas durante la jornada.
+
+Como principales **pains** se consideran las revisiones manuales, el riesgo de descubrir demasiado tarde un producto deteriorado, las compras innecesarias y las mermas. Como **gains**, busca mayor control sobre sus insumos, reducción de pérdidas, información oportuna y una operación más ordenada.
+
+![Empathy Map - José Jiménez](Assets/empathy-map-jose.png)
+
+#### Empathy Map - Luisa Pérez
+
+El mapa de empatía de Luisa representa a una propietaria o encargada de un negocio de alimentos fríos que necesita garantizar condiciones adecuadas de refrigeración y conservar el valor comercial de sus productos.
+
+Sus principales preocupaciones se relacionan con variaciones de temperatura, fallas de refrigeración, pérdida de mercadería y dificultad para determinar qué productos fueron afectados durante una incidencia. Como **pains** se consideran la dependencia de controles manuales, información dispersa y detección tardía de problemas. Como **gains**, busca una mejor supervisión de la conservación, trazabilidad de incidencias, reducción de mermas y mayor confianza sobre el estado de sus productos.
+
+![Empathy Map - Luisa Pérez](Assets/empathy-map-luisa.png)
+
 ### 2.3.4. As-is Scenario Mapping
 
+Los As-Is Scenario Maps representan cómo los usuarios realizan actualmente sus actividades antes de incorporar FreshSense. Para cada User Persona se consideran las filas **Phases, Doing, Thinking y Feeling**, con énfasis en los puntos de fricción existentes.
+
+#### As-Is Scenario Map - José Jiménez
+
+![As-Is Scenario Map - José Jiménez](Assets/as-is-jose.png)
+
+**Áreas negativas identificadas:** dependencia de revisiones manuales, dificultad para mantener seguimiento continuo, riesgo de detectar tarde el deterioro y poca visibilidad consolidada sobre las mermas.
+
+
+#### As-Is Scenario Map - Luisa Pérez
+
+![As-Is Scenario Map - Luisa Pérez](Assets/as-is-luisa.png)
+
+**Áreas negativas identificadas:** información distribuida, controles manuales, detección tardía de desviaciones, dificultad para relacionar una incidencia con productos o lotes específicos.
+
+
+
 ## 2.4. Ubiquitous Language
+
+El Ubiquitous Language de FreshSense reúne términos propios del dominio de conservación, manejo e inventario de alimentos perecibles. Se excluyen términos puramente técnicos de desarrollo de software para mantener un lenguaje común entre el equipo y los stakeholders del negocio.
+
+| Ubiquitous Term | Definición |
+|---|---|
+| **Perishable Food** | Alimento cuya calidad o aptitud para consumo puede disminuir en un periodo relativamente corto si no se mantiene bajo condiciones adecuadas de conservación. |
+| **Food Waste** | Pérdida o descarte de alimentos o insumos que ya no pueden ser utilizados o comercializados debido a vencimiento, deterioro, mala rotación o conservación inadecuada. |
+| **Food Inventory** | Conjunto organizado de alimentos e insumos disponibles dentro del negocio, considerando cantidades, fechas, ubicación y estado. |
+| **Food Condition** | Estado de conservación de un alimento o producto en función de su frescura, integridad y condiciones de almacenamiento. |
+| **Expiration Date** | Fecha a partir de la cual un producto deja de encontrarse dentro del periodo establecido para su consumo o comercialización. |
+| **Shelf Life** | Periodo durante el cual un alimento conserva las condiciones esperadas de calidad bajo condiciones adecuadas de almacenamiento. |
+| **Cold Chain** | Conjunto de condiciones y actividades destinadas a mantener productos refrigerados o congelados dentro de rangos adecuados durante su almacenamiento, manipulación o traslado. |
+| **Cold Storage** | Almacenamiento de productos en equipos o ambientes refrigerados o congelados para conservar sus condiciones. |
+| **Temperature Excursion** | Situación en la que la temperatura de conservación se desvía del rango establecido durante un periodo determinado. |
+| **Batch / Lot** | Grupo identificable de productos que comparten un origen, ingreso, producción o condición de manejo y que puede ser seguido de manera conjunta. |
+| **Stock Rotation** | Práctica de organizar el uso, venta o despacho de productos para reducir vencimientos y pérdidas. |
+| **FIFO (First In, First Out)** | Criterio de rotación mediante el cual los productos que ingresaron primero son utilizados, vendidos o despachados antes que los de ingreso posterior. |
+| **Spoilage** | Deterioro de un alimento que provoca pérdida de calidad o impide su uso o comercialización. |
+| **Merma** | Disminución del inventario utilizable o comercializable debido a deterioro, vencimiento, manipulación, conservación inadecuada u otras pérdidas operativas. |
+| **Refrigeration Equipment** | Equipo utilizado por el negocio para mantener alimentos bajo condiciones de refrigeración o congelación. |
+| **Conservation Condition** | Condición ambiental o de almacenamiento que influye en el mantenimiento adecuado del producto, como temperatura o humedad. |
+
 
 <div style="page-break-after: always;"></div>
 
