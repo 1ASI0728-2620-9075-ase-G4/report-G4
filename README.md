@@ -185,10 +185,14 @@ El curso contribuye al cumplimiento del Student Outcome ABET.
 
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|:--------------------|:--------------------|:-------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería | | |
+| Criterio espec√≠fico | Acciones realizadas | Conclusiones |
+|---|---|---|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a publico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniera.** | **Maria Fernanda Mostajo Orosco** <br> *AV1* <br> Presenta los hallazgos del analisis competitivo con claridad y precision tecnica, adaptando el lenguaje a la audiencia multidisciplinaria del proyecto. <br><br> **Eduardo Jose Cossar Sanchez** <br> *AV1* <br> Comunic√≥ efectivamente los conceptos de Domain-Driven Design y arquitectura C4, explicando la estrategia de bounded contexts de manera comprensible para stakeholders sin experiencia en DDD. <br><br> **Ivan Jeanpierre La Madrid Lozano** <br> *AV1* <br> Expuso el diseño tactico de los bounded contexts, demostrando capacidad para sintetizar informacion compleja en presentaciones accesibles a diferentes niveles tecnicos. | Los tres integrantes demostraron capacidad de comunicacion oral efectiva adaptando el contenido tecnico a la audiencia, cumpliendo con el objetivo de transmitir ideas de manera clara y objetiva en un contexto de ingenieria. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a p√∫blico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingenieria.** | **Maria Fernanda Mostajo Orosco** <br> *AV1* <br> Redacta el analisis competitivo con estructura clara, utilizando tablas comparativas y un lenguaje tecnico preciso, facilitando la comprensi√≥n de estrategias diferenciadas. <br><br> **Eduardo Jose Cossar Sanchez** <br> *AV1* <br> Documentó exhaustivamente el diseño estrategico con diagramas EventStorming y Context Maps, proporcionando explicaciones complementarias que justifican cada decisi√≥n arquitectonica. <br><br> **Ivan Jeanpierre La Madrid Lozano** <br> *AV1* <br> Escribia especificaciones técnicas detalladas de los bounded contexts tacticos, manteniendo coherencia terminologica y estructura jerarquica que facilita la lectura y referencia posterior. | Los tres miembros cumplieron con el estandar de comunicacion escrita en ingenieria, produciendo documentacion tecnica clara, estructurada y accesible a diferentes niveles de especializacion. |
+
+---
+
+
 
 <div style="page-break-after: always;"></div>
 
