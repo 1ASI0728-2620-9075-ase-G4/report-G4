@@ -65,7 +65,7 @@
 
 **AV1:**
 
-![Project Report Collaboration Insights](Assets/.png)
+![Project Report Collaboration Insights](Assets/Colaboracion.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -222,7 +222,7 @@ La startup plantea un modelo de negocio basado en la comercialización de los di
 <table border="1">
   <tr>
       <td style="text-align:center;">
-        <img alt="Romina Alejandra Tuesta" src="Assets/FotoRomina.png" />
+        <img alt="Romina Alejandra Tuesta" src="Assets/foto_romina.jpeg" />
       </td>
       <td>
         <strong>Romina Alejandra Tuesta Marin - u202211706</strong><br>
