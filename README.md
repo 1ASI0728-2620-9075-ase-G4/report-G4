@@ -321,6 +321,47 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 ## 3.4. Product Backlog
 
+El Product Backlog de FreshSense reúne y prioriza las User Stories y Technical Stories definidas para la solución. 
+Para la estimación relativa se utiliza la escala de Fibonacci de 1, 2, 3, 5 y 8 Story Points.
+
+| # Orden | User Story Id | Título | Descripción | Story Points |
+|---:|---|---|---|---:|
+| **1** | **US01** | Visualización de la propuesta de valor | Como visitante representante de un restaurante pequeño o negocio de alimentos fríos, deseo conocer la propuesta de valor de FreshSense para evaluar cómo puede ayudar a reducir las pérdidas ocasionadas por el deterioro de productos perecibles. | **2** |
+| **2** | **US02** | Información según segmento objetivo | Como visitante representante de un restaurante pequeño o negocio de alimentos fríos, deseo consultar información relacionada con mi tipo de negocio para comprender cómo FreshSense puede atender mis necesidades particulares. | **3** |
+| **3** | **US03** | Solicitud de contacto y demostración | Como visitante interesado en FreshSense, deseo enviar una solicitud de contacto para coordinar una demostración y obtener mayor información sobre la solución. | **3** |
+| **4** | **US04** | Solicitud de demostración comercial | Como visitante interesado en adoptar FreshSense, deseo iniciar una solicitud de demostración para evaluar la solución antes de incorporarla a mi negocio. | **2** |
+| **5** | **US06** | Monitoreo IoT de condiciones de conservación | Como encargado de un restaurante o negocio de alimentos fríos, deseo monitorear continuamente la temperatura y humedad de las zonas de conservación para detectar condiciones que puedan ocasionar el deterioro de los productos. | **8** |
+| **6** | **TS41** | API de ingesta de telemetría IoT | Como Developer, deseo disponer de un servicio de ingesta para recibir de manera segura las mediciones de temperatura y humedad enviadas por los dispositivos FreshSense para almacenarlas y procesarlas dentro de la plataforma. | **8** |
+| **7** | **US23** | Vinculación de dispositivos FreshSense | Como encargado de un negocio, deseo vincular cada dispositivo FreshSense con la zona de conservación correspondiente para identificar el origen de las mediciones recibidas. | **5** |
+| **8** | **US24** | Gestión de zonas de conservación | Como propietario o encargado de un negocio, deseo registrar y organizar las diferentes zonas de conservación para monitorear independientemente las condiciones de cada una. | **5** |
+| **9** | **US08** | Alertas preventivas de conservación | Como encargado de un restaurante o negocio de alimentos fríos, deseo recibir alertas cuando las condiciones de conservación se encuentren fuera de los rangos establecidos para actuar antes de que los productos resulten afectados. | **5** |
+| **10** | **TS42** | Servicio de procesamiento de notificaciones | Como Developer, deseo disponer de un servicio encargado de procesar y distribuir las alertas generadas por FreshSense para notificar oportunamente a los responsables configurados. | **8** |
+| **11** | **US10** | Registro de productos e insumos | Como encargado del inventario, deseo registrar productos o insumos de manera rápida para mantener actualizado el inventario sin afectar las actividades diarias del negocio. | **5** |
+| **12** | **US11** | Actualización del inventario | Como encargado del inventario, deseo actualizar las cantidades disponibles de los productos para mantener información confiable sobre las existencias del negocio. | **3** |
+| **13** | **US07** | Estado de conservación de productos | Como propietario, gerente o encargado de un negocio, deseo consultar el estado de conservación de los productos para identificar aquellos que presentan mayor riesgo de deterioro. | **5** |
+| **14** | **US13** | Priorización de productos próximos a deteriorarse | Como propietario o gerente de un restaurante pequeño, deseo identificar los insumos próximos a deteriorarse o vencer para priorizar su aprovechamiento y reducir el desperdicio. | **5** |
+| **15** | **US14** | Filtrado de productos y lotes | Como encargado del inventario, deseo filtrar los productos por zona de conservación, lote, categoría y fecha de vencimiento para localizar rápidamente aquellos que requieren atención. | **3** |
+| **16** | **US30** | Búsqueda de productos y lotes | Como encargado del inventario, deseo buscar productos y lotes registrados para localizar rápidamente su información y zona de almacenamiento. | **3** |
+| **17** | **US20** | Categorización de productos y zonas | Como encargado del inventario, deseo crear categorías personalizadas para organizar los productos y zonas de conservación de acuerdo con las necesidades del negocio. | **3** |
+| **18** | **US25** | Registro de causas de merma | Como encargado o responsable del negocio, deseo registrar la causa asociada con el descarte de un producto para analizar posteriormente los principales motivos de las mermas. | **3** |
+| **19** | **US12** | Reporte de mermas y pérdidas | Como propietario o gerente de un negocio, deseo consultar reportes periódicos de productos descartados y pérdidas económicas para identificar oportunidades de reducción de mermas. | **5** |
+| **20** | **US21** | Historial de inventario y mermas | Como propietario, encargado o responsable administrativo, deseo consultar y exportar el historial de productos, lotes y mermas para analizar incidencias y mantener evidencia de las operaciones realizadas. | **5** |
+| **21** | **US17** | Análisis de rotación de inventario | Como propietario o gerente de un negocio, deseo analizar la rotación de mis productos para mejorar las decisiones relacionadas con compra, reposición y utilización del inventario. | **5** |
+| **22** | **US18** | Impacto económico de las pérdidas evitadas | Como propietario o gerente de un negocio, deseo consultar una estimación del valor económico asociado con los productos que evitaron convertirse en merma para evaluar los beneficios obtenidos mediante una mejor gestión del inventario. | **5** |
+| **23** | **US22** | Sugerencias de reposición de inventario | Como responsable de compras o inventario, deseo recibir sugerencias de reposición basadas en el comportamiento histórico de los productos para reducir el sobrestock y las pérdidas. | **8** |
+| **24** | **US09** | Configuración de alertas | Como administrador del negocio, deseo configurar las preferencias y responsables de las alertas para asegurar que las incidencias sean comunicadas a las personas correspondientes. | **5** |
+| **25** | **US19** | Asignación de responsables de alertas | Como administrador del negocio, deseo asignar responsables para las alertas críticas para asegurar que las incidencias sean atendidas por las personas correspondientes. | **3** |
+| **26** | **US05** | Acceso desde diferentes dispositivos | Como propietario, gerente o encargado de un negocio, deseo acceder a FreshSense desde computadoras, tablets y dispositivos móviles para consultar la información de mis productos durante la operación diaria. | **5** |
+| **27** | **US16** | Experiencia accesible para entornos operativos | Como colaborador de un restaurante o negocio de alimentos fríos, deseo utilizar una experiencia clara y accesible para realizar mis actividades de manera sencilla durante la operación diaria. | **5** |
+| **28** | **US15** | Inducción de nuevos colaboradores | Como administrador del negocio, deseo que los nuevos colaboradores dispongan de una guía inicial de uso para facilitar la adopción de FreshSense. | **3** |
+| **29** | **US28** | Gestión de colaboradores | Como propietario o gerente de un negocio, deseo incorporar colaboradores a FreshSense para que puedan realizar las actividades correspondientes a sus responsabilidades. | **5** |
+| **30** | **US27** | Administración de usuarios y roles | Como administrador del negocio, deseo gestionar los roles y permisos de los colaboradores para controlar las funcionalidades a las que puede acceder cada usuario. | **5** |
+| **31** | **TS43** | Servicio de autenticación y autorización basada en roles | Como Developer, deseo implementar mecanismos de autenticación y autorización basada en roles para proteger los recursos de FreshSense y limitar las operaciones de acuerdo con los permisos de cada usuario. | **8** |
+| **32** | **US26** | Recuperación de contraseña | Como colaborador registrado, deseo recuperar el acceso a mi cuenta cuando olvide mi contraseña para continuar utilizando FreshSense de manera segura. | **3** |
+| **33** | **US29** | Consulta de facturación | Como responsable administrativo del negocio, deseo consultar los comprobantes asociados con la suscripción de FreshSense para mantener el control de los gastos relacionados con el servicio. | **5** |
+| **34** | **TS44** | Integración de pagos y suscripciones | Como Developer, deseo integrar un servicio de procesamiento de pagos recurrentes para actualizar automáticamente el estado de las suscripciones contratadas por los negocios. | **8** |
+| **35** | **TS45** | Optimización de consultas frecuentes | Como Developer, deseo implementar un mecanismo de almacenamiento temporal para optimizar las consultas frecuentes de inventario y productos sin comprometer la consistencia de la información. | **5** |
+
 <div style="page-break-after: always;"></div>
 
 # Capítulo IV: Strategic-Level Software Design
