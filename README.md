@@ -525,6 +525,52 @@ La arquitectura considera el Landing Page, la aplicación web, la aplicación m�
 
 ### 6.2.2. Labeling Systems
 
+El sistema de etiquetado de FreshSense utiliza términos breves, consistentes y fáciles de reconocer.
+
+Se evita mostrar terminología técnica relacionada con la implementación cuando no aporta valor directo al usuario.
+
+#### Landing Page
+
+| Label | Propósito |
+|---|---|
+| `Home` | Regresar al inicio. |
+| `Solution` | Presentar la solución FreshSense. |
+| `How It Works` | Explicar el funcionamiento general del sistema. |
+| `Benefits` | Presentar los principales beneficios. |
+| `For Cold Chain` | Información dirigida a empresas de distribución y cadena de frío. |
+| `For Producers` | Información dirigida a productores y comercializadores. |
+| `Contact` | Presentar los medios de contacto. |
+| `Sign In` | Acceder a la plataforma. |
+| `Get Started` | Iniciar el proceso de acceso o registro. |
+
+#### Web and Mobile Applications
+
+| Label | Información asociada |
+|---|---|
+| `Dashboard` | Resumen general del sistema e indicadores principales. |
+| `Monitoring` | Visualización de las condiciones registradas por los dispositivos. |
+| `Inventory` | Información de los productos registrados. |
+| `Lots` | Gestión y seguimiento de lotes. |
+| `Devices` | Gestión de dispositivos IoT asociados. |
+| `Alerts` | Eventos o desviaciones que requieren atención. |
+| `Traceability` | Historial de eventos y condiciones asociadas a productos o lotes. |
+| `Reports` | Información consolidada y resultados de monitoreo. |
+
+#### IoT Monitoring
+
+| Label | Información asociada |
+|---|---|
+| `Device` | Dispositivo IoT registrado. |
+| `Device ID` | Identificador único del dispositivo. |
+| `Connected` | Dispositivo comunicándose correctamente. |
+| `Disconnected` | Dispositivo sin comunicación con el sistema. |
+| `Temperature` | Temperatura obtenida mediante el sensor. |
+| `Humidity` | Humedad obtenida mediante el sensor. |
+| `Last Reading` | Fecha y hora de la lectura más reciente. |
+| `Monitoring Status` | Estado actual del proceso de monitoreo. |
+
+Las etiquetas se mantendrán equivalentes entre las experiencias Web y Mobile para evitar que un mismo concepto tenga diferentes nombres dependiendo de la plataforma.
+
 ### 6.2.3. Searching Systems
 
 ### 6.2.4. SEO Tags and Meta Tags
