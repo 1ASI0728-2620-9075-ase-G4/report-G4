@@ -687,7 +687,71 @@ En caso de publicación de la aplicación móvil mediante un App Store, se utili
 
 ### 6.2.5. Navigation Systems
 
+La navegación de FreshSense busca mantener recorridos simples y consistentes entre el Landing Page y las diferentes aplicaciones.
+
+#### Landing Page - Desktop
+
+La versión Desktop utilizará una barra de navegación superior con acceso a las principales secciones:
+
+`Home | Solution | How It Works | Benefits | For Cold Chain | For Producers | Contact`
+
+Además, se mostrarán las principales acciones:
+
+`Sign In | Get Started`
+
+Los Call-to-Action permitirán dirigir a los usuarios hacia el acceso a la plataforma o hacia información específica relacionada con su segmento.
+
+#### Landing Page - Mobile
+
+En pantallas móviles, las mismas opciones estarán agrupadas en un menú compacto para reducir el espacio utilizado y priorizar el contenido principal.
+
+El orden y significado de las secciones serán equivalentes a los utilizados en Desktop.
+
+#### Web Application
+
+Una vez autenticado, el usuario tendrá acceso a los principales módulos de FreshSense:
+
+`Dashboard | Monitoring | Inventory | Lots | Devices | Alerts | Traceability | Reports`
+
+El **Dashboard** funcionará como punto inicial de la experiencia y permitirá visualizar información relevante como:
+
+- Estado general del monitoreo.
+- Dispositivos conectados.
+- Alertas activas.
+- Lecturas recientes.
+- Lotes que requieren atención.
+
+#### Mobile Application
+
+La navegación móvil priorizará las funcionalidades que requieren consulta frecuente:
+
+- Dashboard.
+- Monitoring.
+- Alerts.
+- Devices.
+- Lots.
+
+Las funcionalidades complementarias, como Inventory, Traceability y Reports, permanecerán disponibles desde la navegación secundaria.
+
+#### IoT Device Navigation
+
+La interacción con los dispositivos IoT se realiza principalmente mediante las aplicaciones Web y Mobile.
+
+El recorrido principal será:
+
+`Devices → Select Device → Monitoring → Reading Details`
+
+Para el seguimiento de productos, se utilizará:
+
+`Lots → Select Lot → Traceability → Event Details`
+
+Desde estas vistas, el usuario podrá conocer el estado de conexión de los dispositivos, consultar las mediciones de temperatura y humedad y revisar los eventos asociados al monitoreo de cada lote.
+
+Esta organización evita que el usuario necesite interactuar directamente con componentes técnicos como el ESP32 o el sensor DHT22 para utilizar las funciones principales de FreshSense.
+
 ## 6.3. Landing Page UI Design
+
+
 
 ### 6.3.1. Landing Page Wireframe
 
