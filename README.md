@@ -514,6 +514,15 @@ La estructura visual, las etiquetas y los componentes mantendrán consistencia e
 
 ## 6.2. Information Architecture
 
+La arquitectura de información de FreshSense está diseñada para que los visitantes y usuarios puedan comprender rápidamente la propuesta del producto y acceder a información relacionada con monitoreo, dispositivos, productos perecibles, alertas y trazabilidad sin recorrer estructuras complejas.
+
+La organización considera las necesidades de los dos segmentos principales:
+
+- **Empresas de distribución y cadena de frío:** organizaciones encargadas del transporte, distribución o almacenamiento de productos perecibles que requieren supervisar continuamente las condiciones de conservación.
+- **Empresas productoras y comercializadoras de alimentos perecibles:** organizaciones que producen, almacenan o comercializan alimentos y necesitan controlar las condiciones de sus productos y reducir pérdidas asociadas al deterioro.
+
+La arquitectura considera el Landing Page, la aplicación web, la aplicación móvil y las funcionalidades asociadas al monitoreo mediante dispositivos IoT.
+
 ### 6.2.2. Labeling Systems
 
 ### 6.2.3. Searching Systems
