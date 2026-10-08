@@ -573,6 +573,85 @@ Las etiquetas se mantendrán equivalentes entre las experiencias Web y Mobile pa
 
 ### 6.2.3. Searching Systems
 
+El sistema de búsqueda se concentra principalmente en las aplicaciones Web y Mobile, donde el volumen de información puede aumentar debido al registro de dispositivos, lotes, productos, lecturas y alertas.
+
+El Landing Page no requiere un buscador interno debido a que su contenido está organizado en un número reducido de secciones accesibles mediante navegación directa.
+
+#### Lots Search
+
+El usuario podrá buscar lotes mediante:
+
+- Lot ID.
+- Producto.
+- Ubicación.
+
+Los resultados podrán filtrarse según:
+
+- Monitoring Status.
+- Fecha.
+- Ubicación.
+- Producto.
+
+Cada resultado mostrará información relevante del lote y su estado actual.
+
+#### Device Search
+
+Los dispositivos podrán buscarse mediante:
+
+- Device ID.
+- Ubicación.
+
+Los resultados podrán filtrarse según:
+
+- Connected.
+- Disconnected.
+- Fecha de última lectura.
+
+Cada resultado mostrará como mínimo:
+
+- Device ID.
+- Connection Status.
+- Temperature.
+- Humidity.
+- Last Reading.
+
+#### Monitoring Search
+
+La información de monitoreo podrá consultarse utilizando:
+
+- Device.
+- Lot.
+- Rango de fechas.
+- Ubicación.
+
+Los resultados mostrarán las principales mediciones registradas durante el período seleccionado.
+
+#### Alerts Search
+
+Las alertas podrán filtrarse según:
+
+- Estado.
+- Severidad.
+- Fecha.
+- Tipo de evento.
+- Device.
+- Lot.
+
+Por defecto, se mostrarán primero las alertas más recientes y aquellas que requieran mayor atención.
+
+#### Traceability Search
+
+La información de trazabilidad podrá consultarse mediante:
+
+- Lot ID.
+- Producto.
+- Device.
+- Período.
+
+Los resultados se mostrarán cronológicamente para facilitar la revisión de los eventos registrados durante el almacenamiento o distribución del producto.
+
+Cuando una búsqueda no presente coincidencias, la interfaz mostrará un mensaje claro y permitirá modificar o eliminar los filtros aplicados.
+
 ### 6.2.4. SEO Tags and Meta Tags
 
 ### 6.2.5. Navigation Systems
