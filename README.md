@@ -853,6 +853,14 @@ Ahora representamos los User Flow Diagrams de la aplicación web FreshSense, los
 
 ## 6.5. Applications Prototyping
 
+Para validar la navegación y la interacción de los usuarios con FreshSense se desarrolló un prototipo interactivo de la aplicación. Este prototipo permite recorrer las principales vistas y funcionalidades definidas durante el proceso de diseño UX/UI, simulando el comportamiento esperado de la solución antes de su implementación completa.
+
+El prototipo facilita la validación de los flujos de navegación, la organización de las pantallas y las interacciones entre las diferentes funcionalidades de la aplicación.
+
+El prototipo interactivo de FreshSense puede consultarse en el siguiente enlace:
+
+[Prototipo interactivo de FreshSense en Figma](https://www.figma.com/proto/WMu6m6D3rPs3AI4HYKKbNJ/WireFrames-LandingPage?node-id=159-1605&p=f&t=tnVLge8rsFfHhU1S-1&scaling=min-zoom&content-scaling=fixed&page-id=159%3A1603)
+
 <div style="page-break-after: always;"></div>
 
 # Capítulo VII: Product Implementation, Validation & Deployment
