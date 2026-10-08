@@ -654,6 +654,37 @@ Cuando una búsqueda no presente coincidencias, la interfaz mostrará un mensaje
 
 ### 6.2.4. SEO Tags and Meta Tags
 
+FreshSense utilizará SEO Tags y Meta Tags para representar adecuadamente el contenido del Landing Page y de la aplicación web.
+
+#### Landing Page
+
+| Element | Value |
+|---|---|
+| **Title** | `FreshSense | Smart Cold Chain Monitoring for Perishable Foods` |
+| **Description** | `FreshSense helps companies monitor temperature and humidity conditions during the storage and distribution of perishable food products using IoT technology.` |
+| **Keywords** | `cold chain monitoring, perishable food, IoT monitoring, temperature monitoring, humidity monitoring, food traceability, cold storage` |
+| **Author** | `FreshSense Team` |
+
+#### Web Application
+
+| Element | Value |
+|---|---|
+| **Title** | `FreshSense Platform | Monitor Your Cold Chain` |
+| **Description** | `Monitor devices, environmental conditions, lots, alerts and traceability information for perishable food products with FreshSense.` |
+| **Keywords** | `FreshSense, cold chain, IoT monitoring, food traceability, temperature, humidity, logistics` |
+| **Author** | `FreshSense Team` |
+
+#### Mobile Application - ASO
+
+En caso de publicación de la aplicación móvil mediante un App Store, se utilizarán los siguientes elementos:
+
+| Element | Value |
+|---|---|
+| **App Title** | `FreshSense` |
+| **App Subtitle** | `Smart Cold Chain Monitoring` |
+| **App Keywords** | `cold chain, food, monitoring, temperature, humidity, traceability, IoT` |
+| **App Description** | `FreshSense helps companies monitor environmental conditions, connected devices and alerts related to the storage and distribution of perishable food products.` |
+
 ### 6.2.5. Navigation Systems
 
 ## 6.3. Landing Page UI Design
