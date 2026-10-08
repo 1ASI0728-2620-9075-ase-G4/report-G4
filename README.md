@@ -811,6 +811,10 @@ En la sección de Applications UX/UI Design nos enfocamos en el diseño de la in
 
 ### 6.4.2. Applications Wireflow Diagrams
 
+Para este apartado, el wireflow se diseñó para representar de forma detallada el proceso de uso desde el inicio de sesión hasta las funcionalidades principales, como la gestión del inventario de alimentos, el monitoreo en tiempo real, la recepción de alertas, la consulta de recetas, el seguimiento de logros y la personalización de ajustes. De esta manera, se asegura que la navegación sea coherente, intuitiva y centrada en mejorar la experiencia del usuario final.
+
+![alt text](Assets/FreshSense_Web_Applications_Wireflow_Diagrams.png)
+
 ### 6.4.3. Applications Mock-ups
 
 ### 6.4.4. Applications User Flow Diagrams
