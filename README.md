@@ -775,6 +775,26 @@ A continuación se realizaron los wireframes de la landing page de FreshSense, s
 
 ### 6.3.2. Landing Page Mock-up
 
+Una vez se realizaron los wireframes, usamos los Style Guidelines, para desarrollar el siguiente paso, los mock ups, utilizamos los colores y modelos referidos en los guidelines, los colores verdes y azules predominantes en el diseño, aluden a la escencia de la aplicación:
+
+**Figura 7.** Mock-Up de la página principal 
+![Hero](Assets/MK_LP_HERO.PNG) 
+
+**Figura 8.** Mock-Up se muestra las funciones de FreshSense
+![Hero](Assets/MK_LP_HIW.PNG) 
+
+**Figura 9.** Vistazo inicial a los beneficios 
+![Hero](Assets/MK_LP_BENEFITS.PNG) 
+
+**Figura 10.** Mock-Up para los planes de subscripción.
+![Hero](Assets/MK_LP_PLANS.PNG) 
+
+**Figura 11.** Mock-Up para los testimonios
+![Hero](Assets/MK_LP_TESTIMONIALS.PNG) 
+
+**Figura 12.** Mock-Up para el formulario y se incluye el footer
+![FORM](Assets/MK_LP_FORM.PNG)
+
 ## 6.4. Applications UX/UI Design
 
 ### 6.4.1. Applications Wireframes
