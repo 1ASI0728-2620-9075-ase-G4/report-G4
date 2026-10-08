@@ -433,6 +433,85 @@ Ejemplos:
 
 ### 6.1.2. Web, Mobile & Devices Style Guidelines
 
+FreshSense mantiene una identidad visual consistente entre sus diferentes interfaces. Los usuarios deben reconocer los mismos colores, tipografía, iconografía, indicadores y terminología independientemente de si utilizan la aplicación web o móvil.
+
+#### Web Style Guidelines
+
+El Landing Page y la aplicación web utilizarán principios de **Material Design**, manteniendo consistencia en componentes como botones, formularios, tarjetas, tablas, menús, indicadores y mensajes de estado.
+
+Para la versión Desktop del Landing Page se utilizará principalmente el **patrón de lectura Z**, dirigiendo inicialmente la atención hacia la marca, propuesta de valor y Call-to-Action principal.
+
+Posteriormente, el contenido presentará el funcionamiento de FreshSense, sus principales beneficios y la solución específica para cada segmento empresarial.
+
+En pantallas de menor tamaño, el contenido adoptará una estructura principalmente vertical.
+
+La aplicación web priorizará la visualización de información relacionada con:
+
+- Dashboard.
+- Monitoring.
+- Inventory.
+- Lots.
+- Devices.
+- Alerts.
+- Traceability.
+- Reports.
+
+Los datos provenientes del dispositivo IoT, como temperatura, humedad, última lectura y estado de conexión, se presentarán mediante tarjetas, tablas, indicadores y gráficos que permitan identificar rápidamente desviaciones o situaciones que requieran atención.
+
+#### Mobile Style Guidelines
+
+La aplicación móvil mantendrá los mismos principios visuales definidos para la aplicación web, adaptando la distribución a pantallas de menor tamaño.
+
+Se priorizarán las funcionalidades que requieren consulta rápida:
+
+- Estado general del monitoreo.
+- Alertas activas.
+- Lecturas recientes.
+- Estado de dispositivos.
+- Estado de lotes.
+
+La información se organizará principalmente en una sola columna y se priorizarán los eventos o condiciones que requieran atención inmediata.
+
+Los nombres, colores, iconos y estados serán equivalentes a los utilizados en Web para reducir la curva de aprendizaje entre plataformas.
+
+#### Device Style Guidelines
+
+El dispositivo IoT actual de FreshSense funciona como un nodo de monitoreo encargado de registrar las condiciones ambientales relacionadas con la conservación de productos perecibles.
+
+El prototipo utiliza un microcontrolador **ESP32** junto con un sensor **DHT22** para obtener periódicamente información de temperatura y humedad.
+
+Las mediciones son transmitidas mediante Wi-Fi hacia el Edge API y posteriormente enviadas al backend de FreshSense para su almacenamiento, procesamiento y visualización.
+
+El prototipo físico actual no incorpora una pantalla ni controles de interacción directa documentados. Por ello, la interacción del usuario con el dispositivo se realiza principalmente mediante las aplicaciones digitales de FreshSense.
+
+Los principales elementos relacionados con el dispositivo utilizarán etiquetas simples y consistentes:
+
+| Elemento | Label |
+|---|---|
+| Estado del dispositivo | `Connected` / `Disconnected` |
+| Temperatura | `Temperature` |
+| Humedad | `Humidity` |
+| Última medición | `Last Reading` |
+| Estado del monitoreo | `Monitoring Status` |
+| Identificador | `Device ID` |
+
+La interfaz debe permitir que el usuario comprenda el estado del dispositivo y de las condiciones monitoreadas sin necesidad de conocer detalles técnicos como el funcionamiento del ESP32, DHT22, JSON o Edge API.
+
+#### Internationalization & Accessibility
+
+FreshSense considera dos locales principales:
+
+- `en_US` - English.
+- `es_419` - Latin American Spanish.
+
+El idioma predeterminado de las interfaces será **English**, manteniendo disponible la estructura necesaria para presentar los mismos contenidos en español latinoamericano.
+
+En las experiencias Web se utilizarán atributos ARIA para facilitar el uso de tecnologías de asistencia.
+
+Asimismo, los estados importantes no serán representados únicamente mediante colores, sino también mediante texto, iconos u otros indicadores reconocibles.
+
+La estructura visual, las etiquetas y los componentes mantendrán consistencia entre ambos idiomas.
+
 ## 6.2. Information Architecture
 
 ### 6.2.2. Labeling Systems
