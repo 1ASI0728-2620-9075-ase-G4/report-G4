@@ -330,7 +330,106 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 ## 6.1. Style Guidelines
 
+FreshSense establece un conjunto de lineamientos visuales y de interacción orientados a mantener una experiencia consistente entre el Landing Page, la aplicación web, la aplicación móvil y la experiencia asociada al dispositivo IoT.
+
+La solución está dirigida principalmente a **empresas de distribución y cadena de frío** y a **empresas productoras y comercializadoras de alimentos perecibles**. Por ello, la experiencia visual prioriza claridad, confiabilidad y rápida interpretación de información relacionada con monitoreo ambiental, lotes, dispositivos, alertas y trazabilidad.
+
+Los recursos visuales del producto, como logotipos, imágenes, tipografías y demás elementos gráficos, se centralizarán en la carpeta `Assets/` del repositorio para mantener una referencia común entre todos los integrantes del equipo.
+
 ### 6.1.1. General Style Guidelines
+
+Los lineamientos generales de FreshSense definen la identidad visual y comunicacional utilizada en los diferentes productos digitales que forman parte de la solución.
+
+#### Branding
+
+La identidad de FreshSense está orientada a transmitir **frescura, control, trazabilidad, tecnología y confiabilidad**.
+
+La marca busca representar una solución tecnológica que permita a las empresas monitorear las condiciones de conservación de productos perecibles durante su almacenamiento y distribución, facilitando la detección de desviaciones y reduciendo las pérdidas asociadas al deterioro de productos.
+
+El diseño visual mantiene una apariencia limpia y profesional, evitando interfaces excesivamente cargadas. Los elementos relacionados con monitoreo, conservación, alertas, dispositivos y trazabilidad deben utilizarse de manera consistente en todos los productos digitales.
+
+#### Typography
+
+FreshSense utiliza la familia tipográfica **Poppins** debido a su apariencia moderna, limpia y legible en interfaces digitales.
+
+Se establece la siguiente jerarquía tipográfica:
+
+- **H1:** títulos principales de páginas y mensajes de mayor importancia.
+- **H2:** títulos de secciones.
+- **H3:** subtítulos y encabezados de componentes.
+- **Body:** contenido descriptivo, datos y textos de apoyo.
+- **Labels:** nombres de campos, indicadores, filtros y estados.
+
+La jerarquía debe mantenerse de manera consistente en las experiencias Web y Mobile para facilitar la lectura y comprensión de la información.
+
+#### Colors
+
+La paleta cromática de FreshSense está compuesta principalmente por verde, azul, tonos neutros y blanco.
+
+| Color | Uso principal |
+|---|---|
+| **Green - Primary** | Acciones principales, indicadores de condiciones adecuadas y elementos asociados a conservación. |
+| **Blue - Secondary** | Monitoreo, información tecnológica, gráficos y componentes secundarios. |
+| **Gray - Neutral** | Textos secundarios, etiquetas, íconos y divisores. |
+| **White - Background** | Fondos principales, tarjetas y espacios de contenido. |
+| **Text - Base** | Información principal y contenido de alta prioridad. |
+
+Los estados que requieran atención podrán utilizar indicadores visuales diferenciados según su nivel de severidad. Sin embargo, el color no será el único mecanismo de comunicación; cada estado deberá estar acompañado por texto o iconografía que permita comprender claramente la situación.
+
+#### Spacing & Layout
+
+FreshSense utiliza una estructura modular para mantener consistencia entre páginas y componentes.
+
+**Base Unit**
+
+- Size: `8 px`
+- Uso: unidad base para márgenes, paddings y separación entre elementos.
+
+**Grid System**
+
+- Grid: `12 columnas`
+- Gutter: `22 px`
+- Margins: proporcionales a la unidad base.
+
+**Section Spacing**
+
+- Standard section: `56 px`
+- Hero section: `72 px`
+- Footer: `36–56 px`
+
+**Cards & Components**
+
+- Internal padding: `18–22 px`
+- Border radius: `16 px`
+- Elevation: `0 10px 25px rgba(0,0,0,.08)`
+
+**Alignment**
+
+- Contenido principal dentro de un contenedor máximo de `1120 px` o `92%` del ancho disponible.
+- El contenido textual se alinea principalmente a la izquierda para facilitar su lectura.
+- Los indicadores críticos y métricas principales deberán tener mayor jerarquía visual.
+- Se utilizarán espacios amplios entre grupos de información para diferenciar claramente cada sección.
+
+#### Tone of Voice
+
+El tono de comunicación de FreshSense busca transmitir profesionalismo, confianza y claridad, debido a que la solución presenta información utilizada para supervisar las condiciones de conservación de productos perecibles.
+
+| Dimensión | Orientación de FreshSense | Justificación |
+|---|---|---|
+| Divertido / Serio | **Serio** | Los datos de monitoreo y las alertas requieren una comunicación clara y confiable. |
+| Formal / Casual | **Formal** | La solución está orientada a organizaciones y procesos empresariales. |
+| Respetuoso / Irreverente | **Respetuoso** | Los mensajes deben orientar al usuario sin generar confusión. |
+| Entusiasta / Sereno | **Sereno** | Las incidencias deben comunicarse con claridad sin utilizar mensajes alarmistas. |
+
+Los mensajes del sistema deben ser breves, precisos y orientados a una acción concreta.
+
+Ejemplos:
+
+- `Temperature above allowed range`
+- `Device disconnected`
+- `Cold chain deviation detected`
+- `Reading updated successfully`
+- `Lot requires attention`
 
 ### 6.1.2. Web, Mobile & Devices Style Guidelines
 
