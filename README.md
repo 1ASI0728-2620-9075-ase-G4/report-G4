@@ -751,9 +751,27 @@ Esta organización evita que el usuario necesite interactuar directamente con co
 
 ## 6.3. Landing Page UI Design
 
-
-
 ### 6.3.1. Landing Page Wireframe
+
+A continuación se realizaron los wireframes de la landing page de FreshSense, siguiendo los user stories como referencia, para conocer las necesidades y preferencias de los usuarios visitantes:
+
+**Figura 1.** Wireframe de la página principal 
+![Hero](Assets/LP_HERO.PNG)
+
+**Figura 2.** Como funciona FreshSense
+![Hero](Assets/LP_HTW.PNG) 
+
+**Figura 3.** Vistazo inicial a los beneficios 
+![Hero](Assets/LP_BENEFITS.PNG) 
+
+**Figura 4.** Modelo inicial para los planes de subscripción.
+![Hero](Assets/LP_PLANS.PNG) 
+
+**Figura 5.** Wireframe para los testimonios
+![Hero](Assets/LP_TESTIMONIALS.PNG) 
+
+**Figura 6.** Wireframe para el formulario y se incluye el footer
+![Hero](Assets/LP_FORM.PNG)
 
 ### 6.3.2. Landing Page Mock-up
 
