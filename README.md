@@ -801,6 +801,8 @@ En la sección de Applications UX/UI Design nos enfocamos en el diseño de la in
 
 ### 6.4.1. Applications Wireframes
 
+En esta sección se presentan los wireframes en formato mobile que facilitan la disposición de las funciones de la plataforma.
+
 ![wireframeapp1](Assets/wireframeapp1.png)
 ![wireframeapp2](Assets/wireframeapp2.png)
 ![wireframeapp3](Assets/wireframeapp3.png)
