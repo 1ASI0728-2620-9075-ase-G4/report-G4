@@ -1,920 +1,170 @@
-# report-G4
-
-<div align="center">
-
-# Universidad Peruana de Ciencias Aplicadas
-
-### Facultad de Ingeniería
-### Carrera: Ingeniería de Software
-
-**9.º ciclo**
-
-**Nombre del curso:** Arquitecturas de Software Emergentes
-**Sección:** 9075
-**Código del curso:** : 1ASI0728 
-**Periodo:** 202620  
-
-**Nombre del profesor:** Wilder Aurelio Vega Calero
-
-<br>
-
-# *Informe de Trabajo Final*
-
-<br>
-
-**Nombre del Startup:** FreshEat  
-**Nombre del Producto:** FreshSense
-
-<br>
-
-### Relación de Integrantes
-
-| Apellidos y Nombres | Código |
-|:-------------------:|:------:|
-| Tuesta Marin, Romina Alejandra | U202211706 |
-
-<br>
-
-**Septiembre 2026**
-
-</div>
-
-<div style="page-break-after: always;"></div>
-
-# Registro de Versiones del Informe
-
-| Versión | Fecha | Autor | Descripción de modificación |
-|:------:|:-----:|:-----|:----------------------------|
-| 1.0 | 08/09/2026 | Romina Tuesta Marin | Cargó archivos y actualizó la descripción de la Startup |
-
-<div style="page-break-after: always;"></div>
-
-# Project Report Collaboration Insights
-
-**AV1:**
-
-![Project Report Collaboration Insights](assets/.png)
-
-<div style="page-break-after: always;"></div>
-
-# Tabla de contenidos
-
-- [Student Outcome](#student-outcome)
-
-- [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2. Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. Empathy Mapping](#233-empathy-mapping)
-    - [2.3.4. As-is Scenario Mapping](#234-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
-
-- [Capítulo IV: Strategic-Level Software Design](#capítulo-iv-strategic-level-software-design)
-  - [4.1. Strategic-Level Attribute-Driven Design](#41-strategic-level-attribute-driven-design)
-    - [4.1.1. Design Purpose](#411-design-purpose)
-    - [4.1.2. Attribute-Driven Design Inputs](#412-attribute-driven-design-inputs)
-      - [4.1.2.1. Primary Functionality (Primary User Stories)](#4121-primary-functionality-primary-user-stories)
-      - [4.1.2.2. Quality Attribute Scenarios](#4122-quality-attribute-scenarios)
-      - [4.1.2.3. Constraints](#4123-constraints)
-    - [4.1.3. Architectural Drivers Backlog](#413-architectural-drivers-backlog)
-    - [4.1.4. Architectural Design Decisions](#414-architectural-design-decisions)
-    - [4.1.5. Quality Attribute Scenario Refinements](#415-quality-attribute-scenario-refinements)
-  - [4.2. Strategic-Level Domain-Driven Design](#42-strategic-level-domain-driven-design)
-    - [4.2.1. EventStorming](#421-eventstorming)
-    - [4.2.2. Candidate Context Discovery](#422-candidate-context-discovery)
-    - [4.2.3. Domain Message Flows Modeling](#423-domain-message-flows-modeling)
-    - [4.2.4. Bounded Context Canvases](#424-bounded-context-canvases)
-    - [4.2.5. Context Mapping](#425-context-mapping)
-  - [4.3. Software Architecture](#43-software-architecture)
-    - [4.3.1. Software Architecture System Landscape Diagram](#431-software-architecture-system-landscape-diagram)
-    - [4.3.2. Software Architecture Context Level Diagrams](#432-software-architecture-context-level-diagrams)
-    - [4.3.3. Software Architecture Container Level Diagrams](#433-software-architecture-container-level-diagrams)
-    - [4.3.4. Software Architecture Deployment Diagrams](#434-software-architecture-deployment-diagrams)
-
-- [Capítulo V: Tactical-Level Software Design](#capítulo-v-tactical-level-software-design)
-  - [5.X. Bounded Context: &lt;Bounded Context Name&gt;](#5x-bounded-context-bounded-context-name)
-    - [5.X.1. Domain Layer](#5x1-domain-layer)
-    - [5.X.2. Interface Layer](#5x2-interface-layer)
-    - [5.X.3. Application Layer](#5x3-application-layer)
-    - [5.X.4. Infrastructure Layer](#5x4-infrastructure-layer)
-    - [5.X.6. Bounded Context Software Architecture Component Level Diagrams](#5x6-bounded-context-software-architecture-component-level-diagrams)
-    - [5.X.7. Bounded Context Software Architecture Code Level Diagrams](#5x7-bounded-context-software-architecture-code-level-diagrams)
-      - [5.X.7.1. Bounded Context Domain Layer Class Diagrams](#5x71-bounded-context-domain-layer-class-diagrams)
-      - [5.X.7.2. Bounded Context Database Design Diagram](#5x72-bounded-context-database-design-diagram)
-
-- [Capítulo VI: Solution UX Design](#capítulo-vi-solution-ux-design)
-  - [6.1. Style Guidelines](#61-style-guidelines)
-    - [6.1.1. General Style Guidelines](#611-general-style-guidelines)
-    - [6.1.2. Web, Mobile & Devices Style Guidelines](#612-web-mobile--devices-style-guidelines)
-  - [6.2. Information Architecture](#62-information-architecture)
-    - [6.2.2. Labeling Systems](#622-labeling-systems)
-    - [6.2.3. Searching Systems](#623-searching-systems)
-    - [6.2.4. SEO Tags and Meta Tags](#624-seo-tags-and-meta-tags)
-    - [6.2.5. Navigation Systems](#625-navigation-systems)
-  - [6.3. Landing Page UI Design](#63-landing-page-ui-design)
-    - [6.3.1. Landing Page Wireframe](#631-landing-page-wireframe)
-    - [6.3.2. Landing Page Mock-up](#632-landing-page-mock-up)
-  - [6.4. Applications UX/UI Design](#64-applications-uxui-design)
-    - [6.4.1. Applications Wireframes](#641-applications-wireframes)
-    - [6.4.2. Applications Wireflow Diagrams](#642-applications-wireflow-diagrams)
-    - [6.4.3. Applications Mock-ups](#643-applications-mock-ups)
-    - [6.4.4. Applications User Flow Diagrams](#644-applications-user-flow-diagrams)
-  - [6.5. Applications Prototyping](#65-applications-prototyping)
-
-- [Capítulo VII: Product Implementation, Validation & Deployment](#capítulo-vii-product-implementation-validation--deployment)
-  - [7.1. Software Configuration Management](#71-software-configuration-management)
-    - [7.1.1. Software Development Environment Configuration](#711-software-development-environment-configuration)
-    - [7.1.2. Source Code Management](#712-source-code-management)
-    - [7.1.3. Source Code Style Guide & Conventions](#713-source-code-style-guide--conventions)
-    - [7.1.4. Software Deployment Configuration](#714-software-deployment-configuration)
-  - [7.2. Solution Implementation](#72-solution-implementation)
-    - [7.2.X. Sprint n](#72x-sprint-n)
-      - [7.2.X.1. Sprint Planning n](#72x1-sprint-planning-n)
-      - [7.2.X.2. Sprint Backlog n](#72x2-sprint-backlog-n)
-      - [7.2.X.3. Development Evidence for Sprint Review](#72x3-development-evidence-for-sprint-review)
-      - [7.2.X.4. Testing Suite Evidence for Sprint Review](#72x4-testing-suite-evidence-for-sprint-review)
-      - [7.2.X.5. Execution Evidence for Sprint Review](#72x5-execution-evidence-for-sprint-review)
-      - [7.2.X.6. Services Documentation Evidence for Sprint Review](#72x6-services-documentation-evidence-for-sprint-review)
-      - [7.2.X.7. Software Deployment Evidence for Sprint Review](#72x7-software-deployment-evidence-for-sprint-review)
-      - [7.2.X.8. Team Collaboration Insights during Sprint](#72x8-team-collaboration-insights-during-sprint)
-  - [7.3. Validation Interviews](#73-validation-interviews)
-    - [7.3.1. Diseño de Entrevistas](#731-diseño-de-entrevistas)
-    - [7.3.2. Registro de Entrevistas](#732-registro-de-entrevistas)
-    - [7.3.3. Evaluaciones según heurísticas](#733-evaluaciones-según-heurísticas)
-  - [7.4. Video About-the-Product](#74-video-about-the-product)
-
-- [Conclusiones](#conclusiones)
-- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-- [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
-
-<div style="page-break-after: always;"></div>
-
-# Student Outcome
-
-El curso contribuye al cumplimiento del Student Outcome ABET.
-
-**ABET – EAC - Student Outcome 3**
-
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
-
-| Criterio específico | Acciones realizadas | Conclusiones |
-|:--------------------|:--------------------|:-------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería | | |
-
-<div style="page-break-after: always;"></div>
-
-# Capítulo I: Introducción
-
-## 1.1. Startup Profile
-
-### 1.1.1. Descripción de la Startup
-
-### 1.1.2. Perfiles de integrantes del equipo
-
-## 1.2. Solution Profile
-
-### 1.2.1. Antecedentes y problemática
-
-### 1.2.2. Lean UX Process
-
-#### 1.2.2.1. Lean UX Problem Statements
-
-#### 1.2.2.2. Lean UX Assumptions
-
-#### 1.2.2.3. Lean UX Hypothesis Statements
-
-#### 1.2.2.4. Lean UX Canvas
-
-## 1.3. Segmentos objetivo
-
-<div style="page-break-after: always;"></div>
-
-# Capítulo II: Requirements Elicitation & Analysis
-
-## 2.1. Competidores
-
-### 2.1.1. Análisis competitivo
-
-### 2.1.2. Estrategias y tácticas frente a competidores
-
-## 2.2. Entrevistas
-
-### 2.2.1. Diseño de entrevistas
-
-### 2.2.2. Registro de entrevistas
-
-### 2.2.3. Análisis de entrevistas
-
-## 2.3. Needfinding
-
-### 2.3.1. User Personas
-
-### 2.3.2. User Task Matrix
-
-### 2.3.3. Empathy Mapping
-
-### 2.3.4. As-is Scenario Mapping
-
-## 2.4. Ubiquitous Language
-
-<div style="page-break-after: always;"></div>
-
-# Capítulo III: Requirements Specification
-
-## 3.1. To-Be Scenario Mapping
-
-## 3.2. User Stories
-
-## 3.3. Impact Mapping
-
-## 3.4. Product Backlog
-
-<div style="page-break-after: always;"></div>
-
-# Capítulo IV: Strategic-Level Software Design
-
-## 4.1. Strategic-Level Attribute-Driven Design
-
-### 4.1.1. Design Purpose
-
-### 4.1.2. Attribute-Driven Design Inputs
-
-#### 4.1.2.1. Primary Functionality (Primary User Stories)
-
-#### 4.1.2.2. Quality Attribute Scenarios
-
-#### 4.1.2.3. Constraints
-
-### 4.1.3. Architectural Drivers Backlog
-
-### 4.1.4. Architectural Design Decisions
-
-### 4.1.5. Quality Attribute Scenario Refinements
-
-## 4.2. Strategic-Level Domain-Driven Design
-
-### 4.2.1. EventStorming
-
-### 4.2.2. Candidate Context Discovery
-
-### 4.2.3. Domain Message Flows Modeling
-
-### 4.2.4. Bounded Context Canvases
-
-### 4.2.5. Context Mapping
-
-## 4.3. Software Architecture
-
-### 4.3.1. Software Architecture System Landscape Diagram
-
-### 4.3.2. Software Architecture Context Level Diagrams
-
-### 4.3.3. Software Architecture Container Level Diagrams
-
-### 4.3.4. Software Architecture Deployment Diagrams
-
-<div style="page-break-after: always;"></div>
-
-# Capítulo V: Tactical-Level Software Design
-
-## 5.X. Bounded Context: <Bounded Context Name>
-
-### 5.X.1. Domain Layer
-
-### 5.X.2. Interface Layer
-
-### 5.X.3. Application Layer
-
-### 5.X.4. Infrastructure Layer
-
-### 5.X.6. Bounded Context Software Architecture Component Level Diagrams
-
-### 5.X.7. Bounded Context Software Architecture Code Level Diagrams
-
-#### 5.X.7.1. Bounded Context Domain Layer Class Diagrams
-
-#### 5.X.7.2. Bounded Context Database Design Diagram
-
-<div style="page-break-after: always;"></div>
-
 # Capítulo VI: Solution UX Design
+
+La propuesta UX de **FreshSense** responde a las necesidades de sus segmentos objetivo: **propietarios y gerentes de restaurantes pequeños** y **propietarios y encargados de negocios de alimentos fríos**. El diseño busca facilitar la identificación de desviaciones en las condiciones de conservación, la consulta del estado de los dispositivos, la organización de productos perecibles y la toma de decisiones operativas. El Landing Page comunica la propuesta de valor, mientras que las experiencias web y móvil permiten acceder a las capacidades de gestión y monitoreo previstas para la solución.
+
+La identidad visual utiliza la tipografía **Poppins**, una paleta de verde y azul con colores neutros, un sistema de espaciado basado en **8 px** y una cuadrícula de **12 columnas** para escritorio. El tono de comunicación es serio, formal, respetuoso y sereno. Los valores HEX, tokens tipográficos y criterios responsive presentados a continuación constituyen la especificación visual propuesta para FreshSense y deben consensuarse dentro del equipo antes de su implementación. El inglés es el idioma predeterminado de las interfaces del producto.
 
 ## 6.1. Style Guidelines
 
-FreshSense establece un conjunto de lineamientos visuales y de interacción orientados a mantener una experiencia consistente entre el Landing Page, la aplicación web, la aplicación móvil y la experiencia asociada al dispositivo IoT.
-
-La solución está dirigida principalmente a **empresas de distribución y cadena de frío** y a **empresas productoras y comercializadoras de alimentos perecibles**. Por ello, la experiencia visual prioriza claridad, confiabilidad y rápida interpretación de información relacionada con monitoreo ambiental, lotes, dispositivos, alertas y trazabilidad.
-
-Los recursos visuales del producto, como logotipos, imágenes, tipografías y demás elementos gráficos, se centralizarán en la carpeta `Assets/` del repositorio para mantener una referencia común entre todos los integrantes del equipo.
+El Style Guide constituye la referencia compartida del equipo para Landing Page, Web Application y experiencias móviles. Está inspirado en **Material Design**: jerarquía clara, componentes consistentes, feedback de estado, affordances reconocibles, superficies coherentes y accesibilidad. La guía no implica que todos los componentes Material ya estén implementados. Sus decisiones se alinean con la arquitectura y con las capacidades de monitoreo de FreshSense.
 
 ### 6.1.1. General Style Guidelines
 
-Los lineamientos generales de FreshSense definen la identidad visual y comunicacional utilizada en los diferentes productos digitales que forman parte de la solución.
+#### Branding e identidad
 
-#### Branding
+**Nombre del producto:** FreshSense. **Personalidad de marca:** fresca, confiable, profesional y centrada en prevención de riesgos para alimentos perecibles. **Promesa de producto:** apoyar la supervisión de las condiciones de conservación de los productos mediante monitoreo IoT, alertas y visibilidad de información relevante. Evitar reclamos no demostrados como “100% de conservación garantizada”.
 
-La identidad de FreshSense está orientada a transmitir **frescura, control, trazabilidad, tecnología y confiabilidad**.
+La identidad combina formas suaves, superficies despejadas, iconos de sensores y conservación, y acentos verdes que evocan frescura. El azul apoya información de sistemas y monitoreo. Las ilustraciones de tecnología no deben reemplazar señales claras de estado ni ocultar contenido principal. Se proponen versiones monocromáticas y sobre fondo claro del identificador visual para aplicaciones del producto.
 
-La marca busca representar una solución tecnológica que permita a las empresas monitorear las condiciones de conservación de productos perecibles durante su almacenamiento y distribución, facilitando la detección de desviaciones y reduciendo las pérdidas asociadas al deterioro de productos.
+![Lámina de identidad visual FreshSense](Assets/freshsense-style-board.png)
 
-El diseño visual mantiene una apariencia limpia y profesional, evitando interfaces excesivamente cargadas. Los elementos relacionados con monitoreo, conservación, alertas, dispositivos y trazabilidad deben utilizarse de manera consistente en todos los productos digitales.
+*Figura VI.1. Tablero de estilo con tokens, componentes y jerarquía visual propuestos. Los colores y medidas normalizados deben ser acordados por el equipo antes de implementarlos.*
+
+**Uso del identificador:** conservar proporciones; disponer un área libre mínima equivalente a la altura del símbolo; no aplicar sombras fuertes, deformaciones o colores ajenos a la paleta; asegurar contraste suficiente sobre fondos claros u oscuros.
 
 #### Typography
 
-FreshSense utiliza la familia tipográfica **Poppins** debido a su apariencia moderna, limpia y legible en interfaces digitales.
+FreshSense utiliza **Poppins** para títulos, contenido de interfaz y componentes de navegación. Cuando la tipografía no esté disponible, se establece como alternativa `Arial, sans-serif`. La siguiente escala tipográfica define tamaños, pesos e interlineados para mantener una jerarquía legible en desktop y mobile.
 
-Se establece la siguiente jerarquía tipográfica:
+| Estilo | Desktop: tamaño / interlineado | Mobile: tamaño / interlineado | Peso | Uso |
+|---|---|---|---|---|
+| Display / Hero | 44 / 54 px | 32 / 40 px | 700 | Promesa principal de valor |
+| H1 | 36 / 44 px | 28 / 36 px | 700 | Título de la vista |
+| H2 | 28 / 36 px | 24 / 32 px | 600 | Secciones del Landing |
+| H3 | 20 / 28 px | 19 / 27 px | 600 | Tarjetas y subsecciones |
+| Body | 16 / 25 px | 16 / 25 px | 400 | Contenido explicativo |
+| Small | 14 / 21 px | 14 / 21 px | 400–500 | Ayudas y metadatos |
+| Button | 15 / 22 px | 15 / 22 px | 600 | Etiquetas de acciones |
 
-- **H1:** títulos principales de páginas y mensajes de mayor importancia.
-- **H2:** títulos de secciones.
-- **H3:** subtítulos y encabezados de componentes.
-- **Body:** contenido descriptivo, datos y textos de apoyo.
-- **Labels:** nombres de campos, indicadores, filtros y estados.
-
-La jerarquía debe mantenerse de manera consistente en las experiencias Web y Mobile para facilitar la lectura y comprensión de la información.
+**Reglas:** texto alineado a la izquierda para párrafos; no presentar explicaciones largas en mayúsculas; limitar ancho de párrafo a aproximadamente 65–75 caracteres; respetar ampliación de texto y reflujo; no usar cuerpo menor de 14 px salvo metadatos secundarios justificables.
 
 #### Colors
 
-La paleta cromática de FreshSense está compuesta principalmente por verde, azul, tonos neutros y blanco.
+La paleta visual de FreshSense combina verde como color principal de marca, azul para información de monitoreo y tonos neutros que favorecen la lectura. Se especifican los siguientes tokens para garantizar la consistencia entre el Landing Page y las aplicaciones:
 
-| Color | Uso principal |
-|---|---|
-| **Green - Primary** | Acciones principales, indicadores de condiciones adecuadas y elementos asociados a conservación. |
-| **Blue - Secondary** | Monitoreo, información tecnológica, gráficos y componentes secundarios. |
-| **Gray - Neutral** | Textos secundarios, etiquetas, íconos y divisores. |
-| **White - Background** | Fondos principales, tarjetas y espacios de contenido. |
-| **Text - Base** | Información principal y contenido de alta prioridad. |
+| Token | HEX propuesto | Función |
+|---|---|---|
+| `--color-primary` | `#176B4D` | Botones principales, enlaces activos, marca |
+| `--color-primary-dark` | `#10543B` | Hover y superficies principales intensas |
+| `--color-primary-soft` | `#E9F4ED` | Secciones de frescura, estado normal |
+| `--color-secondary` | `#2168A3` | Información secundaria y monitoreo |
+| `--color-secondary-soft` | `#E8F2FA` | Bloques informativos |
+| `--color-text` | `#142A38` | Texto prioritario |
+| `--color-text-muted` | `#526674` | Descripciones secundarias |
+| `--color-surface` | `#FFFFFF` | Tarjetas, formularios, fondos claros |
+| `--color-background` | `#F6F9F8` | Lienzo de página |
+| `--color-border` | `#D6E3DF` | Contornos y separadores |
+| `--color-warning` | `#946200` | Advertencia acompañada de texto e icono |
+| `--color-error` | `#B3261E` | Error o condición crítica explicada |
 
-Los estados que requieran atención podrán utilizar indicadores visuales diferenciados según su nivel de severidad. Sin embargo, el color no será el único mecanismo de comunicación; cada estado deberá estar acompañado por texto o iconografía que permita comprender claramente la situación.
+La adopción de esta paleta requiere comprobar el contraste conforme a **WCAG AA**: al menos **4.5:1** para texto normal y **3:1** para texto grande y ciertos elementos gráficos o controles. Las alertas combinarán etiqueta, icono y color; por ejemplo: `Normal`, `Warning`, `Critical` y `Disconnected`.
 
-#### Spacing & Layout
+#### Spacing, Grid & Layout
 
-FreshSense utiliza una estructura modular para mantener consistencia entre páginas y componentes.
+El sistema de espaciado de FreshSense establece una **unidad base de 8 px** y utiliza valores recurrentes de `4`, `8`, `16`, `24`, `32`, `48`, `56`, `64` y `72 px`. La cuadrícula desktop cuenta con **12 columnas**, una separación de referencia de **22 px** y un contenedor central máximo de **1120 px**. En móvil se prioriza una composición de una columna y márgenes de 16–20 px, evitando desplazamiento horizontal incluso en anchos de 320 px.
 
-**Base Unit**
+| Token | Valor | Regla de aplicación |
+|---|---|---|
+| `space-xs` | 4 px | Etiquetas y separaciones mínimas |
+| `space-sm` | 8 px | Icono/texto y controles compactos |
+| `space-md` | 16 px | Tarjetas y agrupación habitual |
+| `space-lg` | 24 px | Separación entre bloques |
+| `space-xl` | 32 px | Bloques de sección |
+| `section-gap` | 56 px desktop / 40 px mobile | Distancia entre secciones |
+| `hero-gap` | 72 px desktop / 48 px mobile | Encabezado de Landing |
+| `radius-card` | 16 px | Tarjetas principales |
+| `radius-control` | 12 px | Inputs, botones, chips |
+| `elevation-card` | `0 10px 25px rgba(0,0,0,.08)` | Sombra ligera de superficie |
 
-- Size: `8 px`
-- Uso: unidad base para márgenes, paddings y separación entre elementos.
+Las separaciones internas, los márgenes y los radios deberán utilizar los tokens establecidos para lograr consistencia entre secciones, formularios y tarjetas. Se evitarán valores arbitrarios que dificulten el mantenimiento del sistema visual.
 
-**Grid System**
+#### Componentes y estados (Material Design)
 
-- Grid: `12 columnas`
-- Gutter: `22 px`
-- Margins: proporcionales a la unidad base.
+| Componente | Apariencia / interacción | Estados y accesibilidad |
+|---|---|---|
+| Primary Button | Fondo verde, texto blanco, altura mínima 44–48 px | Hover, focus visible, disabled, loading; acción concreta |
+| Secondary Button | Borde verde/azul, superficie clara | Identidad visual distinta de acción primaria |
+| Input / Select | Etiqueta persistente, borde neutral, ayuda inferior | Focus, error descrito en texto, ARIA cuando aplique |
+| Card | Superficie blanca, radio 16 px y jerarquía título–texto | Sin clic implícito; si es interactiva, foco y estado reconocibles |
+| Status chip | Texto e icono más color semántico | No depender exclusivamente del color |
+| Navigation | Horizontal en desktop y menú desplegable en móvil | Foco, estado actual y navegación por teclado |
+| Alert / Snackbar | Mensaje breve, causa y acción disponible | No usar solo animación/color para urgencias |
+| Form validation | Feedback cercano al campo afectado | `aria-invalid` y mensaje asociado cuando corresponda |
 
-**Section Spacing**
-
-- Standard section: `56 px`
-- Hero section: `72 px`
-- Footer: `36–56 px`
-
-**Cards & Components**
-
-- Internal padding: `18–22 px`
-- Border radius: `16 px`
-- Elevation: `0 10px 25px rgba(0,0,0,.08)`
-
-**Alignment**
-
-- Contenido principal dentro de un contenedor máximo de `1120 px` o `92%` del ancho disponible.
-- El contenido textual se alinea principalmente a la izquierda para facilitar su lectura.
-- Los indicadores críticos y métricas principales deberán tener mayor jerarquía visual.
-- Se utilizarán espacios amplios entre grupos de información para diferenciar claramente cada sección.
+**Iconografía:** adoptar iconos lineales coherentes para termómetro, gota de humedad, sensores, lotes, advertencias y reportes. Mantener grosores homogéneos y nombre accesible cuando transmitan información. No usar emoji como único identificador de acciones operativas.
 
 #### Tone of Voice
 
-El tono de comunicación de FreshSense busca transmitir profesionalismo, confianza y claridad, debido a que la solución presenta información utilizada para supervisar las condiciones de conservación de productos perecibles.
+FreshSense adopta un tono **serio, formal, respetuoso y sereno**. Las frases explicarán qué ocurre y cuál es el siguiente paso, evitando alarmismo, tecnicismos innecesarios y promesas no demostradas. Los textos visibles del sistema se redactan inicialmente en inglés para la versión `en_US`.
 
-| Dimensión | Orientación de FreshSense | Justificación |
+| Situación | Ejemplo de microcopy (EN) | Principio |
 |---|---|---|
-| Divertido / Serio | **Serio** | Los datos de monitoreo y las alertas requieren una comunicación clara y confiable. |
-| Formal / Casual | **Formal** | La solución está orientada a organizaciones y procesos empresariales. |
-| Respetuoso / Irreverente | **Respetuoso** | Los mensajes deben orientar al usuario sin generar confusión. |
-| Entusiasta / Sereno | **Sereno** | Las incidencias deben comunicarse con claridad sin utilizar mensajes alarmistas. |
-
-Los mensajes del sistema deben ser breves, precisos y orientados a una acción concreta.
-
-Ejemplos:
-
-- `Temperature above allowed range`
-- `Device disconnected`
-- `Cold chain deviation detected`
-- `Reading updated successfully`
-- `Lot requires attention`
+| Desviación | `Temperature is outside the configured range.` | Describe el hecho, no el miedo |
+| Dispositivo | `Device disconnected. Check its connection.` | Estado + siguiente acción |
+| Confirmación | `Business details updated successfully.` | Feedback específico |
+| Formulario | `Enter a valid business email address.` | Orientación útil |
+| Sin resultados | `No matching devices. Try another filter.` | Recuperación sin culpar al usuario |
 
 ### 6.1.2. Web, Mobile & Devices Style Guidelines
 
-FreshSense mantiene una identidad visual consistente entre sus diferentes interfaces. Los usuarios deben reconocer los mismos colores, tipografía, iconografía, indicadores y terminología independientemente de si utilizan la aplicación web o móvil.
+#### Web / Desktop
 
-#### Web Style Guidelines
+La versión desktop del Landing Page muestra navegación principal, un Hero de lectura rápida, beneficios, explicación del funcionamiento, dos segmentos objetivo y una CTA a contacto/demostración. Se utiliza lectura en Z para el inicio y secuencias verticales para contenidos posteriores. En la aplicación web autenticada, priorizar datos operativos y estados verificables (temperatura, humedad, dispositivos, alertas, lotes). Las tablas necesitan títulos, encabezados, estados vacíos y filtros consistentes.
 
-El Landing Page y la aplicación web utilizarán principios de **Material Design**, manteniendo consistencia en componentes como botones, formularios, tarjetas, tablas, menús, indicadores y mensajes de estado.
+Como criterio responsive, se define una cuadrícula de 12 columnas para anchos desde `1024 px`; entre `600–1023 px`, la distribución puede organizarse en dos columnas cuando la información lo permita, y por debajo de `600 px` se utiliza preferentemente una columna. Estos puntos de quiebre son parámetros de diseño que deben verificarse durante las pruebas de interfaz.
 
-Para la versión Desktop del Landing Page se utilizará principalmente el **patrón de lectura Z**, dirigiendo inicialmente la atención hacia la marca, propuesta de valor y Call-to-Action principal.
+#### Mobile Web / Native Mobile
 
-Posteriormente, el contenido presentará el funcionamiento de FreshSense, sus principales beneficios y la solución específica para cada segmento empresarial.
+En móvil, el Landing Page mantiene el mismo contenido y llamadas a la acción con navegación colapsada y tarjetas de una columna. El Hero debe explicar la propuesta de valor sin obligar a desplazamiento horizontal. La aplicación móvil prioriza la consulta rápida de alertas, lecturas, estado de dispositivos y lotes; los controles críticos deben tener área táctil adecuada (idealmente 48 × 48 dp). Las tarjetas no deben perder estado ni etiqueta cuando cambia la densidad.
 
-En pantallas de menor tamaño, el contenido adoptará una estructura principalmente vertical.
+#### Devices / IoT
 
-La aplicación web priorizará la visualización de información relacionada con:
+FreshSense contempla un dispositivo IoT basado en **ESP32** y sensor **DHT22** para registrar temperatura y humedad en zonas de conservación. En el prototipo descrito no se considera una pantalla integrada; por ello, el estado del dispositivo se consulta desde las aplicaciones mediante campos como `Device ID`, `Connected/Disconnected`, `Temperature`, `Humidity`, `Last Reading` y `Monitoring Status`. Ante una desconexión, la interfaz debe mostrar la última lectura disponible junto con su fecha y hora, sin presentarla como una medición actual.
 
-- Dashboard.
-- Monitoring.
-- Inventory.
-- Lots.
-- Devices.
-- Alerts.
-- Traceability.
-- Reports.
+#### Internationalization & Inclusive Design
 
-Los datos provenientes del dispositivo IoT, como temperatura, humedad, última lectura y estado de conexión, se presentarán mediante tarjetas, tablas, indicadores y gráficos que permitan identificar rápidamente desviaciones o situaciones que requieran atención.
-
-#### Mobile Style Guidelines
-
-La aplicación móvil mantendrá los mismos principios visuales definidos para la aplicación web, adaptando la distribución a pantallas de menor tamaño.
-
-Se priorizarán las funcionalidades que requieren consulta rápida:
-
-- Estado general del monitoreo.
-- Alertas activas.
-- Lecturas recientes.
-- Estado de dispositivos.
-- Estado de lotes.
-
-La información se organizará principalmente en una sola columna y se priorizarán los eventos o condiciones que requieran atención inmediata.
-
-Los nombres, colores, iconos y estados serán equivalentes a los utilizados en Web para reducir la curva de aprendizaje entre plataformas.
-
-#### Device Style Guidelines
-
-El dispositivo IoT actual de FreshSense funciona como un nodo de monitoreo encargado de registrar las condiciones ambientales relacionadas con la conservación de productos perecibles.
-
-El prototipo utiliza un microcontrolador **ESP32** junto con un sensor **DHT22** para obtener periódicamente información de temperatura y humedad.
-
-Las mediciones son transmitidas mediante Wi-Fi hacia el Edge API y posteriormente enviadas al backend de FreshSense para su almacenamiento, procesamiento y visualización.
-
-El prototipo físico actual no incorpora una pantalla ni controles de interacción directa documentados. Por ello, la interacción del usuario con el dispositivo se realiza principalmente mediante las aplicaciones digitales de FreshSense.
-
-Los principales elementos relacionados con el dispositivo utilizarán etiquetas simples y consistentes:
-
-| Elemento | Label |
-|---|---|
-| Estado del dispositivo | `Connected` / `Disconnected` |
-| Temperatura | `Temperature` |
-| Humedad | `Humidity` |
-| Última medición | `Last Reading` |
-| Estado del monitoreo | `Monitoring Status` |
-| Identificador | `Device ID` |
-
-La interfaz debe permitir que el usuario comprenda el estado del dispositivo y de las condiciones monitoreadas sin necesidad de conocer detalles técnicos como el funcionamiento del ESP32, DHT22, JSON o Edge API.
-
-#### Internationalization & Accessibility
-
-FreshSense considera dos locales principales:
-
-- `en_US` - English.
-- `es_419` - Latin American Spanish.
-
-El idioma predeterminado de las interfaces será **English**, manteniendo disponible la estructura necesaria para presentar los mismos contenidos en español latinoamericano.
-
-En las experiencias Web se utilizarán atributos ARIA para facilitar el uso de tecnologías de asistencia.
-
-Asimismo, los estados importantes no serán representados únicamente mediante colores, sino también mediante texto, iconos u otros indicadores reconocibles.
-
-La estructura visual, las etiquetas y los componentes mantendrán consistencia entre ambos idiomas.
-
-## 6.2. Information Architecture
-
-La arquitectura de información de FreshSense está diseñada para que los visitantes y usuarios puedan comprender rápidamente la propuesta del producto y acceder a información relacionada con monitoreo, dispositivos, productos perecibles, alertas y trazabilidad sin recorrer estructuras complejas.
-
-La organización considera las necesidades de los dos segmentos principales:
-
-- **Empresas de distribución y cadena de frío:** organizaciones encargadas del transporte, distribución o almacenamiento de productos perecibles que requieren supervisar continuamente las condiciones de conservación.
-- **Empresas productoras y comercializadoras de alimentos perecibles:** organizaciones que producen, almacenan o comercializan alimentos y necesitan controlar las condiciones de sus productos y reducir pérdidas asociadas al deterioro.
-
-La arquitectura considera el Landing Page, la aplicación web, la aplicación móvil y las funcionalidades asociadas al monitoreo mediante dispositivos IoT.
-
-### 6.2.2. Labeling Systems
-
-El sistema de etiquetado de FreshSense utiliza términos breves, consistentes y fáciles de reconocer.
-
-Se evita mostrar terminología técnica relacionada con la implementación cuando no aporta valor directo al usuario.
-
-#### Landing Page
-
-| Label | Propósito |
-|---|---|
-| `Home` | Regresar al inicio. |
-| `Solution` | Presentar la solución FreshSense. |
-| `How It Works` | Explicar el funcionamiento general del sistema. |
-| `Benefits` | Presentar los principales beneficios. |
-| `For Cold Chain` | Información dirigida a empresas de distribución y cadena de frío. |
-| `For Producers` | Información dirigida a productores y comercializadores. |
-| `Contact` | Presentar los medios de contacto. |
-| `Sign In` | Acceder a la plataforma. |
-| `Get Started` | Iniciar el proceso de acceso o registro. |
-
-#### Web and Mobile Applications
-
-| Label | Información asociada |
-|---|---|
-| `Dashboard` | Resumen general del sistema e indicadores principales. |
-| `Monitoring` | Visualización de las condiciones registradas por los dispositivos. |
-| `Inventory` | Información de los productos registrados. |
-| `Lots` | Gestión y seguimiento de lotes. |
-| `Devices` | Gestión de dispositivos IoT asociados. |
-| `Alerts` | Eventos o desviaciones que requieren atención. |
-| `Traceability` | Historial de eventos y condiciones asociadas a productos o lotes. |
-| `Reports` | Información consolidada y resultados de monitoreo. |
-
-#### IoT Monitoring
-
-| Label | Información asociada |
-|---|---|
-| `Device` | Dispositivo IoT registrado. |
-| `Device ID` | Identificador único del dispositivo. |
-| `Connected` | Dispositivo comunicándose correctamente. |
-| `Disconnected` | Dispositivo sin comunicación con el sistema. |
-| `Temperature` | Temperatura obtenida mediante el sensor. |
-| `Humidity` | Humedad obtenida mediante el sensor. |
-| `Last Reading` | Fecha y hora de la lectura más reciente. |
-| `Monitoring Status` | Estado actual del proceso de monitoreo. |
-
-Las etiquetas se mantendrán equivalentes entre las experiencias Web y Mobile para evitar que un mismo concepto tenga diferentes nombres dependiendo de la plataforma.
-
-### 6.2.3. Searching Systems
-
-El sistema de búsqueda se concentra principalmente en las aplicaciones Web y Mobile, donde el volumen de información puede aumentar debido al registro de dispositivos, lotes, productos, lecturas y alertas.
-
-El Landing Page no requiere un buscador interno debido a que su contenido está organizado en un número reducido de secciones accesibles mediante navegación directa.
-
-#### Lots Search
-
-El usuario podrá buscar lotes mediante:
-
-- Lot ID.
-- Producto.
-- Ubicación.
-
-Los resultados podrán filtrarse según:
-
-- Monitoring Status.
-- Fecha.
-- Ubicación.
-- Producto.
-
-Cada resultado mostrará información relevante del lote y su estado actual.
-
-#### Device Search
-
-Los dispositivos podrán buscarse mediante:
-
-- Device ID.
-- Ubicación.
-
-Los resultados podrán filtrarse según:
-
-- Connected.
-- Disconnected.
-- Fecha de última lectura.
-
-Cada resultado mostrará como mínimo:
-
-- Device ID.
-- Connection Status.
-- Temperature.
-- Humidity.
-- Last Reading.
-
-#### Monitoring Search
-
-La información de monitoreo podrá consultarse utilizando:
-
-- Device.
-- Lot.
-- Rango de fechas.
-- Ubicación.
-
-Los resultados mostrarán las principales mediciones registradas durante el período seleccionado.
-
-#### Alerts Search
-
-Las alertas podrán filtrarse según:
-
-- Estado.
-- Severidad.
-- Fecha.
-- Tipo de evento.
-- Device.
-- Lot.
-
-Por defecto, se mostrarán primero las alertas más recientes y aquellas que requieran mayor atención.
-
-#### Traceability Search
-
-La información de trazabilidad podrá consultarse mediante:
-
-- Lot ID.
-- Producto.
-- Device.
-- Período.
-
-Los resultados se mostrarán cronológicamente para facilitar la revisión de los eventos registrados durante el almacenamiento o distribución del producto.
-
-Cuando una búsqueda no presente coincidencias, la interfaz mostrará un mensaje claro y permitirá modificar o eliminar los filtros aplicados.
-
-### 6.2.4. SEO Tags and Meta Tags
-
-FreshSense utilizará SEO Tags y Meta Tags para representar adecuadamente el contenido del Landing Page y de la aplicación web.
-
-#### Landing Page
-
-| Element | Value |
-|---|---|
-| **Title** | `FreshSense | Smart Cold Chain Monitoring for Perishable Foods` |
-| **Description** | `FreshSense helps companies monitor temperature and humidity conditions during the storage and distribution of perishable food products using IoT technology.` |
-| **Keywords** | `cold chain monitoring, perishable food, IoT monitoring, temperature monitoring, humidity monitoring, food traceability, cold storage` |
-| **Author** | `FreshSense Team` |
-
-#### Web Application
-
-| Element | Value |
-|---|---|
-| **Title** | `FreshSense Platform | Monitor Your Cold Chain` |
-| **Description** | `Monitor devices, environmental conditions, lots, alerts and traceability information for perishable food products with FreshSense.` |
-| **Keywords** | `FreshSense, cold chain, IoT monitoring, food traceability, temperature, humidity, logistics` |
-| **Author** | `FreshSense Team` |
-
-#### Mobile Application - ASO
-
-En caso de publicación de la aplicación móvil mediante un App Store, se utilizarán los siguientes elementos:
-
-| Element | Value |
-|---|---|
-| **App Title** | `FreshSense` |
-| **App Subtitle** | `Smart Cold Chain Monitoring` |
-| **App Keywords** | `cold chain, food, monitoring, temperature, humidity, traceability, IoT` |
-| **App Description** | `FreshSense helps companies monitor environmental conditions, connected devices and alerts related to the storage and distribution of perishable food products.` |
-
-### 6.2.5. Navigation Systems
-
-La navegación de FreshSense busca mantener recorridos simples y consistentes entre el Landing Page y las diferentes aplicaciones.
-
-#### Landing Page - Desktop
-
-La versión Desktop utilizará una barra de navegación superior con acceso a las principales secciones:
-
-`Home | Solution | How It Works | Benefits | For Cold Chain | For Producers | Contact`
-
-Además, se mostrarán las principales acciones:
-
-`Sign In | Get Started`
-
-Los Call-to-Action permitirán dirigir a los usuarios hacia el acceso a la plataforma o hacia información específica relacionada con su segmento.
-
-#### Landing Page - Mobile
-
-En pantallas móviles, las mismas opciones estarán agrupadas en un menú compacto para reducir el espacio utilizado y priorizar el contenido principal.
-
-El orden y significado de las secciones serán equivalentes a los utilizados en Desktop.
-
-#### Web Application
-
-Una vez autenticado, el usuario tendrá acceso a los principales módulos de FreshSense:
-
-`Dashboard | Monitoring | Inventory | Lots | Devices | Alerts | Traceability | Reports`
-
-El **Dashboard** funcionará como punto inicial de la experiencia y permitirá visualizar información relevante como:
-
-- Estado general del monitoreo.
-- Dispositivos conectados.
-- Alertas activas.
-- Lecturas recientes.
-- Lotes que requieren atención.
-
-#### Mobile Application
-
-La navegación móvil priorizará las funcionalidades que requieren consulta frecuente:
-
-- Dashboard.
-- Monitoring.
-- Alerts.
-- Devices.
-- Lots.
-
-Las funcionalidades complementarias, como Inventory, Traceability y Reports, permanecerán disponibles desde la navegación secundaria.
-
-#### IoT Device Navigation
-
-La interacción con los dispositivos IoT se realiza principalmente mediante las aplicaciones Web y Mobile.
-
-El recorrido principal será:
-
-`Devices → Select Device → Monitoring → Reading Details`
-
-Para el seguimiento de productos, se utilizará:
-
-`Lots → Select Lot → Traceability → Event Details`
-
-Desde estas vistas, el usuario podrá conocer el estado de conexión de los dispositivos, consultar las mediciones de temperatura y humedad y revisar los eventos asociados al monitoreo de cada lote.
-
-Esta organización evita que el usuario necesite interactuar directamente con componentes técnicos como el ESP32 o el sensor DHT22 para utilizar las funciones principales de FreshSense.
+Se contemplan las localizaciones **`en_US`** (idioma por defecto) y **`es_419`**. No incrustar texto directamente en imágenes cuando deba traducirse; mantener longitud adaptable de etiquetas y fechas/locales. En experiencias web, utilizar etiquetas accesibles, atributos ARIA pertinentes, foco de teclado visible, texto alternativo, enlaces identificables y contraste verificable. Toda alerta tendrá icono o texto adicional al color. Las animaciones respetarán preferencias de movimiento reducido.
 
 ## 6.3. Landing Page UI Design
 
+El Landing Page explica qué ofrece FreshSense a restaurantes pequeños y negocios de alimentos fríos. Alineado con las User Stories del capítulo de requisitos, la narrativa pasa de **problema → solución → funcionamiento → beneficios → público objetivo → contacto**. La acción principal propone solicitar una demostración o ponerse en contacto, sin afirmar que exista un flujo de compra o precios definitivos.
+
+La estructura propuesta reúne un **Hero** con la promesa central del producto, una sección **How It Works**, un bloque de **Benefits**, contenido diferenciado por segmento y una sección **Contact** con llamada a la acción. La información comercial se mantiene alineada con el modelo de negocio: no se publicarán montos de planes que todavía no hayan sido definidos ni testimonios sin consentimiento y evidencia documentada. El énfasis está en facilitar el contacto con potenciales clientes empresariales.
+
 ### 6.3.1. Landing Page Wireframe
 
-A continuación se realizaron los wireframes de la landing page de FreshSense, siguiendo los user stories como referencia, para conocer las necesidades y preferencias de los usuarios visitantes:
+Los wireframes representan la **arquitectura de contenido sin decisiones visuales finales**: jerarquía, orden y ubicación de navegación, bloques, CTA y formulario. Se elaboran dos variantes, correspondientes a desktop y mobile, con las mismas secciones y diferente composición.
 
-**Figura 1.** Wireframe de la página principal 
-![Hero](Assets/LP_HERO.PNG)
+#### Wireframe — Desktop Web Browser
 
-**Figura 2.** Como funciona FreshSense
-![Hero](Assets/LP_HTW.PNG) 
+![FreshSense Landing Page — Desktop Wireframe](Assets/landing-wireframe-desktop.png)
 
-**Figura 3.** Vistazo inicial a los beneficios 
-![Hero](Assets/LP_BENEFITS.PNG) 
+*Figura VI.2. Wireframe desktop propuesto. Muestra navegación superior, Hero, tres pasos de funcionamiento, beneficios, soluciones por segmento y contacto.*
 
-**Figura 4.** Modelo inicial para los planes de subscripción.
-![Hero](Assets/LP_PLANS.PNG) 
+#### Wireframe — Mobile Web Browser
 
-**Figura 5.** Wireframe para los testimonios
-![Hero](Assets/LP_TESTIMONIALS.PNG) 
+![FreshSense Landing Page — Mobile Wireframe](Assets/landing-wireframe-mobile.png)
 
-**Figura 6.** Wireframe para el formulario y se incluye el footer
-![Hero](Assets/LP_FORM.PNG)
+*Figura VI.3. Wireframe móvil propuesto con lectura en una columna, CTA visible, menú compacto y formulario adaptado.*
+
+**Justificación:** ambas variantes conservan el significado y orden de la información; cambian su agrupación y densidad según el ancho de pantalla. El objetivo es permitir a la persona reconocer el beneficio y encontrar un punto de contacto sin aprendizaje previo. Los diagramas complementan, pero no sustituyen, la validación de navegación con usuarios de los segmentos definidos.
 
 ### 6.3.2. Landing Page Mock-up
 
-Una vez se realizaron los wireframes, usamos los Style Guidelines, para desarrollar el siguiente paso, los mock ups, utilizamos los colores y modelos referidos en los guidelines, los colores verdes y azules predominantes en el diseño, aluden a la escencia de la aplicación:
+Los mockups materializan la identidad FreshSense sobre los wireframes: verde de marca, azul de monitoreo, tipografía Poppins, componentes con radios suaves, contraste y CTAs legibles. Se muestran estados normales e informativos sin métricas inventadas ni testimonios atribuidos a usuarios reales. Los renders están basados en HTML/CSS editable incluido en `Fuentes/landing/`.
 
-**Figura 7.** Mock-Up de la página principal 
-![Hero](Assets/MK_LP_HERO.PNG) 
+#### Mock-up — Desktop Web Browser
 
-**Figura 8.** Mock-Up se muestra las funciones de FreshSense
-![Hero](Assets/MK_LP_HIW.PNG) 
+![FreshSense Landing Page — Desktop Mockup](Assets/landing-mockup-desktop.png)
 
-**Figura 9.** Vistazo inicial a los beneficios 
-![Hero](Assets/MK_LP_BENEFITS.PNG) 
+*Figura VI.4. Mockup desktop de alta fidelidad con contenido empresarial alineado con el Capítulo IV.*
 
-**Figura 10.** Mock-Up para los planes de subscripción.
-![Hero](Assets/MK_LP_PLANS.PNG) 
+#### Mock-up — Mobile Web Browser
 
-**Figura 11.** Mock-Up para los testimonios
-![Hero](Assets/MK_LP_TESTIMONIALS.PNG) 
+![FreshSense Landing Page — Mobile Mockup](Assets/landing-mockup-mobile.png)
 
-**Figura 12.** Mock-Up para el formulario y se incluye el footer
-![FORM](Assets/MK_LP_FORM.PNG)
+*Figura VI.5. Mockup móvil responsive con bloques secuenciales, navegación compacta y formulario adaptable.*
 
-## 6.4. Applications UX/UI Design
+**Criterios de validación del diseño:** (a) propuesta de valor identificable en el Hero; (b) CTA principal y alternativa de contacto; (c) visibilidad de ambos segmentos objetivo; (d) misma arquitectura semántica en desktop y móvil; (e) ausencia de contenido no evidenciado (precios, cifras de reducción de mermas, testimonios); (f) contraste, foco y jerarquía; (g) consistencia de colores, tipografía y spacing; (h) contenido en inglés con soporte estructural para internacionalización.
 
-En la sección de Applications UX/UI Design nos enfocamos en el diseño de la interfaz y la experiencia de usuario de la aplicación web de FreshSenser, donde incluimos una visualización funcional por cada parte del aplicativo con sus flujos de interacción completos. Se elaboraron wireframes en formato mobile que facilitan la disposición de las funciones de la plataforma a través de su dispositivo móvil frecuente, con elementos en pantallas que son la introducción al app, el login up, el sign up, el home o dashboard, el menú, el inventario de insumos, el detalle de cada insumo, el monitoreo de insumos, alertas, recetas, reportes, logros y soporte. En base a estos esquemas se diseñaron los mockups con alta fidelidad. En los siguientes sprints se muestra el desarrollo de cada vista de la app y cómo estas interactúan.
-
-### 6.4.1. Applications Wireframes
-
-En esta sección se presentan los wireframes en formato mobile que facilitan la disposición de las funciones de la plataforma.
-
-![wireframeapp1](Assets/wireframeapp1.png)
-![wireframeapp2](Assets/wireframeapp2.png)
-![wireframeapp3](Assets/wireframeapp3.png)
-![wireframeapp4](Assets/wireframeapp4.png)
-![wireframeapp5](Assets/wireframeapp5.png)
-![wireframeapp6](Assets/wireframeapp6.png)
-![wireframeapp7](Assets/wireframeapp7.png)
-
-### 6.4.2. Applications Wireflow Diagrams
-
-Para este apartado, el wireflow se diseñó para representar de forma detallada el proceso de uso desde el inicio de sesión hasta las funcionalidades principales, como la gestión del inventario de alimentos, el monitoreo en tiempo real, la recepción de alertas, la consulta de recetas, el seguimiento de logros y la personalización de ajustes. De esta manera, se asegura que la navegación sea coherente, intuitiva y centrada en mejorar la experiencia del usuario final.
-
-![alt text](Assets/FreshSense_Web_Applications_Wireflow_Diagrams.png)
-
-### 6.4.3. Applications Mock-ups
-
-![mockupapp1](Assets/mockupapp1.png)
-![mockupapp2](Assets/mockupapp2.png)
-![mockupapp3](Assets/mockupapp3.png)
-![mockupapp4](Assets/mockupapp4.png)
-![mockupapp5](Assets/mockupapp5.png)
-![mockupapp6](Assets/mockupapp6.png)
-![mockupapp7](Assets/mockupapp7.png)
-
-### 6.4.4. Applications User Flow Diagrams
-
-![alt text](Assets/cuadritosFLOW.jpg)
-
-Cada figura del diagrama tiene un significado específico dentro del flujo de usuario:
-
-- Start: punto de inicio del recorrido.
-
-- Page: pantalla normal de la aplicación.
-
-- Option Page: menú o sección con varias opciones.
-
-- End: final del flujo o salida de la app.
-
-- Input: ingreso de datos por parte del usuario.
-
-- Decision: condición que define diferentes caminos.
-
-- Result: acción realizada con éxito.
-
-- Notification: mensaje o alerta mostrado al usuario.
-
-![alt text](Assets/FreshSense_Web_Applications_Userflow_Diagrams.jpg)
-
-Ahora representamos los User Flow Diagrams de la aplicación web FreshSense, los cuales permiten visualizar de manera clara el recorrido que realiza el usuario dentro del sistema, desde que abre la aplicación hasta que cierra sesión. Este diagrama utiliza convenciones gráficas específicas para identificar los distintos tipos de pantallas, acciones, decisiones, resultados y notificaciones que intervienen en la experiencia del usuario. Gracias a esta representación, se facilita el análisis de la interacción, la detección de posibles mejoras en la navegación y la validación de que todos los escenarios de uso estén contemplados.
-
-## 6.5. Applications Prototyping
-
-Para validar la navegación y la interacción de los usuarios con FreshSense se desarrolló un prototipo interactivo de la aplicación. Este prototipo permite recorrer las principales vistas y funcionalidades definidas durante el proceso de diseño UX/UI, simulando el comportamiento esperado de la solución antes de su implementación completa.
-
-El prototipo facilita la validación de los flujos de navegación, la organización de las pantallas y las interacciones entre las diferentes funcionalidades de la aplicación.
-
-El prototipo interactivo de FreshSense puede consultarse en el siguiente enlace:
-
-[Prototipo interactivo de FreshSense en Figma](https://www.figma.com/proto/WMu6m6D3rPs3AI4HYKKbNJ/WireFrames-LandingPage?node-id=159-1605&p=f&t=tnVLge8rsFfHhU1S-1&scaling=min-zoom&content-scaling=fixed&page-id=159%3A1603)
-
-<div style="page-break-after: always;"></div>
-
-# Capítulo VII: Product Implementation, Validation & Deployment
-
-## 7.1. Software Configuration Management
-
-### 7.1.1. Software Development Environment Configuration
-
-### 7.1.2. Source Code Management
-
-### 7.1.3. Source Code Style Guide & Conventions
-
-### 7.1.4. Software Deployment Configuration
-
-## 7.2. Solution Implementation
-
-### 7.2.X. Sprint n
-
-#### 7.2.X.1. Sprint Planning n
-
-#### 7.2.X.2. Sprint Backlog n
-
-#### 7.2.X.3. Development Evidence for Sprint Review
-
-#### 7.2.X.4. Testing Suite Evidence for Sprint Review
-
-#### 7.2.X.5. Execution Evidence for Sprint Review
-
-#### 7.2.X.6. Services Documentation Evidence for Sprint Review
-
-#### 7.2.X.7. Software Deployment Evidence for Sprint Review
-
-#### 7.2.X.8. Team Collaboration Insights during Sprint
-
-## 7.3. Validation Interviews
-
-### 7.3.1. Diseño de Entrevistas
-
-### 7.3.2. Registro de Entrevistas
-
-### 7.3.3. Evaluaciones según heurísticas
-
-## 7.4. Video About-the-Product
-
-<div style="page-break-after: always;"></div>
-
-# Conclusiones
-
-# Conclusiones y recomendaciones
-
-# Video About-the-Team
-
-# Bibliografía
-
-# Anexos
+**Alcance de los mockups:** estas vistas representan las decisiones de interfaz y el comportamiento visual esperado del Landing Page de FreshSense. Constituyen una referencia para las posteriores actividades de prototipado, implementación y validación con usuarios; no representan por sí solas resultados de entrevistas ni evidencia de software en ejecución.
