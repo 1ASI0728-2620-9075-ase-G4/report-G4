@@ -263,7 +263,7 @@ La startup plantea un modelo de negocio basado en la comercialización de los di
 
 <tr>
       <td style="text-align:center;">
-        <img alt="Sebastian Ramos" src="https://i.postimg.cc/8ktyLZj4/Sebastian-Ramos-foto-perfil.jpg" width="100" />
+        <img alt="Sebastian Ramos" src="https://i.postimg.cc/8ktyLZj4/Sebastian-Ramos-foto-perfil.jpg" />
       </td>
       <td>
         <strong>Sebastian Alexander Ramos Calagua - U202222846</strong><br>
