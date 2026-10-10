@@ -37,7 +37,7 @@
 | Cossar Sánchez, Eduardo Jose | U202312109 |
 | Mostajo Orosco, Maria Fernanda | U202312874 |
 | Gonzáles Valverde, Carlos Matthew | u202314130 |
-| Ramos, Sebastian | U202222846 |
+| Ramos Calagua, Sebastian Alexander | U202222846 |
 <br>
 
 **Septiembre 2026**
