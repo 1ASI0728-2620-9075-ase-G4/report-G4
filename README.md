@@ -260,9 +260,16 @@ La startup plantea un modelo de negocio basado en la comercialización de los di
         Mi nombre es Carlos Matthew Gonzales Valverde, soy estudiante de la carrera de Ingenieria de Software, me encuentro cursando el octavo ciclo y tengo 21 años. Me considero una persona amable y activa en el ambito tanto de los proyectos como fuera de ellos, se trabajar bajo presion y apoyo cada vez que pueda a mis compañeros, siempre busco que todo se cumpla a su medida segun las cosas que se requiera para un trabajo. Disfruto aprender ya sea de mis compañeros, siempre estoy dispuesto a aprender cosas nuevas o tambien a enseñarlas ya que me ayuda mucho en mi ambito profesional que me estoy desarrollando.
       </td>
   </tr>
-
-
-
+  
+<tr>
+      <td style="text-align:center;">
+        <img alt="Sebastian Ramos" src="https://i.postimg.cc/8ktyLZj4/Sebastian-Ramos-foto-perfil.jpg" />
+      </td>
+      <td>
+        <strong>Sebastian Alexander Ramos Calagua - U202222846</strong><br>
+        Mi nombre es Sebastian Alexander Ramos Calagua. Soy estudiante de la carrera de Ingeniería de Software y tengo 23 años. Me desempeño como Analista Programador con experiencia en el desarrollo backend utilizando C# y .NET, automatización con Python y creación de aplicaciones con Flutter. Poseo un sólido manejo de bases de datos en SQL Server, diseño de arquitecturas mediante C4 Model (PlantUML, Structurizr) y control de versiones con Git/GitHub. Orientado a la creación de APIs eficientes y al trabajo colaborativo en equipo para lograr nuestros objetivos.
+      </td>
+  </tr>
 </table>
 
 ## 1.2. Solution Profile
