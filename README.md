@@ -198,13 +198,12 @@ El curso contribuye al cumplimiento del Student Outcome ABET.
 
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-| Criterio especifico | Acciones realizadas | Conclusiones |
-|---|---|---|
-| **Comunica oralmente sus ideas y/o resultados con objetividad a publico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniera.** | **Maria Fernanda Mostajo Orosco** <br> *AV1* <br> Presenta los hallazgos del analisis competitivo con claridad y precision tecnica, adaptando el lenguaje a la audiencia multidisciplinaria del proyecto. <br><br> **Eduardo Jose Cossar Sanchez** <br> *AV1* <br> Comunica efectivamente los conceptos de Domain-Driven Design y arquitectura C4, explicando la estrategia de bounded contexts de manera comprensible para stakeholders sin experiencia en DDD. <br><br> **Romina Tuesta Marin** <br> *AV1* <br> Expuso el diseño tactico de los bounded contexts, demostrando capacidad para sintetizar informacion compleja en presentaciones accesibles a diferentes niveles tecnicos. <br><br> **Carlos Matthew Gonzales Valverde** <br> *AV1* <br> Participó activamente en la organización y distribución de las responsabilidades del equipo, apoyando en las actividades de análisis, diseño y documentación del proyecto. Asimismo, coordinó con los demás integrantes para revisar los avances. <br><br> **Sebastian Ramos Calagua** <br> *AV1* <br> Explicó el diseño de experiencia de usuario y la arquitectura táctica de los módulos asignados, adaptando el lenguaje técnico para una rápida comprensión de los flujos de interacción y diagramas C4 por parte del equipo. <br>| Los cinco integrantes demostraron capacidad de comunicacion oral efectiva adaptando el contenido tecnico a la audiencia, cumpliendo con el objetivo de transmitir ideas de manera clara y objetiva en un contexto de ingenieria. |
-| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingenieria.** | **Maria Fernanda Mostajo Orosco** <br> *AV1* <br> Redacta el analisis competitivo con estructura clara, utilizando tablas comparativas y un lenguaje tecnico preciso, facilitando la comprensi√≥n de estrategias diferenciadas. <br><br> **Eduardo Jose Cossar Sanchez** <br> *AV1* <br> Documentó exhaustivamente el diseño estrategico con diagramas EventStorming y Context Maps, proporcionando explicaciones complementarias que justifican cada decisi√≥n arquitectonica. <br><br> **Romina Tuesta Marin** <br> *AV1* <br> Escribia especificaciones técnicas detalladas de los bounded contexts tacticos, manteniendo coherencia terminologica y estructura jerarquica que facilita la lectura y referencia posterior. <br><br> **Carlos Matthew Gonzales Valverde** <br> *AV1* <br> Se establecieron objetivos y tareas para cada integrante, organizando las actividades de acuerdo con las prioridades del proyecto. Se mantuvo una comunicación constante para resolver dudas, compartir avances y realizar ajustes cuando fue necesario. <br><br> **Sebastian Ramos Calagua** <br> *AV1* <br> Redactó la documentación técnica correspondiente a la arquitectura de información, los wireflows y los diccionarios de dominio en inglés, manteniendo un alto estándar técnico y estructural en el informe. <br>| Los cinco miembros cumplieron con el estandar de comunicacion escrita en ingenieria, produciendo documentacion tecnica clara, estructurada y accesible a diferentes niveles de especializacion. |
 
----
-<div style="page-break-after: always;"></div>
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---|---|---|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **Maria Fernanda Mostajo Orosco** <br> **AV1** <br> Presenta los hallazgos del análisis competitivo con claridad y precisión técnica, adaptando el lenguaje a la audiencia multidisciplinaria del proyecto. <br><br> **TB1** <br> Explicó los avances relacionados con las funcionalidades de monitoreo y alertas de FreshSense, comunicando los resultados del Sprint 1 y los aspectos que requerían ajustes. Asimismo, participó en las coordinaciones técnicas para facilitar la comprensión de los componentes desarrollados. <br><br> **AV2** <br> Explicó el funcionamiento de las nuevas características del backend, especialmente la recepción de datos del gas etileno y la generación de alertas ante niveles elevados. Comunicó los resultados de las pruebas de integración y las decisiones técnicas adoptadas para garantizar el intercambio de información entre los componentes. <br><br> **Eduardo Jose Cossar Sanchez** <br> **AV1** <br> Comunica efectivamente los conceptos de Domain-Driven Design y arquitectura C4, explicando la estrategia de bounded contexts de manera comprensible para stakeholders sin experiencia en DDD. <br><br> **TB1** <br> Explicó los resultados de las entrevistas realizadas a los segmentos objetivo, destacando las principales necesidades identificadas. Asimismo, comunicó los avances de desarrollo, pruebas y despliegue del Sprint 1, utilizando un lenguaje comprensible para los integrantes del equipo. <br><br> **AV2** <br> Presentó el funcionamiento de la primera versión de la aplicación móvil de FreshSense, explicando los flujos de monitoreo, alertas, vinculación del sensor mediante QR e ingreso de colaboradores. Asimismo, comunicó las decisiones de integración con el backend y la aplicación web para mantener una experiencia consistente entre plataformas. <br><br> **Romina Tuesta Marin** <br> **AV1** <br> Expuso el diseño táctico de los bounded contexts, demostrando capacidad para sintetizar información compleja en presentaciones accesibles a diferentes niveles técnicos. <br><br> **TB1** <br> Explicó los avances del Landing Page y los componentes IoT de FreshSense, comunicando las principales decisiones de implementación y los resultados obtenidos. Asimismo, participó en las reuniones de coordinación para transmitir los objetivos del Sprint 1 y resolver dudas técnicas entre los integrantes. <br><br> **AV2** <br> Presentó los avances del dispositivo IoT, explicando la integración de la lectura del gas etileno en el firmware del ESP32 y las pruebas realizadas con el hardware físico. Asimismo, comunicó los objetivos del Sprint 2, las responsabilidades del equipo y los acuerdos de mejora establecidos durante la retrospectiva. <br><br> **Carlos Matthew Gonzales Valverde** <br> **AV1** <br> Participó activamente en la organización y distribución de las responsabilidades del equipo, apoyando en las actividades de análisis, diseño y documentación del proyecto. Asimismo, coordinó con los demás integrantes para revisar los avances. <br><br> **TB1** <br> Comunicó los avances correspondientes a las 11 historias seleccionadas para el Sprint 1, explicando su organización dentro del Sprint Backlog y el estado de las evidencias de ejecución. Asimismo, coordinó con los responsables del Landing Page, Frontend y Backend para transmitir los aspectos pendientes y facilitar su integración. <br><br> **AV2** <br> Explicó el funcionamiento de la primera versión del Edge API, describiendo el proceso de recepción de lecturas del dispositivo IoT y su reenvío al backend ante interrupciones de conexión. Asimismo, comunicó las decisiones técnicas relacionadas con la vinculación de dispositivos y la integración de los servicios. <br><br> **Sebastian Ramos Calagua** <br> **AV1** <br> Explicó el diseño de experiencia de usuario y la arquitectura táctica de los módulos asignados, adaptando el lenguaje técnico para una rápida comprensión de los flujos de interacción y diagramas C4 por parte del equipo. <br><br> **TB1** <br> Explicó las actividades de despliegue de FreshSense en Google Cloud, describiendo la configuración del servidor, el uso de Nginx y la publicación del Backend y Frontend. Asimismo, comunicó los resultados de las verificaciones de accesibilidad y las soluciones técnicas aplicadas durante el Sprint 1. <br><br> **AV2** <br> Presentó los avances del despliegue de la nueva versión del backend y la preparación del Edge API para su funcionamiento en la red local. Asimismo, explicó el proceso de generación del instalable de la aplicación móvil y las funcionalidades implementadas, comunicando las decisiones técnicas y los resultados obtenidos durante el Sprint 2. | **AV1** <br> Los cinco integrantes demostraron capacidad de comunicación oral efectiva adaptando el contenido técnico a la audiencia, cumpliendo con el objetivo de transmitir ideas de manera clara y objetiva en un contexto de ingeniería. <br><br> **TB1** <br> La comunicación oral permitió presentar los avances del Sprint 1 y explicar las decisiones relacionadas con el desarrollo, las pruebas y el despliegue de FreshSense. Los integrantes compartieron información técnica de manera clara, facilitando la coordinación y comprensión de los resultados del proyecto. <br><br> **AV2** <br> La comunicación oral facilitó la explicación de los nuevos componentes de FreshSense, incluyendo el dispositivo IoT, el Edge API, el backend y la aplicación móvil. Los integrantes lograron transmitir los avances y decisiones técnicas del Sprint 2, favoreciendo la comprensión de la integración entre los diferentes componentes de la solución. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **Maria Fernanda Mostajo Orosco** <br> **AV1** <br> Redacta el análisis competitivo con estructura clara, utilizando tablas comparativas y un lenguaje técnico preciso, facilitando la comprensión de estrategias diferenciadas. <br><br> **TB1** <br> Contribuyó a la documentación de las funcionalidades de monitoreo y alertas de FreshSense, organizando la información sobre los avances del Sprint 1 y los aspectos pendientes de implementación. Asimismo, colaboró en la revisión del informe para mantener la coherencia de las funcionalidades descritas. <br><br> **AV2** <br> Documentó las nuevas funcionalidades del backend relacionadas con la ingesta de lecturas del gas etileno y la generación de alertas. Asimismo, describió los formatos de intercambio de información utilizados para la integración con la aplicación móvil y el Edge API, manteniendo claridad y precisión técnica. <br><br> **Eduardo Jose Cossar Sanchez** <br> **AV1** <br> Documentó exhaustivamente el diseño estratégico con diagramas EventStorming y Context Maps, proporcionando explicaciones complementarias que justifican cada decisión arquitectónica. <br><br> **TB1** <br> Elaboró la documentación correspondiente a las entrevistas de los segmentos objetivo y contribuyó al registro de evidencias de desarrollo, pruebas y despliegue del Sprint 1. Organizó la información mediante descripciones técnicas claras y estructuradas, manteniendo coherencia con los objetivos del proyecto. <br><br> **AV2** <br> Documentó las funcionalidades y los flujos de interacción de la primera versión de la aplicación móvil, incluyendo las pantallas de monitoreo, alertas, vinculación del sensor mediante QR e ingreso de colaboradores. Asimismo, describió la integración con los servicios del backend y la consistencia funcional con la aplicación web. <br><br> **Romina Tuesta Marin** <br> **AV1** <br> Escribía especificaciones técnicas detalladas de los bounded contexts tácticos, manteniendo coherencia terminológica y estructura jerárquica que facilita la lectura y referencia posterior. <br><br> **TB1** <br> Contribuyó a la documentación de los avances del Landing Page y los componentes IoT de FreshSense, describiendo las funcionalidades implementadas y su relación con los objetivos del Sprint 1. Asimismo, participó en la organización de los entregables y en la revisión de la información técnica del proyecto. <br><br> **AV2** <br> Elaboró la documentación del Sprint Planning 2, la matriz de líderes y colaboradores y el Sprint Backlog 2, especificando las responsabilidades y tareas del equipo. Asimismo, registró los acuerdos de la retrospectiva del Sprint 1 y documentó los avances del firmware del ESP32 relacionados con la lectura del gas etileno. <br><br> **Carlos Matthew Gonzales Valverde** <br> **AV1** <br> Se establecieron objetivos y tareas para cada integrante, organizando las actividades de acuerdo con las prioridades del proyecto. Se mantuvo una comunicación constante para resolver dudas, compartir avances y realizar ajustes cuando fue necesario. <br><br> **TB1** <br> Elaboró y organizó la documentación correspondiente a las 11 historias seleccionadas para el Sprint 1, incluyendo su seguimiento en el Sprint Backlog y las evidencias de ejecución. Asimismo, recopiló capturas de los componentes implementados y referencias de los servicios para mantener un registro claro de los avances del proyecto. <br><br> **AV2** <br> Documentó las características técnicas de la primera versión del Edge API, describiendo la recepción y el reenvío de lecturas del dispositivo IoT ante interrupciones de conexión. Asimismo, especificó los formatos de intercambio de datos y los mecanismos de vinculación de dispositivos y colaboradores, facilitando la comprensión de su integración con el backend. <br><br> **Sebastian Ramos Calagua** <br> **AV1** <br> Redactó la documentación técnica correspondiente a la arquitectura de información, los wireflows y los diccionarios de dominio en inglés, manteniendo un alto estándar técnico y estructural en el informe. <br><br> **TB1** <br> Documentó los procedimientos técnicos necesarios para el despliegue de FreshSense en Google Cloud, incluyendo la preparación del servidor, la configuración de Nginx y la publicación del Backend y Frontend. Asimismo, registró las actividades de verificación de accesibilidad y los resultados obtenidos durante el Sprint 1. <br><br> **AV2** <br> Contribuyó a la documentación de los procedimientos de despliegue de la nueva versión del backend y la preparación del Edge API para su ejecución en la red local. Asimismo, registró las actividades relacionadas con la generación del instalable de la aplicación móvil y la integración de sus funcionalidades, manteniendo información técnica organizada para futuras revisiones. | **AV1** <br> Los cinco miembros cumplieron con el estándar de comunicación escrita en ingeniería, produciendo documentación técnica clara, estructurada y accesible a diferentes niveles de especialización. <br><br> **TB1** <br> La documentación desarrollada durante el Sprint 1 permitió registrar de manera organizada los avances de implementación, las evidencias de ejecución y los procedimientos de despliegue de FreshSense. Los integrantes contribuyeron a mantener información técnica clara y coherente, facilitando su comprensión y posterior revisión. <br><br> **AV2** <br> La comunicación escrita permitió documentar los avances del Sprint 2, incluyendo la integración del dispositivo IoT, el Edge API, el backend y la aplicación móvil. La organización de las especificaciones técnicas, los procedimientos y las evidencias contribuyó a mantener la trazabilidad del desarrollo y facilitó la comprensión de la arquitectura y las funcionalidades implementadas. |
+
 
 # Capítulo I: Introducción
 
@@ -2053,23 +2052,1600 @@ Esta distribución permite separar el entorno físico encargado de obtener las c
 
 # Capítulo V: Tactical-Level Software Design
 
-## 5.X. Bounded Context: <Bounded Context Name>
+Esta sección detalla el diseño táctico de cada uno de los ocho bounded contexts de FreshSense, siguiendo la arquitectura en capas (Domain, Interface, Application, Infrastructure) y el patrón CQS (Command/Query Separation) usado de forma consistente en todo el backend.
 
-### 5.X.1. Domain Layer
+## 5.1. Bounded Context: User Management
 
-### 5.X.2. Interface Layer
+El **User Management (IAM — Identity and Access Management) Bounded Context** es responsable de gestionar la autenticación y la creación de usuarios en el sistema. Este contexto asegura que los usuarios puedan registrarse, iniciar sesión y gestionar sus credenciales de manera segura, cumpliendo con los estándares de seguridad y privacidad. Implementa el control de acceso basado en roles (RBAC) con tokens JWT exigido por la **TS43**, y el flujo de recuperación de contraseña de la **US35**.
 
-### 5.X.3. Application Layer
+### 5.1.1. Domain Layer
 
-### 5.X.4. Infrastructure Layer
+La Domain Layer del User Management Bounded Context encapsula la lógica de negocio del contexto. En esta capa se definen los agregados, entidades, objetos de valor, servicios de dominio y políticas que representan los conceptos clave del sistema.
 
-### 5.X.6. Bounded Context Software Architecture Component Level Diagrams
+**Aggregates**
 
-### 5.X.7. Bounded Context Software Architecture Code Level Diagrams
+1. **User**
+   - *Propósito:* Agregado raíz que representa a una persona con cuenta en FreshSense. Encapsula credenciales, datos de identidad y roles de acceso.
 
-#### 5.X.7.1. Bounded Context Domain Layer Class Diagrams
+   - *Atributos:*
 
-#### 5.X.7.2. Bounded Context Database Design Diagram
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador único del usuario. |
+| email | Email (VO) | Correo electrónico único, usado como nombre de usuario. |
+| fullName | String | Nombre completo del usuario. |
+| passwordHash | PasswordHash (VO) | Contraseña almacenada con hash BCrypt (nunca en texto plano). |
+| roles | Set&lt;Role&gt; | Roles asignados (ROLE_USER, ROLE_PREMIUM, ROLE_ADMIN). |
+| createdAt / updatedAt | DateTime | Campos de auditoría. |
+   - *Métodos:*
+
+| Método | Descripción |
+|---|---|
+| User(SignUpCommand, Set&lt;Role&gt;) | Crea un usuario validando unicidad del email y la política de contraseña. |
+| addRole(Role) / addRoles(List&lt;Role&gt;) | Asigna uno o varios roles válidos al usuario (US36). |
+| requestPasswordReset() | Genera un `ResetToken` temporal y único para la recuperación (US35). |
+| resetPassword(token, newHash) | Valida el token vigente, reemplaza el hash y lo invalida (uso único). |
+| registerSignIn() | Registra el último acceso y habilita la emisión del JWT. |
+
+**Entities**
+
+1. **Role** — Rol que puede asignarse a un usuario para el control de acceso RBAC (TS43, US36).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del rol. |
+| name | Roles (enum) | ROLE_USER, ROLE_PREMIUM o ROLE_ADMIN. |
+
+| Método | Descripción |
+|---|---|
+| getDefaultRole() | Devuelve ROLE_USER. |
+| toRoleFromName(String) | Convierte un nombre en instancia de Role. |
+| validateRoleSet(List&lt;Role&gt;) | Asigna el rol por defecto si el conjunto es nulo o vacío. |
+2. **ResetToken** — Token de un solo uso para restablecer la contraseña (US35).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador. |
+| tokenHash | String | Hash del token enviado por correo. |
+| expiresAt | DateTime | Vencimiento del enlace de recuperación. |
+| used | boolean | Indica si ya fue consumido. |
+
+| Método | Descripción |
+|---|---|
+| isExpired() | Evalúa si el token venció. |
+| markUsed() | Invalida el token. |
+**Value Objects**
+
+| Value Object | Descripción |
+|---|---|
+| Email | Encapsula y valida el formato del correo electrónico. |
+| PasswordHash | Encapsula el hash BCrypt; impide exponer la contraseña en texto plano. |
+| Roles | Enumeración inmutable: `ROLE_USER`, `ROLE_PREMIUM`, `ROLE_ADMIN`. |
+| AccessToken | Token JWT emitido tras la autenticación, con los claims de rol (TS43). |
+
+**Domain Services**
+
+| Servicio | Descripción |
+|---|---|
+| PasswordPolicyService | Valida longitud mínima, mayúscula, minúscula y número antes de aceptar una contraseña. |
+| TokenService | Genera y valida los tokens JWT que protegen los endpoints, incluidos los Premium (TS43). |
+
+**Domain Events**
+
+| Evento | Descripción |
+|---|---|
+| UserRegistered | Se creó la cuenta (ES: *cuenta registrada*). Dispara la creación del plan FREE y del perfil. |
+| SessionStarted | El usuario se autenticó correctamente (ES: *sesión iniciada*). |
+| PasswordResetRequested | Se solicitó el enlace de recuperación (US35). |
+| PasswordReset | Se restableció la contraseña. |
+| UserRoleChanged | Un administrador modificó el rol o plan del usuario (US36). |
+
+**Policies**
+
+- **Validar si existe el usuario**: no se permite registrar dos cuentas con el mismo email.
+- **Asignar rol por defecto**: cuando se registra un usuario sin roles, el sistema le asigna automáticamente `ROLE_USER`.
+- **Bloquear endpoints Premium**: cuando un JWT sin `ROLE_PREMIUM` invoca un endpoint exclusivo, el middleware responde `403 Forbidden` (TS43).
+
+### 5.1.2. Interface Layer
+
+La Interface Layer del User Management expone los puntos de entrada del contexto mediante controladores REST, recursos y *assemblers* que traducen entre el modelo HTTP y el modelo de dominio.
+
+**Controllers**
+
+1. **AuthenticationController** — Registro, inicio de sesión y recuperación de credenciales.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| POST | /api/v1/authentication/sign-up | Registra un nuevo usuario en el sistema. |
+| POST | /api/v1/authentication/sign-in | Autentica al usuario y genera un token de acceso. |
+| POST | /api/v1/authentication/forgot-password | Envía el enlace de restablecimiento (US35). |
+| POST | /api/v1/authentication/reset-password | Restablece la contraseña con el token recibido. |
+   - *Dependencias:* UserCommandService
+
+2. **UsersController** — Gestiona las operaciones relacionadas con los usuarios.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/users | Obtiene la lista de todos los usuarios (solo ROLE_ADMIN). |
+| GET | /api/v1/users/{userId} | Obtiene los detalles de un usuario específico por su ID. |
+| PATCH | /api/v1/users/{userId}/roles | Modifica los roles del usuario (US36). |
+   - *Dependencias:* UserQueryService, UserCommandService
+
+3. **RolesController** — Gestiona las consultas relacionadas con los roles.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/roles | Obtiene la lista de todos los roles disponibles. |
+   - *Dependencias:* RoleQueryService
+
+**Resources**
+
+| Resource | Campos |
+|---|---|
+| UserResource | id, email, fullName, roles |
+| AuthenticatedUserResource | id, email, token (JWT) |
+| SignUpResource | email, fullName, password, roles |
+| SignInResource | email, password |
+| ResetPasswordResource | token, newPassword |
+| RoleResource | id, name |
+
+**Transformers / Assemblers**
+
+| Assembler | Transformación |
+|---|---|
+| UserResourceFromEntityAssembler | Convierte una entidad `User` en un recurso `UserResource`. |
+| AuthenticatedUserResourceFromEntityAssembler | Convierte un `User` y su token en `AuthenticatedUserResource`. |
+| SignUpCommandFromResourceAssembler | Convierte `SignUpResource` en el comando `SignUpCommand`. |
+| SignInCommandFromResourceAssembler | Convierte `SignInResource` en el comando `SignInCommand`. |
+| RoleResourceFromEntityAssembler | Convierte una entidad `Role` en un recurso `RoleResource`. |
+
+### 5.1.3. Application Layer
+
+La Application Layer del User Management coordina las operaciones entre la Interface Layer y la Domain Layer, orquestando comandos, consultas y la reacción a eventos de otros contextos.
+
+**Command Services**
+
+| Servicio | Comandos que maneja | Descripción |
+|---|---|---|
+| UserCommandServiceImpl | SignUpCommand, SignInCommand, RequestPasswordResetCommand, ResetPasswordCommand | Registra usuarios, autentica credenciales, emite el JWT y gestiona la recuperación de contraseña. |
+| RoleCommandServiceImpl | SeedRolesCommand, AssignRoleCommand | Crea los roles predefinidos al iniciar el sistema y asigna roles a los usuarios (US36). |
+
+**Query Services / Facades**
+
+| Servicio | Consultas | Descripción |
+|---|---|---|
+| UserQueryServiceImpl | GetAllUsersQuery, GetUserByIdQuery, GetUserByEmailQuery | Recupera usuarios registrados sin modificar el estado del sistema. |
+| RoleQueryServiceImpl | GetAllRolesQuery, GetRoleByNameQuery | Recupera los roles disponibles. |
+| IamContextFacade | existsUserById, getRolesOf | Open Host Service que exponen los demás bounded contexts para validar identidad. |
+
+**Event Handlers**
+
+| Handler | Evento que escucha | Reacción |
+|---|---|---|
+| ApplicationReadyEventHandler | ApplicationReadyEvent (Spring Boot) | Ejecuta `SeedRolesCommand` para crear ROLE_USER, ROLE_PREMIUM y ROLE_ADMIN si no existen. |
+| SubscriptionChangedEventHandler | PlanTypeAcquired (Subscription Management) | Sincroniza el rol `ROLE_PREMIUM` del usuario cuando su plan cambia. |
+
+### 5.1.4. Infrastructure Layer
+
+La Infrastructure Layer del User Management implementa la persistencia y las integraciones técnicas (ACL) hacia otros contextos y sistemas externos.
+
+| Componente | Tipo | Responsabilidad |
+|---|---|---|
+| UserRepository | JPA Repository | Persistencia de usuarios; `findByEmail`, `existsByEmail`. |
+| RoleRepository | JPA Repository | Persistencia de roles; `findByName`, `existsByName`. |
+| ResetTokenRepository | JPA Repository | Persistencia de los tokens de recuperación (US35). |
+| BCryptHashingService | Servicio técnico | Codifica y verifica contraseñas con BCrypt. |
+| JwtTokenService | Servicio técnico | Genera y valida los tokens JWT con los claims de rol (TS43). |
+| NotificationGatewayAdapter | ACL saliente | Solicita al Notification Service el envío del correo de recuperación (TS42). |
+
+### 5.1.6. Bounded Context Software Architecture Component Level Diagrams
+
+<figure id="fig-comp-iam" style="margin:1.5em 0;text-align:center">
+<img src="Assets/componentes-gestion-usuarios.png" alt="Component Level Diagram — User Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Component Level Diagram — User Management.</em></figcaption>
+</figure>
+
+### 5.1.7. Bounded Context Software Architecture Code Level Diagrams
+
+#### 5.1.7.1. Bounded Context Domain Layer Class Diagrams
+
+<figure id="fig-class-iam" style="margin:1.5em 0;text-align:center">
+<img src="Assets/clases-gestion-usuarios.png" alt="Class Diagram (Domain Layer) — User Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Class Diagram (Domain Layer) — User Management.</em></figcaption>
+</figure>
+
+#### 5.1.7.2. Bounded Context Database Design Diagram
+
+<figure id="fig-er-iam" style="margin:1.5em 0;text-align:center">
+<img src="Assets/bd-gestion-usuarios.png" alt="Database Design Diagram — User Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Database Design Diagram — User Management.</em></figcaption>
+</figure>
+
+## 5.2. Bounded Context: Subscription Management
+
+El **Subscription Management Bounded Context** administra el ciclo de vida de los planes de FreshSense (FREE y PREMIUM), el cobro recurrente a través de la pasarela de pagos y la emisión de comprobantes. Implementa la integración con el **Sistema de Pago** exigida por la **TS44** y la descarga de facturas de la **US38**. Es el contexto que habilita las funcionalidades Premium (US17-US19).
+
+### 5.2.1. Domain Layer
+
+La Domain Layer del Subscription Management Bounded Context encapsula la lógica de negocio del contexto. En esta capa se definen los agregados, entidades, objetos de valor, servicios de dominio y políticas que representan los conceptos clave del sistema.
+
+**Aggregates**
+
+1. **Subscription**
+   - *Propósito:* Agregado raíz que representa el plan contratado por un usuario y su vigencia.
+
+   - *Atributos:*
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador de la suscripción. |
+| userId | UUID | Usuario propietario del plan. |
+| plan | PlanType (VO) | FREE o PREMIUM. |
+| startedAt | DateTime | Fecha de inicio de la vigencia. |
+| endsAt | DateTime? | Fecha de término; nula para el plan FREE. |
+| active | boolean | Indica si la suscripción está vigente. |
+   - *Métodos:*
+
+| Método | Descripción |
+|---|---|
+| isActive() | Indica si el plan está vigente a la fecha actual. |
+| upgradeToPremium(period) | Cambia el plan a PREMIUM y fija la fecha de término. |
+| renew(days) | Extiende la vigencia al confirmarse el webhook de pago (TS44). |
+| cancel() | Desactiva la renovación automática y marca el fin del periodo. |
+
+**Entities**
+
+1. **Payment** — Cobro procesado por la pasarela para una suscripción (TS44, US38).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del pago. |
+| subscriptionId | UUID | Suscripción asociada. |
+| amount | Money (VO) | Importe cobrado. |
+| provider | String | Identificador del medio de pago procesado por el Sistema de Pago. |
+| externalRef | String | Identificador del cobro en la pasarela. |
+| paidAt | DateTime | Fecha de confirmación. |
+| invoiceUrl | String | Enlace al comprobante en PDF (US38). |
+
+| Método | Descripción |
+|---|---|
+| confirm(externalRef) | Marca el pago como confirmado tras el webhook. |
+| generateInvoice() | Produce el comprobante descargable en PDF. |
+**Value Objects**
+
+| Value Object | Descripción |
+|---|---|
+| PlanType | Enumeración inmutable: `FREE`, `PREMIUM`. |
+| Money | Importe con moneda; evita operar con números sueltos. |
+| BillingPeriod | Periodo de facturación: `MONTHLY` o `ANNUAL`. |
+
+**Domain Services**
+
+| Servicio | Descripción |
+|---|---|
+| PlanEntitlementService | Determina qué funcionalidades (analítica avanzada, costeo de fichas técnicas, exportación) habilita cada plan. |
+
+**Domain Events**
+
+| Evento | Descripción |
+|---|---|
+| PlanTypeAcquired | Se asignó un plan al usuario (ES: *tipo de plan adquirido*). |
+| SubscriptionUpgraded | El usuario pasó de FREE a PREMIUM. |
+| SubscriptionRenewed | La pasarela confirmó la renovación y se extendió la vigencia (TS44). |
+| SubscriptionExpired | Venció la suscripción y el usuario regresó al plan FREE. |
+| PaymentConfirmed | Se registró un cobro exitoso y su comprobante (US38). |
+
+**Policies**
+
+- **Asignar plan gratuito**: cuando ocurre `UserRegistered`, se crea automáticamente una suscripción FREE.
+- **Extender vigencia por webhook**: cuando la pasarela confirma la renovación mensual, se extiende la fecha de vigencia 30 días (TS44).
+- **Degradar al vencer**: cuando `endsAt` es anterior a la fecha actual, la suscripción se marca inactiva y el usuario vuelve a FREE.
+
+### 5.2.2. Interface Layer
+
+La Interface Layer del Subscription Management expone los puntos de entrada del contexto mediante controladores REST, recursos y *assemblers* que traducen entre el modelo HTTP y el modelo de dominio.
+
+**Controllers**
+
+1. **SubscriptionsController** — Gestiona la consulta y el cambio de plan del usuario.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/subscriptions/me | Obtiene la suscripción vigente del usuario autenticado. |
+| POST | /api/v1/subscriptions/upgrade | Inicia el cambio a plan PREMIUM consumiendo el Sistema de Pago para crear el cobro (TS44). |
+| POST | /api/v1/subscriptions/cancel | Cancela la renovación automática. |
+   - *Dependencias:* SubscriptionCommandService, SubscriptionQueryService
+
+2. **PaymentsController** — Expone el historial de pagos y los comprobantes (US38).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/payments | Lista los cobros del usuario. |
+| GET | /api/v1/payments/{paymentId}/invoice | Descarga el comprobante en PDF. |
+   - *Dependencias:* PaymentQueryService
+
+3. **BillingWebhookController** — Recibe las notificaciones de la pasarela de pagos (TS44).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| POST | /api/v1/billing/webhook | Procesa la notificación del Sistema de Pago y extiende la vigencia. |
+   - *Dependencias:* SubscriptionCommandService
+
+**Resources**
+
+| Resource | Campos |
+|---|---|
+| SubscriptionResource | id, plan, startedAt, endsAt, active |
+| UpgradeResource | plan, billingPeriod |
+| PaymentResource | id, amount, provider, paidAt, invoiceUrl |
+| WebhookPayloadResource | eventType, externalRef, amount, status |
+
+**Transformers / Assemblers**
+
+| Assembler | Transformación |
+|---|---|
+| SubscriptionResourceFromEntityAssembler | Convierte `Subscription` en `SubscriptionResource`. |
+| PaymentResourceFromEntityAssembler | Convierte `Payment` en `PaymentResource`. |
+| UpgradeCommandFromResourceAssembler | Convierte `UpgradeResource` en `UpgradeSubscriptionCommand`. |
+
+### 5.2.3. Application Layer
+
+La Application Layer del Subscription Management coordina las operaciones entre la Interface Layer y la Domain Layer, orquestando comandos, consultas y la reacción a eventos de otros contextos.
+
+**Command Services**
+
+| Servicio | Comandos que maneja | Descripción |
+|---|---|---|
+| SubscriptionCommandServiceImpl | CreateFreeSubscriptionCommand, UpgradeSubscriptionCommand, RenewSubscriptionCommand, CancelSubscriptionCommand | Crea, actualiza y cancela suscripciones; al ejecutar `UpgradeSubscriptionCommand` consume el `PaymentGatewayAdapter` para iniciar el cobro en el Sistema de Pago. |
+| PaymentCommandServiceImpl | ConfirmPaymentCommand, GenerateInvoiceCommand | Registra los cobros confirmados y genera los comprobantes en PDF (US38). |
+
+**Query Services / Facades**
+
+| Servicio | Consultas | Descripción |
+|---|---|---|
+| SubscriptionQueryServiceImpl | GetSubscriptionByUserQuery, GetActivePlanQuery | Recupera el plan vigente del usuario. |
+| PaymentQueryServiceImpl | GetPaymentsByUserQuery, GetInvoiceQuery | Recupera el historial de cobros y comprobantes. |
+| SubscriptionsContextFacade | hasPremiumAccess(userId) | Open Host Service consultado por Report e Inventory para habilitar funciones Premium. |
+
+**Event Handlers**
+
+| Handler | Evento que escucha | Reacción |
+|---|---|---|
+| UserRegisteredEventHandler | UserRegistered (User Management) | Crea automáticamente una suscripción FREE para el usuario recién registrado. |
+| BillingWebhookEventHandler | PaymentConfirmed (pasarela externa) | Extiende la vigencia de la suscripción 30 días y emite `SubscriptionRenewed` (TS44). |
+
+### 5.2.4. Infrastructure Layer
+
+La Infrastructure Layer del Subscription Management implementa la persistencia y las integraciones técnicas (ACL) hacia otros contextos y sistemas externos.
+
+| Componente | Tipo | Responsabilidad |
+|---|---|---|
+| SubscriptionRepository | JPA Repository | Persistencia de suscripciones; `findByUserId`, `findActiveByUserId`. |
+| PaymentRepository | JPA Repository | Persistencia de los cobros y sus comprobantes. |
+| PaymentGatewayAdapter | ACL saliente | Consume la API del Sistema de Pago para crear el cobro y traduce su confirmación al modelo de dominio (TS44). |
+| InvoicePdfGenerator | Servicio técnico | Genera el comprobante en PDF con JasperReports (US38). |
+| ExternalUserService | ACL entrante | Consulta el `IamContextFacade` para validar la existencia del usuario. |
+
+### 5.2.6. Bounded Context Software Architecture Component Level Diagrams
+
+<figure id="fig-comp-sub" style="margin:1.5em 0;text-align:center">
+<img src="Assets/componentes-gestion-suscripciones.png" alt="Component Level Diagram — Subscription Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Component Level Diagram — Subscription Management.</em></figcaption>
+</figure>
+
+### 5.2.7. Bounded Context Software Architecture Code Level Diagrams
+
+#### 5.2.7.1. Bounded Context Domain Layer Class Diagrams
+
+<figure id="fig-class-sub" style="margin:1.5em 0;text-align:center">
+<img src="Assets/clases-gestion-suscripciones.png" alt="Class Diagram (Domain Layer) — Subscription Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Class Diagram (Domain Layer) — Subscription Management.</em></figcaption>
+</figure>
+
+#### 5.2.7.2. Bounded Context Database Design Diagram
+
+<figure id="fig-er-sub" style="margin:1.5em 0;text-align:center">
+<img src="Assets/bd-gestion-suscripciones.png" alt="Database Design Diagram — Subscription Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Database Design Diagram — Subscription Management.</em></figcaption>
+</figure>
+
+## 5.3. Bounded Context: Profile Management
+
+El **Profile Management Bounded Context** modela el **negocio** (`Business`) que agrupa a los usuarios y sus dispositivos, la gestión de miembros exigida por la **US37**, y las preferencias de notificación de la **US09** y **US24**. Representa a los dos segmentos objetivo: el **restaurante** y el **negocio de distribución de alimentos en frío**. Es el contexto que permite que el propietario, el administrador y el personal de cocina o almacén compartan un mismo inventario, y que cada uno configure cómo y en qué turno recibir alertas.
+
+### 5.3.1. Domain Layer
+
+La Domain Layer del Profile Management Bounded Context encapsula la lógica de negocio del contexto. En esta capa se definen los agregados, entidades, objetos de valor, servicios de dominio y políticas que representan los conceptos clave del sistema.
+
+**Aggregates**
+
+1. **Business**
+   - *Propósito:* Agregado raíz que representa el negocio (restaurante o distribuidora en frío) al que pertenecen los usuarios, los dispositivos y el inventario compartido.
+
+   - *Atributos:*
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del negocio. |
+| name | String | Nombre comercial (por ejemplo, «Restaurante El Sabor» o «Distribuidora Frío Norte»). |
+| segment | BusinessSegment (VO) | RESTAURANT o COLD_DISTRIBUTION: segmento objetivo al que pertenece. |
+| members | List&lt;BusinessMember&gt; | Miembros vinculados con su rol. |
+| createdAt / updatedAt | DateTime | Campos de auditoría. |
+   - *Métodos:*
+
+| Método | Descripción |
+|---|---|
+| invite(email, role) | Emite una invitación para incorporar a un miembro (US37). |
+| addMember(userId, role) | Vincula un usuario al negocio cuando acepta la invitación. |
+| removeMember(userId) | Desvincula a un miembro y revoca su acceso al inventario. |
+| changeMemberRole(userId, role) | Modifica el rol del miembro dentro del negocio. |
+
+**Entities**
+
+1. **BusinessMember** — Vínculo entre un usuario y un negocio, con el rol que desempeña (US37).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del vínculo. |
+| businessId | UUID | Negocio al que pertenece. |
+| userId | UUID | Usuario vinculado. |
+| role | MemberRole (VO) | OWNER, MANAGER o STAFF. |
+| joinedAt | DateTime | Fecha de incorporación. |
+
+| Método | Descripción |
+|---|---|
+| canManageInventory() | Indica si el rol permite editar el inventario compartido. |
+2. **Invitation** — Invitación pendiente para incorporar a un nuevo miembro (US37).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador de la invitación. |
+| email | Email (VO) | Correo del invitado. |
+| token | String | Token único del enlace de vinculación. |
+| expiresAt | DateTime | Vencimiento de la invitación. |
+| status | InvitationStatus | PENDING, ACCEPTED o EXPIRED. |
+
+| Método | Descripción |
+|---|---|
+| accept(userId) | Convierte la invitación en un `BusinessMember`. |
+| isExpired() | Evalúa el vencimiento. |
+3. **NotificationPreference** — Preferencias de canal y turno operativo de cada usuario (US09, US24).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador. |
+| userId | UUID | Usuario propietario. |
+| emailEnabled | boolean | Habilita el envío por correo. |
+| pushEnabled | boolean | Habilita las notificaciones push. |
+| operatingShift | TimeWindow (VO) | Turno operativo del usuario (por ejemplo, 06:00–23:00). |
+| updatedAt | DateTime | Última modificación. |
+
+| Método | Descripción |
+|---|---|
+| isOffShift(at) | Indica si un instante cae fuera del turno operativo. |
+| routeFor(severity) | Determina el canal de destino según la severidad (US24). |
+**Value Objects**
+
+| Value Object | Descripción |
+|---|---|
+| MemberRole | Enumeración: `OWNER` (propietario), `MANAGER` (administrador o encargado), `STAFF` (personal de cocina o almacén). |
+| BusinessSegment | Enumeración: `RESTAURANT`, `COLD_DISTRIBUTION`. |
+| TimeWindow | Rango horario con inicio y fin, usado para el turno operativo. |
+| InvitationStatus | Enumeración: `PENDING`, `ACCEPTED`, `EXPIRED`. |
+
+**Domain Services**
+
+| Servicio | Descripción |
+|---|---|
+| NotificationRoutingService | Decide el canal y el destinatario (responsable de turno o pantalla del local) según severidad y preferencias (US24). |
+
+**Domain Events**
+
+| Evento | Descripción |
+|---|---|
+| BusinessCreated | Se creó el negocio tras registrarse el usuario. |
+| MemberInvited | Se envió una invitación a un nuevo miembro (US37). |
+| MemberJoined | Un invitado aceptó y quedó vinculado al negocio. |
+| NotificationPreferencesUpdated | El usuario cambió sus preferencias de alerta (US09). |
+| OperatingShiftConfigured | Se definió el turno operativo para las notificaciones (US09). |
+
+**Policies**
+
+- **Crear negocio al registrarse**: cuando ocurre `UserRegistered`, se crea un `Business` con el usuario como `OWNER`.
+- **Retener alertas leves fuera de turno**: cuando se dispara una alerta de baja severidad fuera del turno operativo, se retiene hasta el inicio del siguiente turno (US09).
+- **Invitación de un solo uso**: una invitación aceptada o vencida no puede volver a utilizarse.
+
+### 5.3.2. Interface Layer
+
+La Interface Layer del Profile Management expone los puntos de entrada del contexto mediante controladores REST, recursos y *assemblers* que traducen entre el modelo HTTP y el modelo de dominio.
+
+**Controllers**
+
+1. **BusinessesController** — Gestiona el negocio y sus miembros.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/businesses/me | Obtiene el negocio del usuario autenticado y sus miembros. |
+| POST | /api/v1/businesses/{id}/invitations | Envía una invitación a un nuevo miembro (US37). |
+| POST | /api/v1/invitations/{token}/accept | Acepta la invitación y vincula al usuario. |
+| DELETE | /api/v1/businesses/{id}/members/{userId} | Desvincula a un miembro. |
+   - *Dependencias:* BusinessCommandService, BusinessQueryService
+
+2. **NotificationPreferencesController** — Gestiona las preferencias de notificación (US09, US24).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/notification-preferences | Obtiene las preferencias del usuario. |
+| PUT | /api/v1/notification-preferences | Actualiza canales y turno operativo. |
+   - *Dependencias:* NotificationPreferenceCommandService
+
+**Resources**
+
+| Resource | Campos |
+|---|---|
+| BusinessResource | id, name, segment, members[] |
+| BusinessMemberResource | userId, fullName, role, joinedAt |
+| InvitationResource | email, role |
+| NotificationPreferenceResource | emailEnabled, pushEnabled, shiftStart, shiftEnd |
+
+**Transformers / Assemblers**
+
+| Assembler | Transformación |
+|---|---|
+| BusinessResourceFromEntityAssembler | Convierte `Business` y sus miembros en `BusinessResource`. |
+| NotificationPreferenceResourceFromEntityAssembler | Convierte `NotificationPreference` en su recurso. |
+| InviteMemberCommandFromResourceAssembler | Convierte `InvitationResource` en `InviteMemberCommand`. |
+
+### 5.3.3. Application Layer
+
+La Application Layer del Profile Management coordina las operaciones entre la Interface Layer y la Domain Layer, orquestando comandos, consultas y la reacción a eventos de otros contextos.
+
+**Command Services**
+
+| Servicio | Comandos que maneja | Descripción |
+|---|---|---|
+| BusinessCommandServiceImpl | CreateBusinessCommand, InviteMemberCommand, AcceptInvitationCommand, RemoveMemberCommand | Crea el negocio, gestiona invitaciones y administra la membresía compartida (US37). |
+| NotificationPreferenceCommandServiceImpl | UpdatePreferencesCommand, SetOperatingShiftCommand | Actualiza canales y turno operativo de las alertas (US09). |
+
+**Query Services / Facades**
+
+| Servicio | Consultas | Descripción |
+|---|---|---|
+| BusinessQueryServiceImpl | GetBusinessByUserQuery, GetMembersQuery | Recupera el negocio y sus miembros. |
+| ProfileContextFacade | getBusinessOf(userId), getPreferencesOf(userId) | Open Host Service consultado por Inventory (inventario compartido) y por IoT Monitoring (envío de alertas). |
+
+**Event Handlers**
+
+| Handler | Evento que escucha | Reacción |
+|---|---|---|
+| UserRegisteredEventHandler | UserRegistered (User Management) | Crea el `Business` inicial, con el segmento elegido en el registro y el usuario como OWNER, y sus preferencias de notificación por defecto. |
+| PlanTypeAcquiredEventHandler | PlanTypeAcquired (Subscription Management) | Ajusta el número máximo de miembros permitidos según el plan contratado. |
+
+### 5.3.4. Infrastructure Layer
+
+La Infrastructure Layer del Profile Management implementa la persistencia y las integraciones técnicas (ACL) hacia otros contextos y sistemas externos.
+
+| Componente | Tipo | Responsabilidad |
+|---|---|---|
+| BusinessRepository | JPA Repository | Persistencia de negocios; `findByMemberUserId`. |
+| BusinessMemberRepository | JPA Repository | Persistencia de los vínculos usuario–negocio. |
+| InvitationRepository | JPA Repository | Persistencia de invitaciones pendientes (US37). |
+| NotificationPreferenceRepository | JPA Repository | Persistencia de las preferencias de alerta. |
+| ExternalUserService | ACL entrante | Consulta el `IamContextFacade` para resolver los datos del usuario. |
+| NotificationGatewayAdapter | ACL saliente | Envía el correo de invitación mediante el Notification Service (TS42). |
+
+### 5.3.6. Bounded Context Software Architecture Component Level Diagrams
+
+<figure id="fig-comp-pro" style="margin:1.5em 0;text-align:center">
+<img src="Assets/componentes-gestion-perfil.png" alt="Component Level Diagram — Profile Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Component Level Diagram — Profile Management.</em></figcaption>
+</figure>
+
+### 5.3.7. Bounded Context Software Architecture Code Level Diagrams
+
+#### 5.3.7.1. Bounded Context Domain Layer Class Diagrams
+
+<figure id="fig-class-pro" style="margin:1.5em 0;text-align:center">
+<img src="Assets/clases-gestion-perfil.png" alt="Class Diagram (Domain Layer) — Profile Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Class Diagram (Domain Layer) — Profile Management.</em></figcaption>
+</figure>
+
+#### 5.3.7.2. Bounded Context Database Design Diagram
+
+<figure id="fig-er-pro" style="margin:1.5em 0;text-align:center">
+<img src="Assets/bd-gestion-perfil.png" alt="Database Design Diagram — Profile Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Database Design Diagram — Profile Management.</em></figcaption>
+</figure>
+
+## 5.4. Bounded Context: Sensor Management
+
+El **Sensor Management Bounded Context** gestiona el ciclo de vida del hardware **FreshSense Device**: la vinculación mediante código QR y la calibración exigidas por la **US31**, el control del estado de conexión de la **US06**, y la organización en **zonas de almacenamiento** (cámaras frías, congeladores) que pide la **US33**. Este contexto conoce el dispositivo como equipo físico; la interpretación de sus lecturas corresponde a IoT Monitoring.
+
+### 5.4.1. Domain Layer
+
+La Domain Layer del Sensor Management Bounded Context encapsula la lógica de negocio del contexto. En esta capa se definen los agregados, entidades, objetos de valor, servicios de dominio y políticas que representan los conceptos clave del sistema.
+
+**Aggregates**
+
+1. **SensorDevice**
+   - *Propósito:* Agregado raíz que representa un dispositivo FreshSense instalado en una cámara fría, congelador o vitrina del negocio.
+
+   - *Atributos:*
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del dispositivo. |
+| businessId | UUID | Negocio propietario. |
+| model | String | Modelo del hardware. |
+| firmwareVersion | String | Versión de firmware instalada. |
+| status | DeviceStatus (VO) | ACTIVE, OFFLINE o UNPAIRED. |
+| zoneId | UUID? | Zona de almacenamiento asignada (US33). |
+| calibration | Calibration (VO) | Temperatura base configurada durante la instalación (US31). |
+| registeredAt / updatedAt | DateTime | Campos de auditoría. |
+   - *Métodos:*
+
+| Método | Descripción |
+|---|---|
+| register() | Da de alta el dispositivo en el sistema. |
+| pairToBusiness(Business) | Vincula el dispositivo al negocio tras escanear su código QR (US31). |
+| calibrate(baseTemperature) | Registra la temperatura base de la cámara para ajustar los umbrales. |
+| assignToZone(zoneId) | Asigna el dispositivo a una cámara o congelador concreto (US33). |
+| markOffline() | Marca el dispositivo como desconectado al no recibirse el *heartbeat* (US06). |
+
+**Entities**
+
+1. **StorageZone** — Área de almacenamiento del negocio, con sus propias reglas de temperatura (US33).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador de la zona. |
+| businessId | UUID | Negocio propietario. |
+| name | String | Nombre asignado (por ejemplo, «Cámara Fría 1» o «Congelador Carnes»). |
+| type | ZoneType (VO) | FRIDGE, FREEZER, COLD_ROOM o DISPLAY_CASE (vitrina). |
+| targetTempC | float | Temperatura objetivo de la zona. |
+
+| Método | Descripción |
+|---|---|
+| appliesRulesTo(InventoryItem) | Indica si un alimento hereda las reglas de temperatura de la zona. |
+**Value Objects**
+
+| Value Object | Descripción |
+|---|---|
+| DeviceStatus | Enumeración: `ACTIVE`, `OFFLINE`, `UNPAIRED`. |
+| ZoneType | Enumeración: `FRIDGE`, `FREEZER`, `COLD_ROOM`, `DISPLAY_CASE`. |
+| Calibration | Temperatura base y desviación aceptada, definidas al instalar el equipo (US31). |
+| PairingCode | Código QR impreso en el hardware que identifica al dispositivo durante la vinculación. |
+
+**Domain Services**
+
+| Servicio | Descripción |
+|---|---|
+| DeviceHealthService | Evalúa el *heartbeat* recibido y determina cuándo un dispositivo pasa a OFFLINE (US06). |
+
+**Domain Events**
+
+| Evento | Descripción |
+|---|---|
+| SensorRegistered | Se dio de alta un dispositivo en el sistema. |
+| SensorPaired | El dispositivo quedó vinculado al negocio tras escanear el QR (ES: *sensor instalado*). |
+| SensorCalibrated | Se registró la temperatura base de la cámara (US31). |
+| SensorConfigured | Se asignó el dispositivo a una zona de almacenamiento (ES: *sensor configurado*). |
+| SensorDisconnected | El dispositivo perdió el enlace Wi-Fi y se notificó al usuario (US06). |
+
+**Policies**
+
+- **Vinculación única**: un código QR solo puede vincularse a un negocio a la vez.
+- **Notificar desconexión**: cuando el servidor no recibe *heartbeat* dentro de la ventana esperada, se marca el dispositivo OFFLINE y se avisa al usuario (US06).
+- **Heredar reglas de zona**: cuando un dispositivo se asigna a una zona, los alimentos asociados adoptan sus umbrales de temperatura (US33).
+
+### 5.4.2. Interface Layer
+
+La Interface Layer del Sensor Management expone los puntos de entrada del contexto mediante controladores REST, recursos y *assemblers* que traducen entre el modelo HTTP y el modelo de dominio.
+
+**Controllers**
+
+1. **DevicesController** — Gestiona el alta, vinculación y calibración de los dispositivos.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/devices | Lista los dispositivos del negocio. |
+| POST | /api/v1/devices/pair | Vincula un dispositivo escaneando su código QR (US31). |
+| PATCH | /api/v1/devices/{id}/calibration | Registra la temperatura base de calibración. |
+| PATCH | /api/v1/devices/{id}/zone | Asigna el dispositivo a una zona de almacenamiento. |
+   - *Dependencias:* DeviceCommandService, DeviceQueryService
+
+2. **StorageZonesController** — Administra las zonas de almacenamiento del negocio (US33).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/storage-zones | Lista las zonas configuradas. |
+| POST | /api/v1/storage-zones | Crea una nueva cámara, congelador o refrigerador. |
+| DELETE | /api/v1/storage-zones/{id} | Elimina una zona sin dispositivos asociados. |
+   - *Dependencias:* StorageZoneCommandService
+
+3. **DeviceHeartbeatController** — Recibe la señal periódica de vida del dispositivo (US06).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| POST | /api/v1/devices/{id}/heartbeat | Registra el *ping* del dispositivo y actualiza su estado. |
+   - *Dependencias:* DeviceCommandService
+
+**Resources**
+
+| Resource | Campos |
+|---|---|
+| DeviceResource | id, model, firmwareVersion, status, zoneId, calibration |
+| PairDeviceResource | pairingCode (QR), businessId |
+| CalibrationResource | baseTemperatureC |
+| StorageZoneResource | id, name, type, targetTempC |
+
+**Transformers / Assemblers**
+
+| Assembler | Transformación |
+|---|---|
+| DeviceResourceFromEntityAssembler | Convierte `SensorDevice` en `DeviceResource`. |
+| StorageZoneResourceFromEntityAssembler | Convierte `StorageZone` en su recurso. |
+| PairDeviceCommandFromResourceAssembler | Convierte `PairDeviceResource` en `PairDeviceCommand`. |
+
+### 5.4.3. Application Layer
+
+La Application Layer del Sensor Management coordina las operaciones entre la Interface Layer y la Domain Layer, orquestando comandos, consultas y la reacción a eventos de otros contextos.
+
+**Command Services**
+
+| Servicio | Comandos que maneja | Descripción |
+|---|---|---|
+| DeviceCommandServiceImpl | RegisterDeviceCommand, PairDeviceCommand, CalibrateDeviceCommand, AssignZoneCommand, RegisterHeartbeatCommand | Da de alta, vincula, calibra y monitorea el estado de conexión de los dispositivos. |
+| StorageZoneCommandServiceImpl | CreateZoneCommand, DeleteZoneCommand | Administra las áreas de almacenamiento del negocio (US33). |
+
+**Query Services / Facades**
+
+| Servicio | Consultas | Descripción |
+|---|---|---|
+| DeviceQueryServiceImpl | GetDevicesByBusinessQuery, GetDeviceByIdQuery | Recupera los dispositivos y su estado. |
+| StorageZoneQueryServiceImpl | GetZonesByBusinessQuery | Recupera las zonas configuradas. |
+| SensorContextFacade | existsDevice(id), getZoneOf(deviceId), getCalibration(deviceId) | Open Host Service consultado por IoT Monitoring para validar el origen de las lecturas. |
+
+**Event Handlers**
+
+| Handler | Evento que escucha | Reacción |
+|---|---|---|
+| BusinessCreatedEventHandler | BusinessCreated (Profile Management) | Crea la zona de almacenamiento por defecto («Cámara principal») para el nuevo negocio. |
+| PlanTypeAcquiredEventHandler | PlanTypeAcquired (Subscription Management) | Ajusta el número máximo de dispositivos y zonas permitidos según el plan. |
+
+### 5.4.4. Infrastructure Layer
+
+La Infrastructure Layer del Sensor Management implementa la persistencia y las integraciones técnicas (ACL) hacia otros contextos y sistemas externos.
+
+| Componente | Tipo | Responsabilidad |
+|---|---|---|
+| SensorDeviceRepository | JPA Repository | Persistencia de dispositivos; `findByBusinessId`, `findByPairingCode`. |
+| StorageZoneRepository | JPA Repository | Persistencia de las zonas de almacenamiento. |
+| HeartbeatScheduler | Spring Scheduler | Revisa periódicamente los *heartbeats* y marca los dispositivos OFFLINE (US06). |
+| ExternalBusinessService | ACL entrante | Consulta el `ProfileContextFacade` para validar el negocio propietario. |
+| NotificationGatewayAdapter | ACL saliente | Notifica al usuario la desconexión del dispositivo (TS42). |
+
+### 5.4.6. Bounded Context Software Architecture Component Level Diagrams
+
+<figure id="fig-comp-sen" style="margin:1.5em 0;text-align:center">
+<img src="Assets/componentes-gestion-sensores.png" alt="Component Level Diagram — Sensor Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Component Level Diagram — Sensor Management.</em></figcaption>
+</figure>
+
+### 5.4.7. Bounded Context Software Architecture Code Level Diagrams
+
+#### 5.4.7.1. Bounded Context Domain Layer Class Diagrams
+
+<figure id="fig-class-sen" style="margin:1.5em 0;text-align:center">
+<img src="Assets/clases-gestion-sensores.png" alt="Class Diagram (Domain Layer) — Sensor Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Class Diagram (Domain Layer) — Sensor Management.</em></figcaption>
+</figure>
+
+#### 5.4.7.2. Bounded Context Database Design Diagram
+
+<figure id="fig-er-sen" style="margin:1.5em 0;text-align:center">
+<img src="Assets/bd-gestion-sensores.png" alt="Database Design Diagram — Sensor Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Database Design Diagram — Sensor Management.</em></figcaption>
+</figure>
+
+## 5.5. Bounded Context: Inventory Management
+
+El **Inventory Management Bounded Context** administra el inventario de insumos y lotes del negocio, ya sea la cocina de un restaurante o el almacén de una distribuidora en frío: el alta por código de barras o QR (**US10**), el filtrado por cámara, lote y vencimiento (**US14**), la edición manual del stock (**US11**), la categorización personalizada (**US28**) y el registro del motivo de descarte (**US34**). Contiene el agregado `InventoryItem` y el catálogo `FoodModel`, que define la vida útil estimada por categoría de alimento y las reglas usadas para estimar la fecha de consumo preferente.
+
+### 5.5.1. Domain Layer
+
+La Domain Layer del Inventory Management Bounded Context encapsula la lógica de negocio del contexto. En esta capa se definen los agregados, entidades, objetos de valor, servicios de dominio y políticas que representan los conceptos clave del sistema.
+
+**Aggregates**
+
+1. **InventoryItem**
+   - *Propósito:* Agregado raíz que representa un insumo o lote registrado en el inventario del negocio, con su cantidad, vencimiento estimado y estado de frescura.
+
+   - *Atributos:*
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del alimento. |
+| businessId | UUID | Negocio propietario del inventario. |
+| userId | UUID | Miembro del personal que lo registró. |
+| zoneId | UUID | Cámara, congelador o vitrina donde se almacena (US14, US33). |
+| lotCode | String | Código de lote leído del código de barras o QR (US10, US14). |
+| supplier | String | Proveedor que entregó el lote (US40). |
+| foodModelId | UUID | Categoría del catálogo que define su vida útil. |
+| name | String | Nombre del alimento. |
+| quantity | Quantity (VO) | Cantidad disponible. |
+| unit | Unit (VO) | Unidad de medida (kg, unidades, litros). |
+| addedAt | DateTime | Fecha de registro en el inventario. |
+| bestBefore | DateTime? | Fecha estimada de consumo preferente. |
+| status | FreshnessStatus (VO) | FRESH, AT_RISK o SPOILED. |
+| notes | String | Observaciones y etiquetas personalizadas (US28). |
+   - *Métodos:*
+
+| Método | Descripción |
+|---|---|
+| markConsumed() | Registra el consumo del alimento y descuenta la cantidad. |
+| markDiscarded(reason) | Registra la baja indicando la causa: falla de frío, vencimiento, contaminación o proveedor (US34). |
+| updateQuantity(qty) | Corrige manualmente el stock disponible (US11). |
+| updateStatus(FreshnessStatus) | Actualiza el estado de frescura según la evaluación del dominio. |
+| estimateBestBefore(FoodModel) | Calcula la fecha de consumo preferente a partir de la vida útil del catálogo. |
+
+**Entities**
+
+1. **FoodModel** — Catálogo que define la vida útil y las reglas de conservación de cada categoría de alimento.
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del modelo. |
+| name | String | Nombre de la categoría. |
+| category | String | Agrupación (Fruta, Verdura, Lácteo, Carne). |
+| shelfLifeDays | int | Vida útil estimada en días. |
+| rulesJson | ShelfLifeRules (VO) | Umbrales de temperatura, humedad y etileno aplicables. |
+
+| Método | Descripción |
+|---|---|
+| rulesFor(zoneType) | Devuelve los umbrales ajustados al tipo de zona de almacenamiento. |
+**Value Objects**
+
+| Value Object | Descripción |
+|---|---|
+| FreshnessStatus | Enumeración: `FRESH`, `AT_RISK`, `SPOILED`. |
+| Quantity | Cantidad con validación de no negatividad. |
+| Unit | Unidad de medida del alimento (kg, g, L, unidades). |
+| ShelfLifeRules | Reglas de vida útil y umbrales por categoría, serializadas en JSON. |
+| DiscardReason | Enumeración: `COLD_FAILURE`, `EXPIRED`, `CONTAMINATED`, `SUPPLIER_DEFECT` (US34). |
+
+**Domain Services**
+
+| Servicio | Descripción |
+|---|---|
+| ShelfLifeEstimationService | Estima la fecha de consumo preferente combinando el `FoodModel` y la zona de almacenamiento. |
+| BarcodeLookupService | Resuelve el producto, la categoría y el lote a partir del código de barras o QR escaneado (US10). |
+
+**Domain Events**
+
+| Evento | Descripción |
+|---|---|
+| FoodItemRegistered | Se agregó un alimento al inventario (ES: *alimento agregado*). |
+| FoodItemUpdated | Se modificó manualmente la cantidad o los datos del alimento (US11). |
+| FoodItemConsumed | El alimento fue consumido (ES: *alimento consumido*). |
+| FoodItemDiscarded | El alimento fue descartado indicando la causa (US34). |
+| FoodConditionUpdated | Cambió el estado de frescura del alimento tras una evaluación. |
+
+**Policies**
+
+- **Estimar vencimiento al registrar**: cuando se agrega un alimento, el sistema calcula automáticamente su `bestBefore` a partir del `FoodModel`.
+- **Heredar reglas de la zona**: cuando el alimento se asocia a una zona de almacenamiento, adopta sus umbrales de temperatura (US33).
+- **Solicitar motivo al descartar**: cuando el usuario elimina un producto marcándolo como desechado, la aplicación exige el motivo para el informe de mermas (US34).
+
+### 5.5.2. Interface Layer
+
+La Interface Layer del Inventory Management expone los puntos de entrada del contexto mediante controladores REST, recursos y *assemblers* que traducen entre el modelo HTTP y el modelo de dominio.
+
+**Controllers**
+
+1. **InventoryItemsController** — Gestiona el inventario de alimentos del negocio.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/inventory-items | Lista los insumos con su estado de frescura (semáforo, US07) y filtros por cámara, lote y vencimiento (US14). |
+| POST | /api/v1/inventory-items | Registra un insumo o lote por código de barras, QR o manualmente (US10). |
+| PUT | /api/v1/inventory-items/{id} | Actualiza cantidad, unidad o etiquetas (US11, US28). |
+| POST | /api/v1/inventory-items/{id}/consume | Marca el alimento como consumido. |
+| POST | /api/v1/inventory-items/{id}/discard | Marca el alimento como descartado con su causa (US34). |
+   - *Dependencias:* InventoryItemCommandService, InventoryItemQueryService
+
+2. **FoodModelsController** — Expone el catálogo de categorías y vida útil.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/food-models | Lista las categorías disponibles. |
+| GET | /api/v1/food-models/{id} | Obtiene las reglas de vida útil de una categoría. |
+   - *Dependencias:* FoodModelQueryService
+
+3. **InventorySearchController** — Búsqueda global con autocompletado sobre el inventario (US39).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/inventory/search | Devuelve coincidencias en vivo de insumos, lotes y fichas técnicas. |
+   - *Dependencias:* InventoryItemQueryService
+
+**Resources**
+
+| Resource | Campos |
+|---|---|
+| InventoryItemResource | id, name, lotCode, zoneId, supplier, quantity, unit, addedAt, bestBefore, status, notes |
+| CreateInventoryItemResource | name, quantity, unit, foodModelId, zoneId, lotCode?, supplier?, barcode? |
+| DiscardResource | reason (COLD_FAILURE | EXPIRED | CONTAMINATED | SUPPLIER_DEFECT) |
+| FoodModelResource | id, name, category, shelfLifeDays |
+
+**Transformers / Assemblers**
+
+| Assembler | Transformación |
+|---|---|
+| InventoryItemResourceFromEntityAssembler | Convierte `InventoryItem` en `InventoryItemResource`. |
+| FoodModelResourceFromEntityAssembler | Convierte `FoodModel` en su recurso. |
+| CreateInventoryItemCommandFromResourceAssembler | Convierte el recurso de alta en `RegisterFoodItemCommand`. |
+
+### 5.5.3. Application Layer
+
+La Application Layer del Inventory Management coordina las operaciones entre la Interface Layer y la Domain Layer, orquestando comandos, consultas y la reacción a eventos de otros contextos.
+
+**Command Services**
+
+| Servicio | Comandos que maneja | Descripción |
+|---|---|---|
+| InventoryItemCommandServiceImpl | RegisterFoodItemCommand, UpdateFoodItemCommand, ConsumeFoodItemCommand, DiscardFoodItemCommand | Registra, actualiza, consume y descarta alimentos, publicando los eventos correspondientes. |
+| FoodModelCommandServiceImpl | SeedFoodModelsCommand | Carga el catálogo inicial de categorías y vidas útiles al iniciar el sistema. |
+
+**Query Services / Facades**
+
+| Servicio | Consultas | Descripción |
+|---|---|---|
+| InventoryItemQueryServiceImpl | GetInventoryItemsQuery, GetItemsAtRiskQuery, SearchInventoryQuery | Recupera el inventario, los alimentos en riesgo y las coincidencias de búsqueda (US39). |
+| FoodModelQueryServiceImpl | GetAllFoodModelsQuery, GetFoodModelByIdQuery | Recupera el catálogo de categorías. |
+| InventoryContextFacade | getInventorySnapshot(businessId), getItemsAtRisk(userId) | Open Host Service consultado por Consumption y Report Management. |
+
+**Event Handlers**
+
+| Handler | Evento que escucha | Reacción |
+|---|---|---|
+| FoodConditionUpdatedEventHandler | FoodConditionUpdated (IoT Monitoring) | Actualiza el `status` del `InventoryItem` a AT_RISK o SPOILED según la evaluación del FreshnessService. |
+| SensorConfiguredEventHandler | SensorConfigured (Sensor Management) | Asocia los alimentos de la zona con el dispositivo que la monitorea. |
+
+### 5.5.4. Infrastructure Layer
+
+La Infrastructure Layer del Inventory Management implementa la persistencia y las integraciones técnicas (ACL) hacia otros contextos y sistemas externos.
+
+| Componente | Tipo | Responsabilidad |
+|---|---|---|
+| InventoryItemRepository | JPA Repository | Persistencia del inventario; `findByBusinessId`, `findByZoneId`, `findByStatus`. |
+| FoodModelRepository | JPA Repository | Persistencia del catálogo de categorías. |
+| BarcodeApiAdapter | ACL saliente | Consulta el catálogo externo de códigos de barras y QR (US10). |
+| RedisCacheAdapter | Caché | Almacena el catálogo y las consultas frecuentes del inventario (TS45). |
+| ExternalSensorService | ACL entrante | Consulta el `SensorContextFacade` para conocer la zona del alimento. |
+
+### 5.5.6. Bounded Context Software Architecture Component Level Diagrams
+
+<figure id="fig-comp-inv" style="margin:1.5em 0;text-align:center">
+<img src="Assets/componentes-gestion-inventario.png" alt="Component Level Diagram — Inventory Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Component Level Diagram — Inventory Management.</em></figcaption>
+</figure>
+
+### 5.5.7. Bounded Context Software Architecture Code Level Diagrams
+
+#### 5.5.7.1. Bounded Context Domain Layer Class Diagrams
+
+<figure id="fig-class-inv" style="margin:1.5em 0;text-align:center">
+<img src="Assets/clases-gestion-inventario.png" alt="Class Diagram (Domain Layer) — Inventory Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Class Diagram (Domain Layer) — Inventory Management.</em></figcaption>
+</figure>
+
+#### 5.5.7.2. Bounded Context Database Design Diagram
+
+<figure id="fig-er-inv" style="margin:1.5em 0;text-align:center">
+<img src="Assets/bd-gestion-inventario.png" alt="Database Design Diagram — Inventory Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Database Design Diagram — Inventory Management.</em></figcaption>
+</figure>
+
+## 5.6. Bounded Context: Consumption Management
+
+El **Consumption Management Bounded Context** registra el consumo y la merma efectiva de los insumos y gestiona las **fichas técnicas y la rotación** (**EP05**). En el restaurante, la ficha técnica descuenta los insumos de cada platillo y prioriza los que están por vencer (**US13**), con costeo y merma por corte en el plan premium (**US19**). En la distribución en frío, sugiere la salida FIFO de los lotes (**US13**). También registra las incidencias de calidad de cada proveedor (**US40**). Su registro de consumo es la fuente de los reportes de ahorro e impacto ambiental.
+
+### 5.6.1. Domain Layer
+
+La Domain Layer del Consumption Management Bounded Context encapsula la lógica de negocio del contexto. En esta capa se definen los agregados, entidades, objetos de valor, servicios de dominio y políticas que representan los conceptos clave del sistema.
+
+**Aggregates**
+
+1. **Recipe**
+   - *Propósito:* Agregado raíz que representa la ficha técnica estandarizada de un platillo del restaurante, con sus insumos y porciones; se usa para descontar insumos y priorizar los que están por vencer (US13).
+
+   - *Atributos:*
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador de la ficha técnica. |
+| businessId | UUID | Restaurante al que pertenece la ficha. |
+| title | String | Nombre del platillo. |
+| prepMinutes | int | Tiempo de preparación en minutos. |
+| portions | int | Porciones que rinde la ficha. |
+| instructions | String | Pasos de preparación. |
+| ingredients | List&lt;RecipeIngredient&gt; | Ingredientes requeridos. |
+| isPremium | boolean | Indica si usa el costeo avanzado y la merma por corte (US19). |
+   - *Métodos:*
+
+| Método | Descripción |
+|---|---|
+| matches(atRiskItems) | Evalúa cuántos insumos en riesgo usa la ficha técnica (US13). |
+| addIngredient(name, qty, unit, optional) | Incorpora un insumo a la ficha técnica. |
+| costPerPortion() | Calcula el costo por porción a partir de los insumos (US19). |
+
+**Entities**
+
+1. **RecipeIngredient** — Insumo que forma parte de una ficha técnica.
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador. |
+| recipeId | UUID | Ficha técnica a la que pertenece. |
+| name | String | Nombre del ingrediente. |
+| qty | Quantity (VO) | Cantidad requerida. |
+| unit | Unit (VO) | Unidad de medida. |
+| optional | boolean | Indica si el ingrediente es opcional. |
+
+| Método | Descripción |
+|---|---|
+| isSatisfiedBy(inventoryItems) | Indica si el inventario cubre este ingrediente. |
+2. **ConsumptionRecord** — Registro histórico de cada alimento consumido o descartado, base de los reportes (US29, US34).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del registro. |
+| userId | UUID | Usuario que realizó la acción. |
+| inventoryItemId | UUID | Alimento afectado. |
+| action | ConsumptionAction (VO) | CONSUMED o DISCARDED. |
+| reason | DiscardReason? | Causa de la merma, si aplica (US34). |
+| supplier | String? | Proveedor del lote, usado en las incidencias de calidad (US40). |
+| estimatedValue | Money (VO) | Valor económico del alimento. |
+| recordedAt | DateTime | Fecha del registro. |
+
+| Método | Descripción |
+|---|---|
+| isWaste() | Indica si el registro representa una merma. |
+| carbonFootprint() | Estima el CO₂ asociado al alimento (US20). |
+**Value Objects**
+
+| Value Object | Descripción |
+|---|---|
+| ConsumptionAction | Enumeración: `CONSUMED`, `DISCARDED`. |
+| SupplierIncident | Incidencia registrada contra un proveedor cuando su lote se malogra antes de tiempo (US40). |
+
+**Domain Services**
+
+| Servicio | Descripción |
+|---|---|
+| RecipeSuggestionService | Prioriza las fichas técnicas que usan insumos en estado AT_RISK del inventario del restaurante (US13). |
+| RotationSuggestionService | Ordena la salida FIFO de los lotes de la distribuidora según su vencimiento (US13). |
+| WasteValuationService | Calcula el valor económico y la huella de carbono del consumo y la merma (US18, US20). |
+
+**Domain Events**
+
+| Evento | Descripción |
+|---|---|
+| ConsumptionRegistered | Se registró el consumo de un alimento (ES: *alimento consumido*). |
+| WasteRegistered | Se registró el descarte de un alimento con su causa (ES: *alimento desechado*). |
+| RecipeSuggested | Se priorizaron fichas técnicas a partir de los insumos en riesgo (ES: *receta sugerida*). |
+| SupplierIncidentRecorded | Se registró una incidencia de calidad contra un proveedor (US40). |
+
+**Policies**
+
+- **Priorizar insumos en riesgo**: cuando existen insumos en estado AT_RISK, el restaurante ve primero las fichas técnicas que los usan y la distribuidora ve esos lotes al inicio de la salida FIFO (US13).
+- **Registrar valor al consumir**: cuando ocurre `FoodItemConsumed`, se crea un `ConsumptionRecord` con el valor económico estimado.
+- **Restringir costeo avanzado**: cuando un usuario sin plan PREMIUM consulta el costeo o la merma por corte, el acceso se bloquea (US19).
+
+### 5.6.2. Interface Layer
+
+La Interface Layer del Consumption Management expone los puntos de entrada del contexto mediante controladores REST, recursos y *assemblers* que traducen entre el modelo HTTP y el modelo de dominio.
+
+**Controllers**
+
+1. **RecipesController** — Expone las fichas técnicas del restaurante y su priorización.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/recipes | Lista las fichas técnicas del restaurante (US13). |
+| GET | /api/v1/recipes/suggested | Devuelve las fichas priorizadas según los insumos en riesgo (US13). |
+| GET | /api/v1/recipes/{id} | Obtiene el detalle, los insumos y el costo por porción de una ficha (US19). |
+| POST | /api/v1/recipes | Crea una ficha técnica con sus insumos (US13). |
+   - *Dependencias:* RecipeQueryService, RecipeCommandService
+
+2. **ConsumptionController** — Expone el historial de consumo y descarte.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/consumption | Lista los registros de consumo y merma por periodo. |
+| GET | /api/v1/consumption/export | Descarga el historial en CSV o Excel (US29). |
+| GET | /api/v1/consumption/rotation | Devuelve el orden FIFO de salida de los lotes (US13). |
+| POST | /api/v1/consumption/supplier-incidents | Registra una incidencia de calidad de un proveedor (US40). |
+   - *Dependencias:* ConsumptionQueryService
+
+**Resources**
+
+| Resource | Campos |
+|---|---|
+| RecipeResource | id, title, portions, prepMinutes, instructions, ingredients[], costPerPortion |
+| RecipeIngredientResource | name, qty, unit, optional |
+| SupplierIncidentResource | supplier, inventoryItemId, description |
+| ConsumptionRecordResource | id, inventoryItemId, action, reason, estimatedValue, recordedAt |
+
+**Transformers / Assemblers**
+
+| Assembler | Transformación |
+|---|---|
+| RecipeResourceFromEntityAssembler | Convierte `Recipe` y sus ingredientes en `RecipeResource`. |
+| ConsumptionRecordResourceFromEntityAssembler | Convierte `ConsumptionRecord` en su recurso. |
+| SupplierIncidentCommandFromResourceAssembler | Convierte `SupplierIncidentResource` en `RecordSupplierIncidentCommand`. |
+
+### 5.6.3. Application Layer
+
+La Application Layer del Consumption Management coordina las operaciones entre la Interface Layer y la Domain Layer, orquestando comandos, consultas y la reacción a eventos de otros contextos.
+
+**Command Services**
+
+| Servicio | Comandos que maneja | Descripción |
+|---|---|---|
+| RecipeCommandServiceImpl | CreateRecipeCommand, UpdateRecipeCommand | Crea y mantiene las fichas técnicas del restaurante (US13, US19). |
+| ConsumptionCommandServiceImpl | RegisterConsumptionCommand, RegisterWasteCommand, RecordSupplierIncidentCommand | Crea los registros de consumo y merma con su valoración económica y ambiental, y las incidencias de proveedores (US40). |
+
+**Query Services / Facades**
+
+| Servicio | Consultas | Descripción |
+|---|---|---|
+| RecipeQueryServiceImpl | GetRecipesQuery, GetSuggestedRecipesQuery, GetRecipeByIdQuery | Recupera las fichas técnicas y su priorización por riesgo (US13). |
+| ConsumptionQueryServiceImpl | GetConsumptionByPeriodQuery, ExportConsumptionQuery, GetRotationQuery | Recupera el historial, genera la exportación en CSV/Excel (US29) y el orden FIFO de salida (US13). |
+| ConsumptionContextFacade | getConsumptionSummary(userId, period) | Open Host Service consultado por Report Management para construir los reportes. |
+
+**Event Handlers**
+
+| Handler | Evento que escucha | Reacción |
+|---|---|---|
+| FoodItemConsumedEventHandler | FoodItemConsumed (Inventory Management) | Crea un `ConsumptionRecord` de tipo CONSUMED y calcula el valor económico rescatado. |
+| FoodItemDiscardedEventHandler | FoodItemDiscarded (Inventory Management) | Crea un `ConsumptionRecord` de tipo DISCARDED con su causa y estima la huella de carbono. |
+| FoodConditionUpdatedEventHandler | FoodConditionUpdated (IoT Monitoring) | Recalcula la priorización de fichas y la rotación FIFO cuando un insumo entra en estado AT_RISK (US13). |
+
+### 5.6.4. Infrastructure Layer
+
+La Infrastructure Layer del Consumption Management implementa la persistencia y las integraciones técnicas (ACL) hacia otros contextos y sistemas externos.
+
+| Componente | Tipo | Responsabilidad |
+|---|---|---|
+| RecipeRepository | JPA Repository | Persistencia de fichas técnicas; `findByBusinessId`, `findByIngredientName`. |
+| RecipeIngredientRepository | JPA Repository | Persistencia de los insumos de cada ficha técnica. |
+| ConsumptionRecordRepository | JPA Repository | Persistencia del historial de consumo y merma. |
+| RedisCacheAdapter | Caché | Sirve las fichas técnicas y el inventario más consultados en menos de 50 ms (TS45). |
+| CsvExcelExporter | Servicio técnico | Genera el archivo CSV/Excel del historial con Apache POI (US29). |
+| ExternalInventoryService | ACL entrante | Consulta el `InventoryContextFacade` para obtener los alimentos en riesgo. |
+
+### 5.6.6. Bounded Context Software Architecture Component Level Diagrams
+
+<figure id="fig-comp-con" style="margin:1.5em 0;text-align:center">
+<img src="Assets/componentes-gestion-consumo.png" alt="Component Level Diagram — Consumption Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Component Level Diagram — Consumption Management.</em></figcaption>
+</figure>
+
+### 5.6.7. Bounded Context Software Architecture Code Level Diagrams
+
+#### 5.6.7.1. Bounded Context Domain Layer Class Diagrams
+
+<figure id="fig-class-con" style="margin:1.5em 0;text-align:center">
+<img src="Assets/clases-gestion-consumo.png" alt="Class Diagram (Domain Layer) — Consumption Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Class Diagram (Domain Layer) — Consumption Management.</em></figcaption>
+</figure>
+
+#### 5.6.7.2. Bounded Context Database Design Diagram
+
+<figure id="fig-er-con" style="margin:1.5em 0;text-align:center">
+<img src="Assets/bd-gestion-consumo.png" alt="Database Design Diagram — Consumption Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Database Design Diagram — Consumption Management.</em></figcaption>
+</figure>
+
+## 5.7. Bounded Context: IoT Monitoring
+
+El **IoT Monitoring Bounded Context** es el núcleo de la integración IoT del producto. Recibe la telemetría del dispositivo FreshSense mediante el endpoint REST seguro definido en la **TS41**, evalúa las lecturas contra los umbrales de cada alimento a través del `FreshnessService` del modelo de dominio, y emite las alertas preventivas de la **US08**, respetando el **Modo Mantenimiento** de la **US32**. Este contexto traduce la señal física (temperatura, humedad, etileno) en conocimiento de negocio: el estado de frescura del alimento.
+
+### 5.7.1. Domain Layer
+
+La Domain Layer del IoT Monitoring Bounded Context encapsula la lógica de negocio del contexto. En esta capa se definen los agregados, entidades, objetos de valor, servicios de dominio y políticas que representan los conceptos clave del sistema.
+
+**Aggregates**
+
+1. **SensorReading**
+   - *Propósito:* Agregado raíz que representa una lectura de telemetría enviada por el dispositivo FreshSense.
+
+   - *Atributos:*
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador de la lectura. |
+| deviceId | UUID | Dispositivo que la originó. |
+| timestamp | DateTime | Instante de la medición. |
+| temperatureC | float | Temperatura en grados Celsius. |
+| humidityPct | float | Humedad relativa en porcentaje. |
+| ethylenePpm | float | Concentración de gas etileno en ppm. |
+| meta | String | Metadatos del envío (versión de firmware, calidad de señal). |
+   - *Métodos:*
+
+| Método | Descripción |
+|---|---|
+| isValid() | Valida que los rangos de las tres magnitudes sean físicamente posibles. |
+| exceeds(ShelfLifeRules) | Indica si la lectura supera los umbrales de la categoría del alimento. |
+| toQualityRecord() | Proyecta la lectura al histórico de calidad consultado en los reportes. |
+
+**Entities**
+
+1. **ExpirationAlert** — Alerta generada cuando un alimento entra en riesgo de deterioro (US08).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador de la alerta. |
+| inventoryItemId | UUID | Alimento afectado. |
+| raisedAt | DateTime | Momento en que se emitió. |
+| type | AlertType (VO) | NEARING_EXPIRY, HIGH_ETHYLENE o TEMP_RISK. |
+| status | AlertStatus (VO) | OPEN, SENT, SNOOZED o RESOLVED. |
+| meta | String | Valores que motivaron la alerta. |
+
+| Método | Descripción |
+|---|---|
+| resolve() | Marca la alerta como resuelta cuando el alimento se consume o descarta. |
+| snooze(until) | Pospone la alerta según las preferencias del usuario (US09). |
+| markSent() | Registra que la notificación fue despachada. |
+2. **ThresholdProfile** — Perfil de umbrales aplicado a una zona, incluido el Modo Mantenimiento (US32).
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del perfil. |
+| zoneId | UUID | Zona de almacenamiento a la que aplica. |
+| maxTemperatureC | float | Temperatura máxima tolerada. |
+| maxEthylenePpm | float | Concentración máxima de etileno tolerada. |
+| maintenanceMode | boolean | Indica si el modo de mantenimiento está activo (US32). |
+
+| Método | Descripción |
+|---|---|
+| applyMaintenanceMode() | Pausa las alarmas de la zona mientras la cámara se limpia o se repara (US32). |
+| evaluate(SensorReading) | Determina si la lectura constituye una desviación. |
+**Value Objects**
+
+| Value Object | Descripción |
+|---|---|
+| AlertType | Enumeración: `NEARING_EXPIRY`, `HIGH_ETHYLENE`, `TEMP_RISK`. |
+| AlertStatus | Enumeración: `OPEN`, `SENT`, `SNOOZED`, `RESOLVED`. |
+| FreshnessStatus | Enumeración compartida con Inventory: `FRESH`, `AT_RISK`, `SPOILED` (Shared Kernel). |
+| Severity | Nivel de la alerta empleado para decidir el canal de entrega (US24). |
+
+**Domain Services**
+
+| Servicio | Descripción |
+|---|---|
+| FreshnessService | Servicio de dominio central del modelo: `evaluate(InventoryItem, SensorReading*)` determina el `FreshnessStatus` y `estimateBestBefore(InventoryItem, FoodModel, SensorReading*)` ajusta la fecha de consumo preferente con la telemetría real. |
+| ThresholdEvaluationService | Compara cada lectura con el `ThresholdProfile` vigente y decide si corresponde emitir una alerta. |
+
+**Domain Events**
+
+| Evento | Descripción |
+|---|---|
+| SensorReadingRegistered | Se persistió una lectura del dispositivo (ES: *registrar humedad / temperatura / etileno*). |
+| FoodConditionUpdated | El `FreshnessService` recalculó el estado del alimento (ES: *estado del alimento actualizado*). |
+| EthyleneAlertIssued | La concentración de etileno superó el umbral y se emitió la alerta (ES: *alerta emitida*). |
+| TemperatureAlertIssued | La temperatura salió del rango tolerado de la zona. |
+| AlertResolved | La alerta se cerró al consumirse o descartarse el alimento. |
+| MaintenanceModeActivated | Se pausaron las alarmas de la cámara por limpieza o reparación (US32). |
+
+**Policies**
+
+- **Emitir alerta al superar umbrales**: cuando los valores del sensor superan los umbrales configurados, se emite una alerta de expiración (US08).
+- **Evitar falsas alarmas**: cuando no existen desviaciones en los parámetros, el chequeo periódico no emite ninguna notificación (US08).
+- **Pausar alarmas en Modo Mantenimiento**: mientras una cámara está en mantenimiento, sus lecturas se registran pero no generan alertas hasta que se reactive (US32).
+- **Respetar el turno operativo**: cuando una alerta de baja severidad cae fuera del turno, se retiene hasta el siguiente; las críticas se envían siempre al responsable de turno (US09, US24).
+
+### 5.7.2. Interface Layer
+
+La Interface Layer del IoT Monitoring expone los puntos de entrada del contexto mediante controladores REST, recursos y *assemblers* que traducen entre el modelo HTTP y el modelo de dominio.
+
+**Controllers**
+
+1. **SensorReadingsController** — Endpoint de ingesta de telemetría del dispositivo IoT (TS41).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| POST | /api/v1/sensor-readings | Recibe un JSON con temperatura, humedad y etileno; valida el token del dispositivo y responde 201. |
+| GET | /api/v1/sensor-readings | Consulta el histórico de lecturas por dispositivo y periodo. |
+   - *Dependencias:* MonitoringCommandService, MonitoringQueryService
+
+2. **AlertsController** — Expone y gestiona las alertas de expiración (US08).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/alerts | Lista las alertas abiertas del usuario. |
+| POST | /api/v1/alerts/{id}/snooze | Pospone la alerta según las preferencias (US09). |
+| POST | /api/v1/alerts/{id}/resolve | Marca la alerta como resuelta. |
+   - *Dependencias:* AlertCommandService, AlertQueryService
+
+3. **ThresholdsController** — Configura los umbrales y el Modo Mantenimiento (US32).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/thresholds/{zoneId} | Obtiene el perfil de umbrales de la zona. |
+| PUT | /api/v1/thresholds/{zoneId} | Actualiza los umbrales o activa el Modo Mantenimiento. |
+   - *Dependencias:* ThresholdCommandService
+
+**Resources**
+
+| Resource | Campos |
+|---|---|
+| SensorReadingResource | deviceId, timestamp, temperatureC, humidityPct, ethylenePpm, meta |
+| AlertResource | id, inventoryItemId, type, status, raisedAt, meta |
+| ThresholdProfileResource | zoneId, maxTemperatureC, maxEthylenePpm, maintenanceMode |
+| QualityHistoryResource | deviceId, period, avgTemperature, avgHumidity, maxEthylene |
+
+**Transformers / Assemblers**
+
+| Assembler | Transformación |
+|---|---|
+| SensorReadingCommandFromResourceAssembler | Convierte el JSON entrante del dispositivo en `RegisterSensorReadingCommand` (TS41). |
+| AlertResourceFromEntityAssembler | Convierte `ExpirationAlert` en `AlertResource`. |
+| ThresholdProfileResourceFromEntityAssembler | Convierte `ThresholdProfile` en su recurso. |
+
+### 5.7.3. Application Layer
+
+La Application Layer del IoT Monitoring coordina las operaciones entre la Interface Layer y la Domain Layer, orquestando comandos, consultas y la reacción a eventos de otros contextos.
+
+**Command Services**
+
+| Servicio | Comandos que maneja | Descripción |
+|---|---|---|
+| MonitoringCommandServiceImpl | RegisterSensorReadingCommand | Valida el token del dispositivo, persiste la lectura y dispara la evaluación de frescura (TS41). |
+| AlertCommandServiceImpl | IssueAlertCommand, SnoozeAlertCommand, ResolveAlertCommand | Emite, pospone y cierra las alertas de expiración (US08, US09). |
+| ThresholdCommandServiceImpl | UpdateThresholdsCommand, ActivateMaintenanceModeCommand | Ajusta los umbrales por zona y activa el Modo Mantenimiento (US32). |
+
+**Query Services / Facades**
+
+| Servicio | Consultas | Descripción |
+|---|---|---|
+| MonitoringQueryServiceImpl | GetReadingsByDeviceQuery, GetQualityHistoryQuery | Recupera el histórico de telemetría y las métricas agregadas de calidad. |
+| AlertQueryServiceImpl | GetOpenAlertsQuery, GetAlertsByItemQuery | Recupera las alertas vigentes del usuario. |
+| MonitoringContextFacade | getQualityHistory(businessId, period), getOpenAlerts(userId) | Open Host Service consultado por Report Management e Inventory Management. |
+
+**Event Handlers**
+
+| Handler | Evento que escucha | Reacción |
+|---|---|---|
+| SensorConfiguredEventHandler | SensorConfigured (Sensor Management) | Crea el `ThresholdProfile` inicial de la zona con los umbrales por defecto de sus alimentos. |
+| FoodItemRegisteredEventHandler | FoodItemRegistered (Inventory Management) | Asocia el nuevo alimento a la zona monitoreada y comienza a evaluarlo. |
+| InventoryItemResolvedEventHandler | FoodItemConsumed / FoodItemDiscarded (Inventory Management) | Cierra automáticamente las alertas abiertas del alimento (`AlertResolved`). |
+
+### 5.7.4. Infrastructure Layer
+
+La Infrastructure Layer del IoT Monitoring implementa la persistencia y las integraciones técnicas (ACL) hacia otros contextos y sistemas externos.
+
+| Componente | Tipo | Responsabilidad |
+|---|---|---|
+| SensorReadingRepository | JPA Repository | Persistencia de la telemetría; `findByDeviceIdAndTsBetween`. |
+| ExpirationAlertRepository | JPA Repository | Persistencia de alertas; `findByStatus`, `findByInventoryItemId`. |
+| ThresholdProfileRepository | JPA Repository | Persistencia de los perfiles de umbrales por zona. |
+| DeviceTokenValidator | ACL entrante | Valida el token del dispositivo antes de aceptar la lectura (TS41). |
+| NotificationGatewayAdapter | ACL saliente | Despacha la alerta a la cola de eventos del Notification Service (TS42). |
+| FreshnessEvaluationScheduler | Spring Scheduler | Ejecuta el chequeo periódico de frescura sobre los alimentos activos. |
+
+### 5.7.6. Bounded Context Software Architecture Component Level Diagrams
+
+<figure id="fig-comp-mon" style="margin:1.5em 0;text-align:center">
+<img src="Assets/componentes-monitoreo-iot.png" alt="Component Level Diagram — IoT Monitoring." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Component Level Diagram — IoT Monitoring.</em></figcaption>
+</figure>
+
+### 5.7.7. Bounded Context Software Architecture Code Level Diagrams
+
+#### 5.7.7.1. Bounded Context Domain Layer Class Diagrams
+
+<figure id="fig-class-mon" style="margin:1.5em 0;text-align:center">
+<img src="Assets/clases-monitoreo-iot.png" alt="Class Diagram (Domain Layer) — IoT Monitoring." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Class Diagram (Domain Layer) — IoT Monitoring.</em></figcaption>
+</figure>
+
+#### 5.7.7.2. Bounded Context Database Design Diagram
+
+<figure id="fig-er-mon" style="margin:1.5em 0;text-align:center">
+<img src="Assets/bd-monitoreo-iot.png" alt="Database Design Diagram — IoT Monitoring." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Database Design Diagram — IoT Monitoring.</em></figcaption>
+</figure>
+
+## 5.8. Bounded Context: Report Management
+
+El **Report Management Bounded Context** consolida la información de los demás contextos para producir los **reportes de consumo y sostenibilidad**: el reporte semanal de mermas (**US12**), la analítica avanzada de rotación (**US17**), el panel de ahorro económico (**US18**) y las métricas de impacto ecológico en kg de CO₂ evitado (**US20**). Genera los archivos descargables en PDF y Excel con JasperReports y Apache POI, y expone la información al Analytics Service externo.
+
+### 5.8.1. Domain Layer
+
+La Domain Layer del Report Management Bounded Context encapsula la lógica de negocio del contexto. En esta capa se definen los agregados, entidades, objetos de valor, servicios de dominio y políticas que representan los conceptos clave del sistema.
+
+**Aggregates**
+
+1. **ConsumptionReport**
+   - *Propósito:* Agregado raíz que representa un reporte consolidado de consumo, merma y ahorro para un periodo determinado.
+
+   - *Atributos:*
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador del reporte. |
+| userId | UUID | Usuario o negocio destinatario. |
+| period | Period (VO) | Rango de fechas cubierto (periodStart–periodEnd). |
+| savedAmount | Money (VO) | Valor económico rescatado al consumir a tiempo (US18). |
+| wasteReducedKgCO2 | float | Kilogramos de CO₂ evitados (US20). |
+| sections | List&lt;ReportSection&gt; | Bloques del reporte: inventario, consumo, calidad. |
+| createdAt | DateTime | Fecha de generación. |
+   - *Métodos:*
+
+| Método | Descripción |
+|---|---|
+| generate(inventory, consumption, quality) | Construye el reporte a partir de los tres contextos fuente. |
+| exportTo(format) | Exporta el reporte a PDF o Excel (US29). |
+| isPremiumOnly() | Indica si el nivel de detalle requiere plan PREMIUM (US17). |
+
+**Entities**
+
+1. **ReportSection** — Bloque temático del reporte con sus métricas calculadas.
+
+| Atributo | Tipo | Descripción |
+|---|---|---|
+| id | UUID | Identificador de la sección. |
+| reportId | UUID | Reporte al que pertenece. |
+| type | SectionType (VO) | INVENTORY, CONSUMPTION, QUALITY o SUSTAINABILITY. |
+| metricsJson | String | Métricas calculadas serializadas. |
+| order | int | Posición dentro del reporte. |
+
+| Método | Descripción |
+|---|---|
+| render(format) | Produce la representación de la sección en el formato solicitado. |
+**Value Objects**
+
+| Value Object | Descripción |
+|---|---|
+| Period | Rango de fechas con inicio y fin; valida que el fin sea posterior al inicio. |
+| Money | Importe con moneda, usado para el ahorro estimado (US18). |
+| SectionType | Enumeración: `INVENTORY`, `CONSUMPTION`, `QUALITY`, `SUSTAINABILITY`. |
+| ExportFormat | Enumeración: `PDF`, `XLSX`, `CSV` (US29). |
+
+**Domain Services**
+
+| Servicio | Descripción |
+|---|---|
+| ReportAssemblyService | Orquesta la consulta a Inventory, Consumption e IoT Monitoring y arma las secciones del reporte. |
+| SustainabilityMetricsService | Convierte los kilogramos de alimento salvado en CO₂ evitado y litros de agua preservados (US20). |
+
+**Domain Events**
+
+| Evento | Descripción |
+|---|---|
+| ReportRequested | El usuario solicitó un reporte (ES: *solicitar reporte*). |
+| ReportGenerated | El reporte se construyó y quedó disponible (ES: *reporte generado*). |
+| WeeklyReportSent | Se despachó el resumen semanal al correo del usuario (US12). |
+| ReportExported | El usuario descargó el reporte en PDF, Excel o CSV (US29). |
+
+**Policies**
+
+- **Emitir reporte semanal**: cuando se cumple el ciclo de 7 días, el servidor consolida los datos y envía un resumen gráfico al correo y al panel (US12).
+- **Verificar plan antes de la analítica avanzada**: cuando un usuario sin PREMIUM solicita la rotación detallada, el acceso se bloquea (US17).
+- **Calcular impacto ambiental**: cuando se genera el reporte, se estima el CO₂ evitado a partir de los alimentos consumidos a tiempo (US20).
+
+### 5.8.2. Interface Layer
+
+La Interface Layer del Report Management expone los puntos de entrada del contexto mediante controladores REST, recursos y *assemblers* que traducen entre el modelo HTTP y el modelo de dominio.
+
+**Controllers**
+
+1. **ReportsController** — Genera y expone los reportes de consumo y sostenibilidad.
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/reports | Lista los reportes generados del usuario. |
+| POST | /api/v1/reports | Genera un reporte para el periodo indicado (US12). |
+| GET | /api/v1/reports/{id} | Obtiene el detalle del reporte y sus secciones. |
+| GET | /api/v1/reports/{id}/export | Descarga el reporte en PDF, Excel o CSV (US29). |
+   - *Dependencias:* ReportCommandService, ReportQueryService
+
+2. **AnalyticsController** — Expone la analítica avanzada y el panel de ahorro (US17, US18).
+
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | /api/v1/analytics/rotation | Gráficos de rotación de inventario (solo PREMIUM). |
+| GET | /api/v1/analytics/savings | Ahorro acumulado estimado en moneda local. |
+| GET | /api/v1/analytics/sustainability | Métricas de CO₂ evitado y agua preservada (US20). |
+   - *Dependencias:* ReportQueryService
+
+**Resources**
+
+| Resource | Campos |
+|---|---|
+| ReportResource | id, period, savedAmount, wasteReducedKgCO2, sections[], createdAt |
+| ReportSectionResource | type, metrics, order |
+| CreateReportResource | periodStart, periodEnd, scope |
+| SustainabilityResource | kgCO2Avoided, litersWaterSaved, itemsSaved |
+
+**Transformers / Assemblers**
+
+| Assembler | Transformación |
+|---|---|
+| ReportResourceFromEntityAssembler | Convierte `ConsumptionReport` y sus secciones en `ReportResource`. |
+| SustainabilityResourceFromEntityAssembler | Convierte las métricas ambientales en su recurso. |
+| CreateReportCommandFromResourceAssembler | Convierte `CreateReportResource` en `GenerateReportCommand`. |
+
+### 5.8.3. Application Layer
+
+La Application Layer del Report Management coordina las operaciones entre la Interface Layer y la Domain Layer, orquestando comandos, consultas y la reacción a eventos de otros contextos.
+
+**Command Services**
+
+| Servicio | Comandos que maneja | Descripción |
+|---|---|---|
+| ReportCommandServiceImpl | GenerateReportCommand, ExportReportCommand | Construye el reporte consultando los contextos fuente y genera el archivo descargable. |
+| WeeklyReportSchedulerImpl | SendWeeklyReportCommand | Consolida y despacha el reporte semanal de mermas al correo del negocio (US12). |
+
+**Query Services / Facades**
+
+| Servicio | Consultas | Descripción |
+|---|---|---|
+| ReportQueryServiceImpl | GetReportsByUserQuery, GetReportByIdQuery, GetSustainabilityMetricsQuery | Recupera los reportes generados y las métricas de impacto ambiental. |
+| AnalyticsQueryServiceImpl | GetRotationAnalyticsQuery, GetSavingsQuery | Recupera la analítica avanzada y el ahorro acumulado, previa verificación del plan (US17, US18). |
+| ReportContextFacade | getLatestReport(userId) | Open Host Service consultado por el Analytics Service externo. |
+
+**Event Handlers**
+
+| Handler | Evento que escucha | Reacción |
+|---|---|---|
+| ConsumptionRegisteredEventHandler | ConsumptionRegistered (Consumption Management) | Acumula el valor rescatado y actualiza las métricas del periodo en curso. |
+| WasteRegisteredEventHandler | WasteRegistered (Consumption Management) | Acumula la merma y recalcula la huella de carbono del periodo (US20). |
+| WeeklyCycleEventHandler | WeeklyCycleCompleted (Spring Scheduler) | Dispara `SendWeeklyReportCommand` para generar y enviar el resumen (US12). |
+
+### 5.8.4. Infrastructure Layer
+
+La Infrastructure Layer del Report Management implementa la persistencia y las integraciones técnicas (ACL) hacia otros contextos y sistemas externos.
+
+| Componente | Tipo | Responsabilidad |
+|---|---|---|
+| ConsumptionReportRepository | JPA Repository | Persistencia de reportes; `findByUserIdAndPeriod`. |
+| ReportSectionRepository | JPA Repository | Persistencia de las secciones de cada reporte. |
+| JasperPdfExporter | Servicio técnico | Genera el reporte en PDF con JasperReports. |
+| ApachePoiExcelExporter | Servicio técnico | Genera el reporte en Excel con Apache POI (US29). |
+| ExternalInventoryService | ACL entrante | Consulta el `InventoryContextFacade` para el snapshot de inventario. |
+| ExternalConsumptionService | ACL entrante | Consulta el `ConsumptionContextFacade` para el resumen de consumo. |
+| ExternalMonitoringService | ACL entrante | Consulta el `MonitoringContextFacade` para el histórico de calidad. |
+| AnalyticsServiceAdapter | ACL saliente | Publica las métricas consolidadas al Analytics Service externo. |
+
+### 5.8.6. Bounded Context Software Architecture Component Level Diagrams
+
+<figure id="fig-comp-rep" style="margin:1.5em 0;text-align:center">
+<img src="Assets/componentes-gestion-reportes.png" alt="Component Level Diagram — Report Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Component Level Diagram — Report Management.</em></figcaption>
+</figure>
+
+### 5.8.7. Bounded Context Software Architecture Code Level Diagrams
+
+#### 5.8.7.1. Bounded Context Domain Layer Class Diagrams
+
+<figure id="fig-class-rep" style="margin:1.5em 0;text-align:center">
+<img src="Assets/clases-gestion-reportes.png" alt="Class Diagram (Domain Layer) — Report Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Class Diagram (Domain Layer) — Report Management.</em></figcaption>
+</figure>
+
+#### 5.8.7.2. Bounded Context Database Design Diagram
+
+<figure id="fig-er-rep" style="margin:1.5em 0;text-align:center">
+<img src="Assets/bd-gestion-reportes.png" alt="Database Design Diagram — Report Management." style="max-width:100%;height:auto"/>
+<figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Database Design Diagram — Report Management.</em></figcaption>
+</figure>
+
+<div style="page-break-after: always;"></div>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2077,37 +3653,618 @@ Esta distribución permite separar el entorno físico encargado de obtener las c
 
 ## 6.1. Style Guidelines
 
+FreshSense establece un conjunto de lineamientos visuales y de interacción orientados a mantener una experiencia consistente entre el Landing Page, la aplicación web, la aplicación móvil y la experiencia asociada al dispositivo IoT.
+
+La solución está dirigida principalmente a **empresas de distribución y cadena de frío** y a **empresas productoras y comercializadoras de alimentos perecibles**. Por ello, la experiencia visual prioriza claridad, confiabilidad y rápida interpretación de información relacionada con monitoreo ambiental, lotes, dispositivos, alertas y trazabilidad.
+
+Los recursos visuales del producto, como logotipos, imágenes, tipografías y demás elementos gráficos, se centralizarán en la carpeta `Assets/` del repositorio para mantener una referencia común entre todos los integrantes del equipo.
+
 ### 6.1.1. General Style Guidelines
+
+Los lineamientos generales de FreshSense definen la identidad visual y comunicacional utilizada en los diferentes productos digitales que forman parte de la solución.
+
+#### Branding
+
+La identidad de FreshSense está orientada a transmitir **frescura, control, trazabilidad, tecnología y confiabilidad**.
+
+La marca busca representar una solución tecnológica que permita a las empresas monitorear las condiciones de conservación de productos perecibles durante su almacenamiento y distribución, facilitando la detección de desviaciones y reduciendo las pérdidas asociadas al deterioro de productos.
+
+El diseño visual mantiene una apariencia limpia y profesional, evitando interfaces excesivamente cargadas. Los elementos relacionados con monitoreo, conservación, alertas, dispositivos y trazabilidad deben utilizarse de manera consistente en todos los productos digitales.
+
+#### Typography
+
+FreshSense utiliza la familia tipográfica **Poppins** debido a su apariencia moderna, limpia y legible en interfaces digitales.
+
+Se establece la siguiente jerarquía tipográfica:
+
+- **H1:** títulos principales de páginas y mensajes de mayor importancia.
+- **H2:** títulos de secciones.
+- **H3:** subtítulos y encabezados de componentes.
+- **Body:** contenido descriptivo, datos y textos de apoyo.
+- **Labels:** nombres de campos, indicadores, filtros y estados.
+
+La jerarquía debe mantenerse de manera consistente en las experiencias Web y Mobile para facilitar la lectura y comprensión de la información.
+
+#### Colors
+
+La paleta cromática de FreshSense está compuesta principalmente por verde, azul, tonos neutros y blanco.
+
+| Color | Uso principal |
+|---|---|
+| **Green - Primary** | Acciones principales, indicadores de condiciones adecuadas y elementos asociados a conservación. |
+| **Blue - Secondary** | Monitoreo, información tecnológica, gráficos y componentes secundarios. |
+| **Gray - Neutral** | Textos secundarios, etiquetas, íconos y divisores. |
+| **White - Background** | Fondos principales, tarjetas y espacios de contenido. |
+| **Text - Base** | Información principal y contenido de alta prioridad. |
+
+Los estados que requieran atención podrán utilizar indicadores visuales diferenciados según su nivel de severidad. Sin embargo, el color no será el único mecanismo de comunicación; cada estado deberá estar acompañado por texto o iconografía que permita comprender claramente la situación.
+
+#### Spacing & Layout
+
+FreshSense utiliza una estructura modular para mantener consistencia entre páginas y componentes.
+
+**Base Unit**
+
+- Size: `8 px`
+- Uso: unidad base para márgenes, paddings y separación entre elementos.
+
+**Grid System**
+
+- Grid: `12 columnas`
+- Gutter: `22 px`
+- Margins: proporcionales a la unidad base.
+
+**Section Spacing**
+
+- Standard section: `56 px`
+- Hero section: `72 px`
+- Footer: `36–56 px`
+
+**Cards & Components**
+
+- Internal padding: `18–22 px`
+- Border radius: `16 px`
+- Elevation: `0 10px 25px rgba(0,0,0,.08)`
+
+**Alignment**
+
+- Contenido principal dentro de un contenedor máximo de `1120 px` o `92%` del ancho disponible.
+- El contenido textual se alinea principalmente a la izquierda para facilitar su lectura.
+- Los indicadores críticos y métricas principales deberán tener mayor jerarquía visual.
+- Se utilizarán espacios amplios entre grupos de información para diferenciar claramente cada sección.
+
+#### Tone of Voice
+
+El tono de comunicación de FreshSense busca transmitir profesionalismo, confianza y claridad, debido a que la solución presenta información utilizada para supervisar las condiciones de conservación de productos perecibles.
+
+| Dimensión | Orientación de FreshSense | Justificación |
+|---|---|---|
+| Divertido / Serio | **Serio** | Los datos de monitoreo y las alertas requieren una comunicación clara y confiable. |
+| Formal / Casual | **Formal** | La solución está orientada a organizaciones y procesos empresariales. |
+| Respetuoso / Irreverente | **Respetuoso** | Los mensajes deben orientar al usuario sin generar confusión. |
+| Entusiasta / Sereno | **Sereno** | Las incidencias deben comunicarse con claridad sin utilizar mensajes alarmistas. |
+
+Los mensajes del sistema deben ser breves, precisos y orientados a una acción concreta.
+
+Ejemplos:
+
+- `Temperature above allowed range`
+- `Device disconnected`
+- `Cold chain deviation detected`
+- `Reading updated successfully`
+- `Lot requires attention`
 
 ### 6.1.2. Web, Mobile & Devices Style Guidelines
 
+FreshSense mantiene una identidad visual consistente entre sus diferentes interfaces. Los usuarios deben reconocer los mismos colores, tipografía, iconografía, indicadores y terminología independientemente de si utilizan la aplicación web o móvil.
+
+#### Web Style Guidelines
+
+El Landing Page y la aplicación web utilizarán principios de **Material Design**, manteniendo consistencia en componentes como botones, formularios, tarjetas, tablas, menús, indicadores y mensajes de estado.
+
+Para la versión Desktop del Landing Page se utilizará principalmente el **patrón de lectura Z**, dirigiendo inicialmente la atención hacia la marca, propuesta de valor y Call-to-Action principal.
+
+Posteriormente, el contenido presentará el funcionamiento de FreshSense, sus principales beneficios y la solución específica para cada segmento empresarial.
+
+En pantallas de menor tamaño, el contenido adoptará una estructura principalmente vertical.
+
+La aplicación web priorizará la visualización de información relacionada con:
+
+- Dashboard.
+- Monitoring.
+- Inventory.
+- Lots.
+- Devices.
+- Alerts.
+- Traceability.
+- Reports.
+
+Los datos provenientes del dispositivo IoT, como temperatura, humedad, última lectura y estado de conexión, se presentarán mediante tarjetas, tablas, indicadores y gráficos que permitan identificar rápidamente desviaciones o situaciones que requieran atención.
+
+#### Mobile Style Guidelines
+
+La aplicación móvil mantendrá los mismos principios visuales definidos para la aplicación web, adaptando la distribución a pantallas de menor tamaño.
+
+Se priorizarán las funcionalidades que requieren consulta rápida:
+
+- Estado general del monitoreo.
+- Alertas activas.
+- Lecturas recientes.
+- Estado de dispositivos.
+- Estado de lotes.
+
+La información se organizará principalmente en una sola columna y se priorizarán los eventos o condiciones que requieran atención inmediata.
+
+Los nombres, colores, iconos y estados serán equivalentes a los utilizados en Web para reducir la curva de aprendizaje entre plataformas.
+
+#### IoT Style Guidelines
+
+El dispositivo IoT actual de FreshSense funciona como un nodo de monitoreo encargado de registrar las condiciones ambientales relacionadas con la conservación de productos perecibles.
+
+El prototipo utiliza un microcontrolador **ESP32** junto con un sensor **DHT22** para obtener periódicamente información de temperatura y humedad.
+
+Las mediciones son transmitidas mediante Wi-Fi hacia el Edge API y posteriormente enviadas al backend de FreshSense para su almacenamiento, procesamiento y visualización.
+
+El prototipo físico actual no incorpora una pantalla ni controles de interacción directa documentados. Por ello, la interacción del usuario con el dispositivo se realiza principalmente mediante las aplicaciones digitales de FreshSense.
+
+Los principales elementos relacionados con el dispositivo utilizarán etiquetas simples y consistentes:
+
+| Elemento | Label |
+|---|---|
+| Estado del dispositivo | `Connected` / `Disconnected` |
+| Temperatura | `Temperature` |
+| Humedad | `Humidity` |
+| Última medición | `Last Reading` |
+| Estado del monitoreo | `Monitoring Status` |
+| Identificador | `Device ID` |
+
+La interfaz debe permitir que el usuario comprenda el estado del dispositivo y de las condiciones monitoreadas sin necesidad de conocer detalles técnicos como el funcionamiento del ESP32, DHT22, JSON o Edge API.
+
+#### Internationalization & Accessibility
+
+FreshSense considera dos locales principales:
+
+- `en_US` - English.
+- `es_419` - Latin American Spanish.
+
+El idioma predeterminado de las interfaces será **English**, manteniendo disponible la estructura necesaria para presentar los mismos contenidos en español latinoamericano.
+
+En las experiencias Web se utilizarán atributos ARIA para facilitar el uso de tecnologías de asistencia.
+
+Asimismo, los estados importantes no serán representados únicamente mediante colores, sino también mediante texto, iconos u otros indicadores reconocibles.
+
+La estructura visual, las etiquetas y los componentes mantendrán consistencia entre ambos idiomas.
+
+
 ## 6.2. Information Architecture
+
+La arquitectura de información de FreshSense está diseñada para que los visitantes y usuarios puedan comprender rápidamente la propuesta del producto y acceder a información relacionada con monitoreo, dispositivos, productos perecibles, alertas y trazabilidad sin recorrer estructuras complejas.
+
+La organización considera las necesidades de los dos segmentos principales:
+
+- **Empresas de distribución y cadena de frío:** organizaciones encargadas del transporte, distribución o almacenamiento de productos perecibles que requieren supervisar continuamente las condiciones de conservación.
+- **Empresas productoras y comercializadoras de alimentos perecibles:** organizaciones que producen, almacenan o comercializan alimentos y necesitan controlar las condiciones de sus productos y reducir pérdidas asociadas al deterioro.
+
+La arquitectura considera el Landing Page, la aplicación web, la aplicación móvil y las funcionalidades asociadas al monitoreo mediante dispositivos IoT.
+
+### 6.2.1. Organization Systems
+
+FreshSense utiliza distintos sistemas de organización dependiendo del tipo de información y de la tarea que realiza el usuario.
+
+#### Hierarchical Organization
+
+El Landing Page utiliza una organización jerárquica que presenta primero la información de mayor relevancia:
+
+1. Propuesta de valor.
+2. Funcionamiento de FreshSense.
+3. Beneficios.
+4. Solución para distribución y cadena de frío.
+5. Solución para productores y comercializadores.
+6. Call-to-Action.
+7. Contacto.
+
+En las aplicaciones, la información se organiza priorizando inicialmente indicadores generales, alertas activas y posibles desviaciones antes de mostrar información secundaria.
+
+#### Sequential Organization
+
+Los procesos que requieren completar varias acciones utilizan una organización secuencial.
+
+Ejemplos:
+
+`Register → Add Device → Configure Device → Start Monitoring`
+
+`Register Lot → Add Product Information → Associate Device → Start Tracking`
+
+De esta manera, el usuario recibe únicamente la información necesaria para completar cada etapa del proceso.
+
+#### Matrix Organization
+
+Las vistas de monitoreo utilizan estructuras matriciales que permiten comparar diferentes dispositivos, lotes o variables.
+
+**Monitoring**
+
+| Device | Temperature | Humidity | Status | Last Reading |
+|---|---|---|---|---|
+| Device ID | Value | Value | Connection Status | Date & Time |
+
+**Lots**
+
+| Lot | Product | Location | Monitoring Status | Last Update |
+|---|---|---|---|---|
+| Lot ID | Product Name | Location | Status | Date & Time |
+
+Este sistema facilita la supervisión simultánea de múltiples productos y dispositivos.
+
+#### Alphabetical Organization
+
+Los productos, dispositivos y ubicaciones podrán organizarse alfabéticamente cuando sea necesario localizar un elemento específico.
+
+#### Chronological Organization
+
+Las lecturas, alertas, incidencias y registros de trazabilidad se organizan principalmente de forma cronológica, mostrando primero los eventos más recientes.
+
+#### Topic-Based Organization
+
+Las principales funcionalidades se agrupan según el tópico al que pertenecen:
+
+- Dashboard
+- Monitoring
+- Inventory
+- Lots
+- Devices
+- Alerts
+- Traceability
+- Reports
+
+#### Audience-Based Organization
+
+En el Landing Page se diferencia el contenido según los segmentos objetivo:
+
+- **For Cold Chain:** contenido orientado a empresas de distribución y operadores de cadena de frío.
+- **For Producers:** contenido orientado a empresas productoras y comercializadoras de alimentos perecibles.
+
+Esto permite presentar beneficios específicos para cada segmento sin modificar la identidad general de FreshSense.
 
 ### 6.2.2. Labeling Systems
 
+El sistema de etiquetado de FreshSense utiliza términos breves, consistentes y fáciles de reconocer.
+
+Se evita mostrar terminología técnica relacionada con la implementación cuando no aporta valor directo al usuario.
+
+#### Landing Page
+
+| Label | Propósito |
+|---|---|
+| `Home` | Regresar al inicio. |
+| `Solution` | Presentar la solución FreshSense. |
+| `How It Works` | Explicar el funcionamiento general del sistema. |
+| `Benefits` | Presentar los principales beneficios. |
+| `For Cold Chain` | Información dirigida a empresas de distribución y cadena de frío. |
+| `For Producers` | Información dirigida a productores y comercializadores. |
+| `Contact` | Presentar los medios de contacto. |
+| `Sign In` | Acceder a la plataforma. |
+| `Get Started` | Iniciar el proceso de acceso o registro. |
+
+#### Web and Mobile Applications
+
+| Label | Información asociada |
+|---|---|
+| `Dashboard` | Resumen general del sistema e indicadores principales. |
+| `Monitoring` | Visualización de las condiciones registradas por los dispositivos. |
+| `Inventory` | Información de los productos registrados. |
+| `Lots` | Gestión y seguimiento de lotes. |
+| `Devices` | Gestión de dispositivos IoT asociados. |
+| `Alerts` | Eventos o desviaciones que requieren atención. |
+| `Traceability` | Historial de eventos y condiciones asociadas a productos o lotes. |
+| `Reports` | Información consolidada y resultados de monitoreo. |
+
+#### IoT Monitoring
+
+| Label | Información asociada |
+|---|---|
+| `Device` | Dispositivo IoT registrado. |
+| `Device ID` | Identificador único del dispositivo. |
+| `Connected` | Dispositivo comunicándose correctamente. |
+| `Disconnected` | Dispositivo sin comunicación con el sistema. |
+| `Temperature` | Temperatura obtenida mediante el sensor. |
+| `Humidity` | Humedad obtenida mediante el sensor. |
+| `Last Reading` | Fecha y hora de la lectura más reciente. |
+| `Monitoring Status` | Estado actual del proceso de monitoreo. |
+
+Las etiquetas se mantendrán equivalentes entre las experiencias Web y Mobile para evitar que un mismo concepto tenga diferentes nombres dependiendo de la plataforma.
+
 ### 6.2.3. Searching Systems
+
+El sistema de búsqueda se concentra principalmente en las aplicaciones Web y Mobile, donde el volumen de información puede aumentar debido al registro de dispositivos, lotes, productos, lecturas y alertas.
+
+El Landing Page no requiere un buscador interno debido a que su contenido está organizado en un número reducido de secciones accesibles mediante navegación directa.
+
+#### Lots Search
+
+El usuario podrá buscar lotes mediante:
+
+- Lot ID.
+- Producto.
+- Ubicación.
+
+Los resultados podrán filtrarse según:
+
+- Monitoring Status.
+- Fecha.
+- Ubicación.
+- Producto.
+
+Cada resultado mostrará información relevante del lote y su estado actual.
+
+#### Device Search
+
+Los dispositivos podrán buscarse mediante:
+
+- Device ID.
+- Ubicación.
+
+Los resultados podrán filtrarse según:
+
+- Connected.
+- Disconnected.
+- Fecha de última lectura.
+
+Cada resultado mostrará como mínimo:
+
+- Device ID.
+- Connection Status.
+- Temperature.
+- Humidity.
+- Last Reading.
+
+#### Monitoring Search
+
+La información de monitoreo podrá consultarse utilizando:
+
+- Device.
+- Lot.
+- Rango de fechas.
+- Ubicación.
+
+Los resultados mostrarán las principales mediciones registradas durante el período seleccionado.
+
+#### Alerts Search
+
+Las alertas podrán filtrarse según:
+
+- Estado.
+- Severidad.
+- Fecha.
+- Tipo de evento.
+- Device.
+- Lot.
+
+Por defecto, se mostrarán primero las alertas más recientes y aquellas que requieran mayor atención.
+
+#### Traceability Search
+
+La información de trazabilidad podrá consultarse mediante:
+
+- Lot ID.
+- Producto.
+- Device.
+- Período.
+
+Los resultados se mostrarán cronológicamente para facilitar la revisión de los eventos registrados durante el almacenamiento o distribución del producto.
+
+Cuando una búsqueda no presente coincidencias, la interfaz mostrará un mensaje claro y permitirá modificar o eliminar los filtros aplicados.
 
 ### 6.2.4. SEO Tags and Meta Tags
 
+FreshSense utilizará SEO Tags y Meta Tags para representar adecuadamente el contenido del Landing Page y de la aplicación web.
+
+#### Landing Page
+
+| Element | Value |
+|---|---|
+| **Title** | `FreshSense | Smart Cold Chain Monitoring for Perishable Foods` |
+| **Description** | `FreshSense helps companies monitor temperature and humidity conditions during the storage and distribution of perishable food products using IoT technology.` |
+| **Keywords** | `cold chain monitoring, perishable food, IoT monitoring, temperature monitoring, humidity monitoring, food traceability, cold storage` |
+| **Author** | `FreshSense Team` |
+
+#### Web Application
+
+| Element | Value |
+|---|---|
+| **Title** | `FreshSense Platform | Monitor Your Cold Chain` |
+| **Description** | `Monitor devices, environmental conditions, lots, alerts and traceability information for perishable food products with FreshSense.` |
+| **Keywords** | `FreshSense, cold chain, IoT monitoring, food traceability, temperature, humidity, logistics` |
+| **Author** | `FreshSense Team` |
+
+#### Mobile Application - ASO
+
+En caso de publicación de la aplicación móvil mediante un App Store, se utilizarán los siguientes elementos:
+
+| Element | Value |
+|---|---|
+| **App Title** | `FreshSense` |
+| **App Subtitle** | `Smart Cold Chain Monitoring` |
+| **App Keywords** | `cold chain, food, monitoring, temperature, humidity, traceability, IoT` |
+| **App Description** | `FreshSense helps companies monitor environmental conditions, connected devices and alerts related to the storage and distribution of perishable food products.` |
+
 ### 6.2.5. Navigation Systems
+
+La navegación de FreshSense busca mantener recorridos simples y consistentes entre el Landing Page y las diferentes aplicaciones.
+
+#### Landing Page - Desktop
+
+La versión Desktop utilizará una barra de navegación superior con acceso a las principales secciones:
+
+`Home | Solution | How It Works | Benefits | For Cold Chain | For Producers | Contact`
+
+Además, se mostrarán las principales acciones:
+
+`Sign In | Get Started`
+
+Los Call-to-Action permitirán dirigir a los usuarios hacia el acceso a la plataforma o hacia información específica relacionada con su segmento.
+
+#### Landing Page - Mobile
+
+En pantallas móviles, las mismas opciones estarán agrupadas en un menú compacto para reducir el espacio utilizado y priorizar el contenido principal.
+
+El orden y significado de las secciones serán equivalentes a los utilizados en Desktop.
+
+#### Web Application
+
+Una vez autenticado, el usuario tendrá acceso a los principales módulos de FreshSense:
+
+`Dashboard | Monitoring | Inventory | Lots | Devices | Alerts | Traceability | Reports`
+
+El **Dashboard** funcionará como punto inicial de la experiencia y permitirá visualizar información relevante como:
+
+- Estado general del monitoreo.
+- Dispositivos conectados.
+- Alertas activas.
+- Lecturas recientes.
+- Lotes que requieren atención.
+
+#### Mobile Application
+
+La navegación móvil priorizará las funcionalidades que requieren consulta frecuente:
+
+- Dashboard.
+- Monitoring.
+- Alerts.
+- Devices.
+- Lots.
+
+Las funcionalidades complementarias, como Inventory, Traceability y Reports, permanecerán disponibles desde la navegación secundaria.
+
+#### IoT Device Navigation
+
+La interacción con los dispositivos IoT se realiza principalmente mediante las aplicaciones Web y Mobile.
+
+El recorrido principal será:
+
+`Devices → Select Device → Monitoring → Reading Details`
+
+Para el seguimiento de productos, se utilizará:
+
+`Lots → Select Lot → Traceability → Event Details`
+
+Desde estas vistas, el usuario podrá conocer el estado de conexión de los dispositivos, consultar las mediciones de temperatura y humedad y revisar los eventos asociados al monitoreo de cada lote.
+
+Esta organización evita que el usuario necesite interactuar directamente con componentes técnicos como el ESP32 o el sensor DHT22 para utilizar las funciones principales de FreshSense.
 
 ## 6.3. Landing Page UI Design
 
 ### 6.3.1. Landing Page Wireframe
 
+A continuación se realizaron los wireframes de la landing page de FreshSense, siguiendo los user stories como referencia, para conocer las necesidades y preferencias de los usuarios visitantes:
+
+**Figura 1.** Wireframe de la página principal 
+![Hero](Assets/LP_HERO.PNG)
+
+**Figura 2.** Como funciona FreshSense
+![Hero](Assets/LP_HTW.PNG) 
+
+**Figura 3.** Vistazo inicial a los beneficios 
+![Hero](Assets/LP_BENEFITS.PNG) 
+
+**Figura 4.** Modelo inicial para los planes de subscripción.
+![Hero](Assets/LP_PLANS.PNG) 
+
+**Figura 5.** Wireframe para los testimonios
+![Hero](Assets/LP_TESTIMONIALS.PNG) 
+
+**Figura 6.** Wireframe para el formulario y se incluye el footer
+![Hero](Assets/LP_FORM.PNG) 
+
 ### 6.3.2. Landing Page Mock-up
+
+Una vez se realizaron los wireframes, usamos los Style Guidelines, para desarrollar el siguiente paso, los mock ups, utilizamos los colores y modelos referidos en los guidelines, los colores verdes y azules predominantes en el diseño, aluden a la escencia de la aplicación:
+
+**Figura 7.** Mock-Up de la página principal 
+![Hero](Assets/MK_LP_HERO.PNG) 
+
+**Figura 8.** Mock-Up se muestra las funciones de FreshSense
+![Hero](Assets/MK_LP_HIW.PNG) 
+
+**Figura 9.** Vistazo inicial a los beneficios 
+![Hero](Assets/MK_LP_BENEFITS.PNG) 
+
+**Figura 10.** Mock-Up para los planes de subscripción.
+![Hero](Assets/MK_LP_PLANS.PNG) 
+
+**Figura 11.** Mock-Up para los testimonios
+![Hero](Assets/MK_LP_TESTIMONIALS.PNG) 
+
+**Figura 12.** Mock-Up para el formulario y se incluye el footer
+![FORM](Assets/MK_LP_FORM.PNG)
 
 ## 6.4. Applications UX/UI Design
 
+En la sección de Applications UX/UI Design nos enfocamos en el diseño de la interfaz y la experiencia de usuario de la aplicación web de FreshSenser, donde incluimos una visualización funcional por cada parte del aplicativo con sus flujos de interacción completos. Se elaboraron wireframes en formato mobile que facilitan la disposición de las funciones de la plataforma a través de su dispositivo móvil frecuente, con elementos en pantallas que son la introducción al app, el login up, el sign up, el home o dashboard, el menú, el inventario de insumos, el detalle de cada insumo, el monitoreo de insumos, alertas, recetas, reportes, logros y soporte. En base a estos esquemas se diseñaron los mockups con alta fidelidad. En los siguientes sprints se muestra el desarrollo de cada vista de la app y cómo estas interactúan.
+
 ### 6.4.1. Applications Wireframes
+
+![wireframeapp1](Assets/wireframeapp1.png)
+![wireframeapp2](Assets/wireframeapp2.png)
+![wireframeapp3](Assets/wireframeapp3.png)
+![wireframeapp4](Assets/wireframeapp4.png)
+![wireframeapp5](Assets/wireframeapp5.png)
+![wireframeapp6](Assets/wireframeapp6.png)
+![wireframeapp7](Assets/wireframeapp7.png)
 
 ### 6.4.2. Applications Wireflow Diagrams
 
+Para este apartado, el wireflow se diseñó para representar de forma detallada el proceso de uso desde el inicio de sesión hasta las funcionalidades principales, como la gestión del inventario de alimentos, el monitoreo en tiempo real, la recepción de alertas, la consulta de recetas, el seguimiento de logros y la personalización de ajustes. De esta manera, se asegura que la navegación sea coherente, intuitiva y centrada en mejorar la experiencia del usuario final.
+
+![alt text](Assets/FreshSense_Web_Applications_Wireflow_Diagrams.png)
+
 ### 6.4.3. Applications Mock-ups
+
+![mockupapp1](Assets/mockupapp1.png)
+![mockupapp2](Assets/mockupapp2.png)
+![mockupapp3](Assets/mockupapp3.png)
+![mockupapp4](Assets/mockupapp4.png)
+![mockupapp5](Assets/mockupapp5.png)
+![mockupapp6](Assets/mockupapp6.png)
+![mockupapp7](Assets/mockupapp7.png)
 
 ### 6.4.4. Applications User Flow Diagrams
 
+![alt text](Assets/cuadritosFLOW.jpg)
+
+Cada figura del diagrama tiene un significado específico dentro del flujo de usuario:
+
+- Start: punto de inicio del recorrido.
+
+- Page: pantalla normal de la aplicación.
+
+- Option Page: menú o sección con varias opciones.
+
+- End: final del flujo o salida de la app.
+
+- Input: ingreso de datos por parte del usuario.
+
+- Decision: condición que define diferentes caminos.
+
+- Result: acción realizada con éxito.
+
+- Notification: mensaje o alerta mostrado al usuario.
+
+![alt text](Assets/FreshSense_Web_Applications_Userflow_Diagrams.jpg)
+
+Ahora representamos los User Flow Diagrams de la aplicación web FreshSense, los cuales permiten visualizar de manera clara el recorrido que realiza el usuario dentro del sistema, desde que abre la aplicación hasta que cierra sesión. Este diagrama utiliza convenciones gráficas específicas para identificar los distintos tipos de pantallas, acciones, decisiones, resultados y notificaciones que intervienen en la experiencia del usuario. Gracias a esta representación, se facilita el análisis de la interacción, la detección de posibles mejoras en la navegación y la validación de que todos los escenarios de uso estén contemplados.
+
 ## 6.5. Applications Prototyping
+
+Para validar la navegación y la interacción de los usuarios con FreshSense se desarrolló un prototipo interactivo de la aplicación. Este prototipo permite recorrer las principales vistas y funcionalidades definidas durante el proceso de diseño UX/UI, simulando el comportamiento esperado de la solución antes de su implementación completa.
+
+El prototipo facilita la validación de los flujos de navegación, la organización de las pantallas y las interacciones entre las diferentes funcionalidades de la aplicación.
+
+El prototipo interactivo de FreshSense puede consultarse en el siguiente enlace:
+
+[Prototipo interactivo de FreshSense en Figma](https://www.figma.com/proto/WMu6m6D3rPs3AI4HYKKbNJ/WireFrames-LandingPage?node-id=159-1605&p=f&t=tnVLge8rsFfHhU1S-1&scaling=min-zoom&content-scaling=fixed&page-id=159%3A1603)
+
+<div style="page-break-after: always;"></div>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -2115,41 +4272,1831 @@ Esta distribución permite separar el entorno físico encargado de obtener las c
 
 ## 7.1. Software Configuration Management
 
+FreshSense se configura como un solo producto para los dos segmentos: propietarios y administradores de restaurantes, y encargados de negocios de distribución de alimentos en fríos. No hay una rama ni un repositorio por rubro. Los dos usan el mismo frontend y el mismo API. En el restaurante la cámara es la de cocina. En la distribución es la cámara o la vitrina del lote.
+
+El código de esa aplicación y este informe se versionan aparte, en la organización `1ASI0572-2620-8725`. Así un cambio del informe no mezcla el historial de la app. El entorno de desarrollo está en 7.1.1, el manejo de ramas y módulos en 7.1.2, el estilo en 7.1.3 y el despliegue en 7.1.4.
+
 ### 7.1.1. Software Development Environment Configuration
+
+En esta sección se describen los productos de software que el equipo utiliza en cada etapa del ciclo de vida de FreshSense: gestión del proyecto, requisitos y diseño, desarrollo del software, desarrollo del dispositivo IoT, pruebas, documentación y despliegue. Es el mismo entorno para los dos segmentos objetivo (propietarios y administradores de restaurantes, y encargados de negocios de distribución de alimentos en frío), porque ambos usan la misma Landing Page, la misma aplicación web y el mismo API.
+
+**Project Management y colaboración**
+
+| Producto | Tipo | Propósito en el proyecto | Ruta de referencia |
+|---|---|---|---|
+| GitHub (organización `1ASI0572-2620-8725`) | SaaS | Alojamiento de los repositorios del informe, la Landing Page, el frontend y el backend; control de ramas y *pull requests*. | https://github.com/1ASI0572-2620-8725 |
+| Git | Software de escritorio | Control de versiones local de cada integrante, con el flujo de ramas descrito en 7.1.2. | https://git-scm.com/downloads |
+| Markdown | Lenguaje de marcado | Redacción del informe del proyecto (`README.md`) directamente en el repositorio. | https://www.markdownguide.org |
+
+**Requirements Management y diseño**
+
+| Producto | Tipo | Propósito en el proyecto | Ruta de referencia |
+|---|---|---|---|
+| Visual Paradigm Online | SaaS | Diagramas C4 (contexto, contenedores y despliegue) del Capítulo IV. | https://online.visual-paradigm.com |
+| Figma | SaaS | Wireframes, mock-ups y prototipo interactivo de la Landing Page y de la aplicación web (Capítulo VI). | https://www.figma.com |
+
+**Software Development**
+
+| Producto | Tipo | Propósito en el proyecto | Ruta de referencia |
+|---|---|---|---|
+| Zed | Software de escritorio | Editor usado para revisar el código del frontend y del backend. | https://zed.dev/download |
+| Node.js 20 LTS y npm 10 | Entorno de ejecución | Instalación de dependencias y ejecución del servidor de desarrollo y del *build* del frontend. | https://nodejs.org |
+| Angular CLI 20 | Framework y CLI | Creación, ejecución (`npm start`, puerto 4200) y compilación (`npm run build`) de la aplicación web. | https://angular.dev/tools/cli |
+| JDK 17 | Entorno de ejecución | Compilación y ejecución del backend. En el servidor se ejecuta con Java 21, compatible con el código compilado para Java 17. | https://adoptium.net |
+| Maven Wrapper (`mvnw`) | Herramienta de *build* | Compila y empaqueta los tres servicios del backend en archivos `.jar` sin instalar Maven globalmente. | https://maven.apache.org/wrapper |
+| Spring Boot 3.5.7 | Framework | Monolito modular (puerto 8080) y los servicios de alertas (8083) y recetas (8082). | https://spring.io/projects/spring-boot |
+| MySQL Community Server 8 | Gestor de base de datos | Bases `freshsense_db`, `alerts_db` y `recipes_db`, una por servicio. | https://dev.mysql.com/downloads/mysql |
+| Docker y Docker Compose | Contenedores | Levantar en local el frontend, el backend y la base de datos juntos para pruebas de integración. | https://docs.docker.com/get-docker |
+
+**IoT Development**
+
+| Producto | Tipo | Propósito en el proyecto | Ruta de referencia |
+|---|---|---|---|
+| Arduino IDE 2 (núcleo ESP32) | Software de escritorio | Escritura, compilación y carga del firmware C++ del ESP32 DevKit C v4 con las librerías DHT sensor library, WiFi, ArduinoJson y HTTPClient. | https://www.arduino.cc/en/software |
+| Wokwi | SaaS | Simulación del circuito ESP32 + DHT22 y validación del firmware antes de usar el hardware físico. | https://wokwi.com |
+
+**Software Testing y documentación**
+
+| Producto | Tipo | Propósito en el proyecto | Ruta de referencia |
+|---|---|---|---|
+| Swagger UI (springdoc-openapi) | Librería | Documentación y prueba de los endpoints REST del backend. | https://springdoc.org |
+| Navegador web (Firefox / Chrome) con DevTools | Software de escritorio | Pruebas de la aplicación web, revisión de peticiones al API y de errores en consola. | https://www.mozilla.org/firefox |
+
+**Software Deployment**
+
+| Producto | Tipo | Propósito en el proyecto | Ruta de referencia |
+|---|---|---|---|
+| GitHub Pages | SaaS | Publicación de la Landing Page. | https://pages.github.com |
+| Google Cloud Compute Engine | IaaS | Máquina virtual donde se ejecutan la aplicación web, el API y la base de datos. | https://cloud.google.com/compute |
+| Nginx | Servidor web | Sirve la aplicación web y actúa como proxy inverso hacia el API. | https://nginx.org |
+| Certbot (Let's Encrypt) | Herramienta CLI | Emisión y renovación automática del certificado HTTPS. | https://certbot.eff.org |
+
+Para ejecutar el proyecto en local, cada integrante sigue este orden:
+
+```bash
+# 1. Backend: un terminal por servicio (requiere MySQL en localhost:3306)
+cd alerts-service  && ../mvnw spring-boot:run -Dspring-boot.run.profiles=local
+cd recipes-service && ../mvnw spring-boot:run -Dspring-boot.run.profiles=local
+./mvnw spring-boot:run -Dspring-boot.run.profiles=local      # monolito en :8080
+
+# 2. Frontend
+npm install
+npm start                                                    # http://localhost:4200
+```
+
+En local, el frontend consume el API en `http://localhost:8080/api`, configurado en `src/environments/environment.ts`. Las credenciales de la base de datos y las claves (`JWT_SECRET`, `AES_SECRET`, `OPENAI_API_KEY`) se pasan como variables de entorno o en `application-local.properties`, que no se sube al repositorio.
 
 ### 7.1.2. Source Code Management
 
+El código de la aplicación y el informe no están en el mismo repositorio, para poder versionar cada uno sin pisar al otro.
+
+| Repositorio | Visibilidad | Rama estable | Qué guarda |
+| :--- | :--- | :--- | :--- |
+| [Frontend](https://github.com/1ASI0572-2620-8725/Frontend) | Privado | `main` | Aplicación web que usan los dos segmentos |
+| [report](https://github.com/1ASI0572-2620-8725/report) | Público | `main` | Este informe y las figuras de `Assets/` |
+
+En el informe usamos estas ramas:
+
+| Rama | Para qué la usamos | Ejemplo |
+| :--- | :--- | :--- |
+| `main` | Versión que ya se puede mostrar | `main` |
+| `develop` | Juntar avances antes de pasarlos a `main` | `develop` |
+| `chapterN-vN` | Cierre de un capítulo | `chapter2-v3` |
+| `feature/...` | Una entrega concreta, sin tocar la versión cerrada | `feature/chapter-6.1-6.1.2-6.2.1.3-6.2.1.6` |
+
+El flujo del informe es corto. Se saca la rama `feature` desde la versión del capítulo que estamos usando, se modifica `README.md`, el commit lleva el prefijo `docs:` y se sube esa rama. Recién después de la revisión se integra a `main`.
+
+El frontend está dividido según lo que hace la aplicación, y esos módulos son los mismos para los dos segmentos. En `src/app` están `accounts`, `inventory`, `monitoring`, `alerts`, `recipes`, `reports`, `notifications` y `billing`. `shared` y `core` son soporte, no un rubro distinto. Las rutas de las pantallas están en `src/app/app.routes.ts`: al entrar redirige a `/login`, y con sesión se abre `/inventory`, `/monitoring`, `/devices`, `/alerts`, `/recipes`, `/reports`, `/notifications` y `/settings`.
+
+Dentro de cada módulo de negocio van `domain`, `application`, `infrastructure` y `presentation`. Los textos de pantalla están en `public/i18n/es.json` y `public/i18n/en.json`.
+
+No subimos contraseñas ni llaves. La URL del API va en `src/environments/environment.ts` cuando se corre en local (`http://localhost:8080/api`), en `environment.production.ts` para la app de Azure y en `environment.docker.ts` cuando Nginx publica `/api`.
+
 ### 7.1.3. Source Code Style Guide & Conventions
+
+En esta sección se definen las convenciones de nomenclatura y estilo de código que el equipo aplica en todos los productos de FreshSense: Landing Page, aplicación web, backend (monolito y microservicios de alertas y recetas), Edge API y firmware del dispositivo. Su objetivo es que el código sea legible, consistente y fácil de mantener sin importar qué integrante lo haya escrito. Como regla general, **todos los elementos de código (variables, funciones, clases, archivos, ramas, commits y escenarios de prueba) se nombran en inglés**. El español se reserva para los textos visibles por el usuario, que se gestionan mediante archivos de traducción.
+
+#### Convenciones generales
+
+| Aspecto | Convención | Ejemplo |
+|---|---|---|
+| Idioma del código | Inglés | `pantryItem`, `getFreshnessStatus()` |
+| Indentación | 2 espacios (HTML, CSS, JS, TS, C++); 4 espacios (Java) | — |
+| Codificación de archivos | UTF-8, salto de línea LF | — |
+| Longitud de línea | Máximo 100 caracteres (TS/JS/Java); 80 caracteres (C++) | — |
+| Comentarios | Solo donde aportan contexto; en inglés | `// Threshold based on food category` |
+| Formateo automático | Prettier (frontend), formateador del IDE (Java) y *Auto Format* de Arduino IDE, basado en clang-format (C++) | `.prettierrc`, `.clang-format` |
+
+#### HTML (Landing Page y templates de Angular)
+
+Referencias: *HTML Style Guide and Coding Conventions* (W3Schools) y *Google HTML/CSS Style Guide*.
+
+- Elementos y atributos en minúsculas; los valores de atributos siempre entre comillas dobles: `<section class="hero-section">`.
+- Uso de etiquetas semánticas (`header`, `nav`, `main`, `section`, `article`, `footer`) en lugar de `div` genéricos.
+- Toda imagen incluye el atributo `alt` con una descripción significativa.
+- Se declara `<!DOCTYPE html>`, `lang="es"` y las meta tags de `charset` y `viewport` en el Landing Page.
+- No se usan estilos en línea (`style="..."`); los estilos van en hojas CSS.
+- Identificadores y clases en *kebab-case*: `id="contact-form"`, `class="plan-card"`.
+
+#### CSS
+
+Referencia: *Google HTML/CSS Style Guide*.
+
+- Nombres de clases en *kebab-case* y descriptivos según su función, no su apariencia: `.alert-banner` en lugar de `.red-box`.
+- Se adopta la metodología **BEM** para componentes del Landing Page: `.pricing-card`, `.pricing-card__title`, `.pricing-card--featured`.
+- Colores, tipografías y espaciados se definen como variables CSS (`--color-primary`, `--spacing-md`) siguiendo la guía de estilos del Capítulo VI.
+- Diseño responsive con enfoque *mobile-first* y media queries en orden ascendente.
+- Se evita el uso de `!important` y de selectores por ID para estilos.
+
+#### JavaScript (Landing Page)
+
+Referencia: *Google JavaScript Style Guide*.
+
+- Variables y funciones en *camelCase*: `submitContactForm()`, `isFormValid`.
+- Constantes globales en *UPPER_SNAKE_CASE*: `MAX_MESSAGE_LENGTH`.
+- Uso de `const` por defecto y `let` solo cuando el valor cambia; no se usa `var`.
+- Siempre se usa punto y coma y comparación estricta (`===`).
+- Archivos en *kebab-case*: `contact-form.js`, `language-switcher.js`.
+
+#### TypeScript y Angular (Frontend Web Application)
+
+Referencias: *Angular Coding Style Guide* y *Google TypeScript Style Guide*.
+
+- **Archivos** en *kebab-case* con sufijo según su tipo: `product-list.component.ts`, `monitoring.service.ts`, `auth.guard.ts`.
+- **Clases, interfaces y enums** en *PascalCase*: `ProductListComponent`, `MonitoringService`, `FreshnessStatus`.
+- **Propiedades y métodos** en *camelCase*: `loadProducts()`, `latestReading`.
+- **Selectores de componentes** con el prefijo `app-`: `<app-monitoring-panel>`.
+- **Una responsabilidad por archivo**: un componente, servicio o modelo por archivo.
+- **Organización por bounded context y por capa**, alineada con el diseño táctico del Capítulo IV. Los módulos de negocio son `accounts`, `inventory`, `monitoring`, `alerts`, `recipes`, `reports`, `notifications` y `billing`; `core` y `shared` contienen lo transversal:
+
+```
+src/app/
+├── core/                    # interceptores, guards, configuración global
+├── shared/                  # componentes y utilidades reutilizables
+└── <bounded-context>/       # accounts, inventory, monitoring, alerts, recipes...
+    ├── domain/              # modelos y reglas del contexto
+    ├── application/         # servicios de aplicación y casos de uso
+    ├── infrastructure/      # clientes HTTP hacia el API
+    └── presentation/        # componentes y páginas
+```
+
+- Las rutas de la aplicación se declaran en `src/app/app.routes.ts`, en *kebab-case* y en inglés: `/login`, `/monitoring`, `/alerts`, `/inventory`, `/devices`.
+- Uso de **Angular Material** como única librería de componentes de UI, según las restricciones del proyecto.
+- Los textos visibles se externalizan en `public/i18n/es.json` y `public/i18n/en.json`; las claves se escriben en inglés y en *dot.case*: `"inventory.list.title"`.
+- La URL del API nunca se escribe en los componentes: se lee de `src/environments/` (`environment.ts`, `environment.production.ts`, `environment.docker.ts`).
+- Se usa tipado explícito y se evita `any`.
+
+#### Java y Spring Boot (monolito, alerts-service y recipes-service)
+
+Referencias: *Google Java Style Guide* y *Spring Boot Features*.
+
+- Paquetes en minúsculas, organizados por bounded context y capa: `<paquete-base>.inventory.domain.model`, `<paquete-base>.monitoring.interfaces.rest`.
+- Clases en *PascalCase* con sufijo según su rol: `Product`, `ProductCommandService`, `ProductsController`, `ProductResource`.
+- Métodos y atributos en *camelCase*; constantes en *UPPER_SNAKE_CASE*.
+- Endpoints REST en inglés, con recursos en plural y en *kebab-case* bajo el prefijo `/api`: `/api/products`, `/api/alerts`, `/api/edge/readings`.
+- Tablas de base de datos en *snake_case* y en plural: `products`, `sensor_readings`. Cada servicio tiene su propia base (`freshsense_db`, `alerts_db`, `recipes_db`).
+- Los clientes Feign entre servicios se nombran con el sufijo `Client`: `AlertsServiceClient`, `RecipesServiceClient`.
+- Las claves y credenciales (`JWT_SECRET`, `AES_SECRET`, `OPENAI_API_KEY`, datos de la base) se leen de variables de entorno; nunca se escriben en el código ni en `application.properties` versionado.
+
+#### C++ (firmware del dispositivo FreshSense – ESP32 + DHT22)
+
+Referencias: *Google C++ Style Guide* y *Barr Group Embedded C Coding Standard* (BARR-C:2018).
+
+- **Archivos** en *snake_case*, con un `.h` y un `.cpp` por módulo; el sketch principal es `freshsense_device.ino`: `dht_sensor.h` / `dht_sensor.cpp`, `edge_client.cpp`.
+- **Clases, structs y enums** en *PascalCase*: `DhtSensor`, `SensorReading`, `DeviceState`.
+- **Funciones y métodos** en *camelCase*, empezando con un verbo: `readTemperature()`, `sendReading()`.
+- **Variables locales y parámetros** en *camelCase*: `humidityPct`, `lastReadingMs`. Los **miembros privados** llevan el sufijo `_`: `pin_`, `intervalMs_`.
+- **Constantes y configuración** en *UPPER_SNAKE_CASE*, con `constexpr` en un archivo `config.h`: `READING_INTERVAL_MS`, `EDGE_API_URL`. Los pines se nombran por su función: `DHT_SENSOR_PIN`.
+- Las **unidades de medida van en el nombre** de la variable: `temperatureC`, `humidityPct`, `timeoutMs`.
+- **Guardas de inclusión** con `#pragma once` en todos los headers.
+- **Tipos de ancho fijo** (`uint8_t`, `int16_t`, `uint32_t`) en lugar de `int` o `long`, para que el tamaño de los datos no dependa de la placa.
+- No se usan `delay()` bloqueantes en el `loop()`; la temporización se maneja con `millis()`. Se evita la memoria dinámica (`new`, `malloc`) y los objetos `String` en el ciclo principal.
+- El JSON que se envía al Edge API se arma con **ArduinoJson**, con claves en *camelCase* iguales a las del backend: `temperatureC`, `humidityPct`.
+- Las credenciales (Wi-Fi y `X-Device-Key`) van en `secrets.h`, excluido con `.gitignore`; solo se versiona `secrets.example.h` como plantilla.
+
+```cpp
+// dht_sensor.h
+#pragma once
+#include <stdint.h>
+
+constexpr uint32_t READING_INTERVAL_MS = 5000;
+
+class DhtSensor {
+ public:
+  explicit DhtSensor(uint8_t pin);
+  float readTemperatureC();
+  float readHumidityPct();
+
+ private:
+  uint8_t pin_;
+};
+```
+
+#### Gherkin (Acceptance Tests)
+
+Referencia: *Gherkin Conventions for Readable Specifications*.
+
+- Archivos `.feature` en inglés y en *kebab-case*, uno por User Story: `us07-freshness-dashboard.feature`.
+- Cada `Feature` lleva el ID de la User Story en su título.
+- Los escenarios se escriben desde la perspectiva del usuario con la estructura `Given` / `When` / `Then`, y `And` para pasos adicionales.
+- Se usa `Scenario Outline` con `Examples` cuando un escenario se repite con distintos datos.
+
+```gherkin
+Feature: US07 - Freshness traffic-light dashboard
+  As a restaurant manager or cold-food distribution manager
+  I want to see the cold room status by color
+  So that I can act before the products spoil
+
+  Scenario: Cold room above the safe temperature is shown in red
+    Given the user is logged in
+    And the latest reading of the cold room is above the safe temperature
+    When the user opens the monitoring panel
+    Then the cold room is displayed with a red indicator
+```
+
+#### Convenciones de commits
+
+Los mensajes de commit siguen **Conventional Commits** (detallado en la sección 7.1.2): `feat:`, `fix:`, `docs:`, `style:`, `refactor:`, `test:`, `chore:`. Ejemplo: `feat(monitoring): add traffic-light status to latest reading`.
 
 ### 7.1.4. Software Deployment Configuration
 
+En esta sección se describe la configuración con la que se publica cada producto de FreshSense. La Landing Page se publica en GitHub Pages. La aplicación web, el API y la base de datos se publican en una máquina virtual de Google Cloud, detrás de Nginx y con HTTPS. Así, el navegador y el dispositivo IoT se comunican con el sistema por un único dominio seguro.
+
+**Resumen de despliegue**
+
+| Producto | Plataforma | URL pública |
+|---|---|---|
+| Landing Page | GitHub Pages | https://1asi0572-2620-8725.github.io/landing-page/ |
+| Aplicación web (Angular) | Google Cloud Compute Engine + Nginx | https://35-224-123-160.sslip.io |
+| API REST (Spring Boot) | Google Cloud Compute Engine + Nginx (proxy inverso) | https://35-224-123-160.sslip.io/api |
+| Documentación del API | Swagger UI | https://35-224-123-160.sslip.io/swagger-ui/index.html |
+| Base de datos | MySQL 8 en la misma máquina virtual (sin acceso público) | — |
+
+**Landing Page**
+
+1. El repositorio `landing-page` contiene el sitio estático (HTML, CSS y JavaScript).
+2. En *Settings → Pages* se configuró la publicación desde la rama principal del repositorio.
+3. Cada *push* a `main` vuelve a publicar el sitio automáticamente en la URL indicada.
+
+**Infraestructura en Google Cloud**
+
+| Elemento | Configuración |
+|---|---|
+| Servicio | Compute Engine, máquina e2-micro (2 vCPU compartidas, 1 GB de RAM), zona `us-central1-f`. |
+| Sistema operativo | Rocky Linux 9, con 2 GB de swap para compensar la memoria limitada. |
+| Software instalado | Java 21 (OpenJDK), MySQL 8, Nginx y Certbot. |
+| Firewall | Reglas de la VPC y `firewalld` que abren los puertos 80 (redirige a HTTPS) y 443 (HTTPS). El puerto 8080 se mantiene abierto temporalmente para probar el API y Swagger de forma directa durante el desarrollo; MySQL solo escucha en la propia máquina. |
+| Dominio | `35-224-123-160.sslip.io`, un nombre gratuito que resuelve a la IP externa de la máquina y permite emitir un certificado sin comprar dominio. |
+| Certificado | Let's Encrypt emitido con Certbot (plugin de Nginx), con renovación automática programada. |
+
+**Backend (API REST)**
+
+1. Se compilan los tres servicios en local con `./mvnw clean package -DskipTests`, que genera `backend.jar`, `alerts-service.jar` y `recipes-service.jar`.
+2. Los archivos se suben a `/opt/freshsense` en la máquina virtual.
+3. Las variables de entorno se definen en `/opt/freshsense/env.sh`, con permisos solo para el usuario del servicio. No se suben al repositorio.
+
+| Variable | Uso |
+|---|---|
+| `DB_HOST`, `DB_PORT`, `DB_USER`, `DB_PASSWORD` | Conexión a MySQL local. |
+| `JWT_SECRET`, `AES_SECRET` | Firma de tokens JWT y cifrado AES-256 de datos sensibles. |
+| `ALERTS_SERVICE_URL`, `RECIPES_SERVICE_URL` | URL directa de los servicios de alertas (`http://localhost:8083`) y recetas (`http://localhost:8082`) que consume el monolito mediante Feign. |
+| `CORS_EXTRA_ORIGINS` | Orígenes adicionales permitidos por CORS (`https://35-224-123-160.sslip.io`). |
+| `OPENAI_API_KEY` | Clave del servicio de recetas para la generación con IA. Solo vive en el servidor, nunca en el frontend. |
+
+4. Cada servicio se inicia con un *script* que carga `env.sh` y ejecuta `java -jar` con un límite de memoria (`-Xmx`) acorde a la máquina: el monolito en el puerto 8080, alertas en el 8083 y recetas en el 8082.
+5. Hibernate (`ddl-auto=update`) crea o actualiza las tablas al arrancar, y el servicio publica su documentación en Swagger UI.
+
+**Aplicación web (Angular)**
+
+1. En `src/environments/environment.production.ts` se configura `apiBaseUrl: 'https://35-224-123-160.sslip.io/api'`.
+2. Se compila con `npm run build -- --configuration=production`, que genera `dist/frontend/browser`.
+3. El contenido de esa carpeta se copia a `/var/www/freshsense` en la máquina virtual.
+
+**Nginx (servidor web y proxy inverso)**
+
+Nginx publica en un solo dominio la aplicación web y el API, lo que evita problemas de contenido mixto y de cookies entre dominios:
+
+| Ruta | Destino |
+|---|---|
+| `/` | Archivos estáticos de Angular, con `try_files ... /index.html` para que funcionen las rutas de la SPA. |
+| `/api/`, `/swagger-ui/`, `/v3/api-docs` | Proxy inverso a `http://127.0.0.1:8080`, reenviando las cabeceras `Host`, `X-Forwarded-For` y `X-Forwarded-Proto`. |
+| Puerto 80 | Redirección permanente (301) a HTTPS. |
+
+**Dispositivo IoT**
+
+1. El firmware del ESP32 se configura con la red Wi-Fi del local y la dirección del Edge API (documentación complementaria **IoT Device Design** del informe IoT).
+2. Se carga en la placa desde Arduino IDE por USB, después de validarlo en Wokwi.
+3. El Edge API reenvía cada lectura al backend mediante `POST https://35-224-123-160.sslip.io/api/edge/readings`, autenticándose con la cabecera `X-Device-Key` que se obtiene al registrar el dispositivo en la aplicación.
+
 ## 7.2. Solution Implementation
+En esta sección se presenta la evidencia del proceso de implementación, pruebas, documentación y despliegue de los productos digitales de FreshSense, organizada por Sprint. Cada Sprint incluye su planificación, la distribución de liderazgo entre los integrantes, el backlog trabajado y la evidencia de desarrollo, ejecución, documentación de servicios, despliegue y colaboración del equipo.
 
-### 7.2.X. Sprint n
+En el Sprint 1 se construyó el primer recorrido completo de la solución, el mismo para los dos segmentos objetivo:
 
-#### 7.2.X.1. Sprint Planning n
+- **Landing Page** (HTML5, CSS3 y JavaScript), publicada en GitHub Pages, con la propuesta de valor, el formulario de demo y el acceso a la aplicación.
+- **Frontend Web Application** (Angular 20 con Angular Material), con registro, ingreso, monitoreo, alertas, inventario y dispositivos.
+- **Web Services** en Spring Boot: un monolito modular (puerto 8080) y dos microservicios, **alerts-service** (8083) y **recipes-service** (8082), cada uno con su propia base de datos MySQL. El recipes-service consume un servicio externo de inteligencia artificial (OpenAI) para generar recetas a partir de los insumos disponibles.
+- **Prototipo del dispositivo IoT simulado en Wokwi** (ESP32 + DHT22, firmware en C++), que junto con el **Edge API** envía las lecturas de temperatura y humedad al backend mediante `POST /api/edge/readings`. El prototipo físico se implementará en un Sprint posterior.
 
-#### 7.2.X.2. Sprint Backlog n
+La aplicación web, el API y la documentación en Swagger UI están desplegados en Google Cloud Compute Engine detrás de Nginx con HTTPS (sección 7.1.4).
 
-#### 7.2.X.3. Development Evidence for Sprint Review
+### 7.2.1. Sprint 1
 
-#### 7.2.X.4. Testing Suite Evidence for Sprint Review
+En el sprint 1 queremos que una persona de cualquiera de los dos segmentos pueda entender FreshSense, pedir una demo y entrar a ver la cámara: la lectura, el color y la alerta. Los segmentos son propietarios y administradores de restaurantes, y encargados de negocios de distribución de alimentos en fríos.
 
-#### 7.2.X.5. Execution Evidence for Sprint Review
+#### 7.2.1.1. Sprint Planning 1
 
-#### 7.2.X.6. Services Documentation Evidence for Sprint Review
+El equipo FreshEat decidió que el primer Sprint debía validar de punta a punta la propuesta central de FreshSense: que la información de la cámara de frío llegue desde el dispositivo hasta el usuario y lo alerte a tiempo. Para lograrlo se incluyó en el alcance el Landing Page, que presenta la solución a los visitantes y los dirige a la aplicación; el registro e ingreso a la aplicación web; un panel de monitoreo con semáforo de frescura y alertas preventivas; un conjunto de endpoints para autenticación, ingesta de telemetría y alertas, que los desarrolladores del frontend y del Edge API pueden usar; y una primera versión del prototipo físico (ESP32 + DHT22) integrada con el Edge API. Con este criterio se tomaron, en orden de prioridad, las 11 primeras historias del Product Backlog.
 
-#### 7.2.X.7. Software Deployment Evidence for Sprint Review
+| Sprint # | Sprint 1 |
+|---|---|
+| **Sprint Planning Background** | |
+| Date | 20/09/2026 |
+| Time | 10:00 pm |
+| Location | Reunión virtual vía Discord|
+| Prepared By | Romina Tuesta Marin |
+| Attendees (to planning meeting) | Chavez Viera Joseph Manuel / Juan Carlos Pastor Napa / Mostajo Orosco Maria Fernanda / Cossar Sanchez Eduardo Jose / Tuesta Marin Romina Alejandra |
+| Previous Sprint Review Summary | No aplica. El Sprint 1 es el primer Sprint de implementación del proyecto, por lo que no existe un incremento previo que revisar. |
+| Previous Sprint Retrospective Summary | No aplica. Al ser el primer Sprint, no existe una retrospectiva previa. Para este Sprint el equipo acordó trabajar con GitFlow, Conventional Commits y Pull Requests revisados por al menos un integrante|
+| **Sprint Goal & User Stories** | |
+| Sprint 1 Goal |Nuestro enfoque es proporcionar a los propietarios y administradores de restaurantes, así como a los responsables de distribución de productos refrigerados que visiten el sitio web, información clara sobre FreshSense y un acceso directo a la plataforma; proporcionarles una aplicación web donde puedan registrarse, iniciar sesión y monitorear la temperatura y humedad de sus cámaras frigoríficas mediante un estado tipo semáforo y alertas preventivas; proporcionar a los desarrolladores de frontend y edge endpoints seguros para autenticación, recepción de telemetría y alertas; y proporcionar a los fabricantes de dispositivos un primer prototipo físico (ESP32 + DHT22) integrado con la API Edge.
 
-#### 7.2.X.8. Team Collaboration Insights during Sprint
+Creemos que esto proporciona mayor confianza a los visitantes para solicitar una demostración o crear una cuenta; una visibilidad temprana y confiable de las condiciones de la cadena de frío que reduzca las verificaciones manuales de temperatura para los responsables de restaurantes y distribución; una base documentada para que los desarrolladores puedan construir nuevas funcionalidades sobre la API; y un flujo de datos de extremo a extremo validado, desde el dispositivo hasta la plataforma.
+
+Esto se confirmará cuando un visitante llegue a la página de registro desde el llamado a la acción (CTA) de la Landing Page en no más de dos clics; una lectura enviada por el dispositivo físico se muestre en el panel de monitoreo con su color correspondiente al semáforo en menos de 10 segundos; una lectura fuera del rango seguro genere una alerta visible en la vista de alertas; los endpoints de autenticación, telemetría y alertas respondan correctamente desde la interfaz Swagger desplegada; y las 11 historias de usuario del Sprint cumplan con sus escenarios de aceptación en el entorno desplegado. |
+| Sprint 1 Velocity | 37 Story Points |
+| Sum of Story Points | 37 Story Points |
+
+**User Stories incluidos en el Sprint 1**
+
+| # | ID | Título | Story Points | Aporte al Sprint Goal |
+|:-:|---|---|:-:|---|
+| 1 | US01 | Visualización de propuesta B2B | 2 | Información clara de la solución para los visitantes. |
+| 2 | US02 | Sección para Restaurantes y Negocios en Frío | 2 | Información específica para cada segmento objetivo. |
+| 3 | US03 | Formulario de contacto y demos B2B | 2 | Conversión del visitante en un contacto comercial. |
+| 4 | US04 | Call to Action (CTA) Corporativo | 2 | Camino directo del Landing Page a la aplicación. |
+| 5 | US05 | Adaptabilidad en móviles y tablets | 3 | Acceso desde tablets de cocina y teléfonos. |
+| 6 | TS43 | API Gestor de Autenticación y RBAC B2B | 5 | Registro, ingreso y endpoints seguros. |
+| 7 | TS41 | API Ingesta de Sensores IoT B2B | 5 | Endpoint de telemetría para el Edge API. |
+| 8 | US06 | Telemetría y monitoreo IoT de cámaras frías | 5 | Flujo de datos del prototipo físico a la plataforma. |
+| 9 | US07 | Dashboard con semáforo comercial | 3 | Estado de la cámara visible con un color. |
+| 10 | US08 | Alertas preventivas de temperatura | 5 | Aviso oportuno cuando se pierde la cadena de frío. |
+| 11 | TS42 | Microservicio de Notificaciones de Emergencia | 3 | Envío de las alertas a los usuarios. |
+| | | **Total** | **37** | |
+
+La velocidad de 37 Story Points se fijó en función de la capacidad del equipo de cinco integrantes durante las dos semanas del Sprint. El detalle de las tareas de cada historia está en el Sprint Backlog 1 (sección 7.2.1.2).
+
+**Aspect Leaders and Collaborators**
+
+Para el Sprint 1, el equipo organizó el trabajo en aspectos que siguen el recorrido del usuario y los productos del Sprint: el Landing Page (US01 a US05); la gestión de cuentas, con registro, ingreso y roles (TS43); la ingesta IoT, que abarca el firmware, el Edge API y el endpoint de lecturas (TS41, US06); el monitoreo y las alertas, con el semáforo, las alertas preventivas y el servicio de notificaciones (US07, US08, TS42); y el despliegue de todos los productos. Cada aspecto tiene un líder (L), responsable de coordinarlo y asegurar su calidad, y colaboradores (C), que participan en su implementación. Esta distribución sirvió de base para asignar las tareas del Sprint Backlog 1.
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing Page | Accounts (IAM) | IoT (Device prototype) | Monitoring & Alerts | Deployment |
+|---|---|---|---|---|---|---|
+| Tuesta Marin, Romina | Romimi1 | L | C | L | C | C |
+| Chavez Viera, Joseph | u202314019-MrOsoPanda | C | L | C | C | C |
+| Pastor Napa, Juan Carlos | ElKiwi1271 | C | C | C | C | L |
+| Mostajo Orosco, Maria Fernanda | Mafer-m30 | C | C | C | L | C |
+| Cossar Sanchez, Eduardo | coleeeee-dev | C | C | C | C | C |
+
+#### 7.2.1.2. Sprint Backlog 1
+
+Del Product Backlog se tomaron las primeras 11 historias. Suman 37 puntos. El sprint 1 no arma dos productos. Arma el mismo recorrido para propietarios y administradores de restaurantes y para encargados de negocios de distribución de alimentos en fríos:
+
+1. Entrar a la misma aplicación, por registro o por login (US01 a US05 y TS43). En el código eso es `/register` y `/login`.
+2. Recibir la lectura del sensor de la cámara (TS41). En el API es `POST /api/edge/readings` y `POST /api/monitoring`.
+3. Ver esa lectura con color, y la alerta si el frío se pierde (US06, US07, US08 y TS42). En la app son `/monitoring` y `/alerts`.
+
+En el restaurante la cámara es la de cocina y el producto es un insumo. En la distribución la cámara es la de la mercadería y el producto es un lote. Las fichas de platillo y el costeo no entran aquí: son del restaurante y van después en el backlog.
+
+| Orden | ID | Título | Puntos | A quién le sirve |
+| :-: | :--- | :--- | :--- | :--- |
+| 1 | US01 | Visualización de propuesta B2B | 2 | Los dos segmentos |
+| 2 | US02 | Sección para Restaurantes y Negocios en Frío | 2 | Los dos segmentos |
+| 3 | US03 | Formulario de contacto y demos B2B | 2 | Los dos segmentos |
+| 4 | US04 | Call to Action (CTA) Corporativo | 2 | Los dos segmentos |
+| 5 | US05 | Adaptabilidad en móviles y tablets | 3 | Los dos segmentos |
+| 6 | TS43 | API Gestor de Autenticación y RBAC B2B | 5 | Los dos segmentos |
+| 7 | TS41 | API Ingesta de Sensores IoT B2B | 5 | Los dos segmentos |
+| 8 | US06 | Telemetría y monitoreo IoT de cámaras frías | 5 | Los dos segmentos |
+| 9 | US07 | Dashboard con semáforo comercial | 3 | Los dos segmentos |
+| 10 | US08 | Alertas preventivas de temperatura | 5 | Los dos segmentos |
+| 11 | TS42 | Microservicio de Notificaciones de Emergencia | 3 | Los dos segmentos |
+
+Una historia de esta lista se cierra cuando se cumplen sus tres escenarios. Si en la revisión falta uno, se deja anotado cuál y por qué no se pudo probar.
+
+#### 7.2.1.3. Development Evidence for Sprint Review
+
+Durante el Sprint 1 de FreshSense, el equipo trabajó en la implementación de los productos digitales necesarios para establecer las funcionalidades iniciales de la solución. Los avances comprenden el Landing Page, desarrollado con HTML, CSS y JavaScript, y la aplicación web, desarrollada con Angular. Asimismo, se contempló la integración con los servicios Backend y los componentes IoT encargados de la recepción y procesamiento de lecturas de temperatura y humedad.
+
+En el Landing Page se incorporaron las secciones informativas de FreshSense, recursos visuales, elementos de navegación, botones de acceso a la plataforma y archivos de traducción. Estas funcionalidades se relacionan con las historias US01, US02, US03, US04 y US05 del Sprint Backlog.
+
+En la aplicación web se desarrollaron componentes para el registro e inicio de sesión, gestión de inventario, monitoreo de sensores IoT y visualización de alertas. También se incorporaron servicios para la comunicación con el API REST, configuraciones de entorno y mecanismos de navegación. Estos avances se relacionan principalmente con las historias TS43, US06, US07 y US08.
+
+Para mantener la trazabilidad del desarrollo, se presenta la siguiente tabla con los commits registrados en los repositorios de código fuente. Algunos corresponden a componentes preparados antes de la reunión de planificación del Sprint 1, que fueron incorporados como base del incremento desarrollado durante esta iteración.
+
+**Tabla. Commits relacionados con la implementación del Sprint 1**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| [1ASI0572-2620-8725/Frontend](https://github.com/1ASI0572-2620-8725/Frontend) | main | [5615ceb](https://github.com/1ASI0572-2620-8725/Frontend/commit/5615cebc04e5e644168c027f1c27252d745fc9dc) | feat: initial files | This are the initial files for the frontend - first commit | 02/09/2026 |
+| [1ASI0572-2620-8725/Frontend](https://github.com/1ASI0572-2620-8725/Frontend) | main | [a0684d8](https://github.com/1ASI0572-2620-8725/Frontend/commit/a0684d8430f400924df91929e62256de6e2851e9) | feat: app file | Sin cuerpo de mensaje | 02/09/2026 |
+| [1ASI0572-2620-8725/Frontend](https://github.com/1ASI0572-2620-8725/Frontend) | main | [9814e44](https://github.com/1ASI0572-2620-8725/Frontend/commit/9814e446bea585b933d07c27f540156c323aa720) | feat: rest of the app | Sin cuerpo de mensaje | 02/09/2026 |
+| [1ASI0572-2620-8725/landing-page](https://github.com/1ASI0572-2620-8725/landing-page) | main | [477bd20](https://github.com/1ASI0572-2620-8725/landing-page/commit/477bd20863fda6fe2c32e5d0c084f675634dde0a) | first commit | Sin cuerpo de mensaje | 07/10/2026 |
+| [1ASI0572-2620-8725/BackEnd](https://github.com/1ASI0572-2620-8725/BackEnd) | main | [cd732db](https://github.com/1ASI0572-2620-8725/BackEnd/commit/cd732db43bd4c581a7579a8ca91785abaf29e9fb) | first commit | Sin cuerpo de mensaje | 08/10/2026 |
+
+Los commits del Frontend evidencian la incorporación de la estructura inicial del proyecto Angular, los componentes de interfaz, los servicios de comunicación con el Backend y los archivos de configuración necesarios para su ejecución. Por su parte, el commit del Landing Page registra la incorporación de los archivos principales del sitio web, incluyendo su estructura HTML, hojas de estilo, scripts y recursos gráficos.
+
+**Evidencia de desarrollo del Backend y componentes IoT**
+
+En el repositorio Backend de FreshSense se registró la incorporación del código fuente de los servicios desarrollados con Spring Boot, incluyendo módulos de autenticación, gestión de dispositivos IoT, recepción y almacenamiento de lecturas, monitoreo ambiental y administración de alertas y notificaciones. Asimismo, se incorporaron los servicios complementarios de alertas, recetas y descubrimiento de servicios mediante Eureka. Este commit permite evidenciar la estructura y las funcionalidades implementadas en el Backend, relacionadas principalmente con las historias técnicas TS41, TS42 y TS43, así como con las historias US06, US07 y US08 del Sprint 1.
+
+#### 7.2.1.4. Testing Suite Evidence for Sprint Review
+
+Durante el Sprint 1 de FreshSense, el equipo inició la especificación de pruebas para evaluar las funcionalidades principales de la solución, considerando las historias de usuario y las historias técnicas establecidas en el Sprint Backlog. Las pruebas están orientadas a verificar el comportamiento del Landing Page, la autenticación de usuarios, la recepción de datos provenientes de sensores IoT, el monitoreo de condiciones ambientales y la gestión de alertas.
+
+Para definir los escenarios de aceptación se utilizó el enfoque Behavior-Driven Development (BDD), empleando el lenguaje Gherkin y la estructura Given-When-Then. Esta aproximación permite describir el comportamiento esperado de las funcionalidades y mantener la trazabilidad entre los requisitos y sus correspondientes pruebas.
+
+Las especificaciones se encuentran almacenadas en un repositorio independiente de GitHub, organizado mediante archivos `.feature`. Actualmente se dispone de 14 archivos de especificación. Algunos de ellos corresponden a funcionalidades de otros incrementos o utilizan identificadores anteriores del Product Backlog, por lo que requieren ajustes para mantener coherencia con el alcance vigente del Sprint 1.
+
+**Repositorio de pruebas:** [FreshSense Acceptance Tests](https://github.com/1ASI0572-2620-8725/Acceptance-Tests)
+
+**Archivos del Sprint:** [Sprint 01](https://github.com/1ASI0572-2620-8725/Acceptance-Tests/tree/main/Sprint%2001)
+
+##### Relación de pruebas de aceptación
+
+La siguiente tabla presenta las especificaciones existentes relacionadas con el Sprint 1 y su correspondencia con las historias definidas en el Sprint Backlog.
+
+| Story ID | Funcionalidad evaluada | Archivo de prueba existente |
+|---|---|---|
+| US01 | Visualización de propuesta B2B | `us01-visualizacion-propuesta.feature` |
+| US02 | Sección para Restaurantes y Negocios en Frío | `us02-seccion-pequenos-negocios.feature` | 
+| US03 | Formulario de contacto y demos B2B | `us03-formulario-contacto.feature` | 
+| US04 | Call to Action Corporativo | `us04-cta-suscripcion.feature` |
+| US05 | Adaptabilidad en móviles y tablets | `us05-compatibilidad-movil.feature` |
+| TS43 | API Gestor de Autenticación y RBAC B2B | `ts33-api-usuarios.feature` |
+| TS41 | API Ingesta de Sensores IoT B2B | `ts31-api-sensores.feature` | 
+| US07 | Dashboard con semáforo comercial | `us07-visualizacion-inventario.feature` |
+| US08 | Alertas preventivas de temperatura | `us08-alertas-anticipadas.feature` | 
+
+Los escenarios publicados permiten establecer una base para la validación funcional del producto. Sin embargo, las especificaciones que no coinciden con las historias actuales deberán actualizarse antes de considerarse evidencia definitiva de aceptación del Sprint.
+
+##### Especificaciones de pruebas mediante Gherkin
+
+A continuación, se presentan ejemplos del código Gherkin publicado en el repositorio de pruebas, que describen comportamientos esperados de las funcionalidades del Sprint 1.
+
+**US01 – Visualización de la propuesta de FreshSense**
+
+Archivo: [us01-visualizacion-propuesta.feature](https://github.com/1ASI0572-2620-8725/Acceptance-Tests/blob/main/Sprint%2001/us01-visualizacion-propuesta.feature)
+
+```gherkin
+Feature: US01 - Visualizacion de la propuesta de FreshSense
+
+    Scenario: Visitante entiende la propuesta de valor
+      Given un visitante accede a la landing page de FreshSense
+      When visualiza la seccion principal
+      Then ve el mensaje principal con la propuesta de valor de la solucion
+      And puede identificar claramente el beneficio del producto
+```
+
+Esta especificación describe el comportamiento esperado del Landing Page cuando un visitante accede a la sección principal e identifica la propuesta de valor de FreshSense.
+
+**US03 – Formulario de contacto**
+
+Archivo: [us03-formulario-contacto.feature](https://github.com/1ASI0572-2620-8725/Acceptance-Tests/blob/main/Sprint%2001/us03-formulario-contacto.feature)
+
+```gherkin
+Feature: US03 - Formulario de contacto
+
+    Scenario: Visitante envia formulario de contacto
+      Given un visitante esta en la landing page de FreshSense
+      When completa el formulario con nombre, email y mensaje
+      And hace clic en el boton de enviar
+      Then el sistema registra la solicitud de contacto
+      And muestra un mensaje de confirmacion al usuario
+```
+
+El escenario define la validación del formulario de contacto, verificando que el visitante pueda completar sus datos y que el sistema registre la solicitud y presente una confirmación. Su ejecución satisfactoria deberá comprobarse sobre el sitio implementado.
+
+**US05 – Compatibilidad móvil**
+
+Archivo: [us05-compatibilidad-movil.feature](https://github.com/1ASI0572-2620-8725/Acceptance-Tests/blob/main/Sprint%2001/us05-compatibilidad-movil.feature)
+
+```gherkin
+Feature: US05 - Compatibilidad movil
+
+    Scenario: Usuario accede desde un dispositivo movil
+      Given un usuario accede a la landing page desde un smartphone
+      When carga la pagina en pantalla pequena
+      Then todos los elementos se adaptan correctamente al tamaño de pantalla
+      And el contenido es legible sin necesidad de zoom horizontal
+
+    Scenario: Usuario accede desde una tablet
+      Given un usuario accede a la landing page desde una tablet
+      When carga la pagina
+      Then el layout se adapta correctamente al tamaño de pantalla
+```
+
+Estos escenarios describen la adaptación de la interfaz del Landing Page a dispositivos móviles y tablets, buscando garantizar la legibilidad y correcta distribución de sus componentes visuales.
+
+
+##### Evidencia de commits relacionados con Testing
+
+La siguiente tabla presenta los commits registrados en el repositorio de pruebas de aceptación, permitiendo identificar los avances asociados a la preparación de especificaciones del Sprint 1.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| [1ASI0572-2620-8725/Acceptance-Tests](https://github.com/1ASI0572-2620-8725/Acceptance-Tests) | main | [fbf1a89](https://github.com/1ASI0572-2620-8725/Acceptance-Tests/commit/fbf1a8996aae4913f01e210316b948ad5f7e619d) | upload: gherkin tests | Sin cuerpo de mensaje | 08/10/2026 |
+
+El commit presentado evidencia la incorporación de 14 archivos `.feature` organizados dentro del directorio `Sprint 01`. Estos archivos documentan escenarios de aceptación de diferentes funcionalidades del producto.
+
+#### 7.2.1.5. Execution Evidence for Sprint Review
+
+La aplicación es una sola para los dos segmentos. No hay una pantalla de restaurante y otra de distribución. El propietario o administrador del restaurante y el encargado del negocio de distribución de alimentos en fríos entran al mismo registro, al mismo monitoreo, a las mismas alertas y al mismo inventario. Lo que cambia es la lectura: cocina e insumos en el restaurante, cámara o vitrina y lote por entregar en la distribución.
+
+En esta parte van tres enlaces. El back, la landing y el front ya están publicados.
+
+| Dónde | Enlace |
+| :--- | :--- |
+| Back | [https://35-224-123-160.sslip.io/swagger-ui/index.html](https://35-224-123-160.sslip.io/swagger-ui/index.html) |
+| Landing | [https://1asi0572-2620-8725.github.io/landing-page/](https://1asi0572-2620-8725.github.io/landing-page/) |
+| Front | [https://35-224-123-160.sslip.io/login](https://35-224-123-160.sslip.io/login) |
+
+![Landing publicada](Assets/sprint1-landing.png)
+
+Landing ya desplegada. Desde ahí se entra a la aplicación. La misma página es la puerta para el propietario o administrador del restaurante y para el encargado de la distribución de alimentos en fríos.
+
+El recorrido de la aplicación es uno solo. Se hace igual si quien entra es propietario o administrador de un restaurante, o encargado de un negocio de distribución de alimentos en fríos.
+
+1. `/register` crea la cuenta. Si ya existe, `/login`. En Swagger: `POST /api/accounts/register` y `POST /api/accounts/login`.
+2. `/monitoring` muestra temperatura, humedad y el color verde, amarillo o rojo. En Swagger: `GET /api/monitoring/latest` y `POST /api/monitoring`. El sensor manda la lectura con `POST /api/edge/readings`.
+3. `/alerts` lista el aviso si la cámara está en rojo. En Swagger: `GET /api/alerts` y `POST /api/alerts`.
+4. `/inventory` muestra el producto, la cantidad y el vencimiento. En Swagger: `GET /api/products` y `POST /api/products`.
+5. `/devices` empareja el sensor de esa cámara. En Swagger: `POST /api/devices`.
+
+| Pantalla | Ruta | Operación | Cómo lo lee el restaurante | Cómo lo lee la distribución en fríos |
+| :--- | :--- | :--- | :--- | :--- |
+| Registro | `/register` | `POST /api/accounts/register` | Alta del administrador del local | Alta del encargado del negocio |
+| Ingreso | `/login` | `POST /api/accounts/login` | Entra al turno de cocina | Entra a revisar la mercadería |
+| Monitoreo | `/monitoring` | `GET /api/monitoring/latest` | Cámara de cocina | Cámara o vitrina del lote |
+| Alertas | `/alerts` | `GET /api/alerts` | El frío de los insumos se perdió | El lote no está para salir |
+| Inventario | `/inventory` | `GET /api/products` | Insumo, cantidad y vencimiento | Lote, cantidad y vencimiento |
+| Dispositivos | `/devices` | `POST /api/devices` | Sensor de la cocina | Sensor de la cámara de distribución |
+
+Las capturas de abajo son del recorrido de la aplicación. El front publicado está en [https://35-224-123-160.sslip.io/login](https://35-224-123-160.sslip.io/login). La cuenta demo no tenía productos ni una lectura reciente: monitoreo, alertas e inventario se ven vacíos, y sin lectura reciente esa fila no queda en verde.
+
+![Registro /register](Assets/sprint1-registro.png)
+
+Registro. La misma pantalla sirve para el administrador del restaurante y para el encargado de la distribución de alimentos en fríos.
+
+![Ingreso /login](Assets/sprint1-login.png)
+
+Ingreso. Después de entrar, el panel es el mismo para los dos segmentos.
+
+![Panel después del login](Assets/sprint1-panel.png)
+
+Panel de la cuenta demo. Temperatura y humedad salen sin datos porque no había una lectura reciente.
+
+![Monitoreo /monitoring](Assets/sprint1-monitoreo.png)
+
+Monitoreo. En el restaurante se lee como la cámara de cocina; en la distribución, como la cámara o vitrina del lote.
+
+![Alertas /alerts](Assets/sprint1-alertas.png)
+
+Alertas. Sin aviso activo en la cuenta demo.
+
+![Inventario /inventory](Assets/sprint1-inventario.png)
+
+Inventario. Sin productos cargados: insumo en el restaurante, lote en la distribución.
+
+![Dispositivos /devices](Assets/sprint1-dispositivos.png)
+
+Dispositivos. Aquí se registra el sensor de la cocina o el de la cámara de distribución.
+
+![Swagger FreshSense API](Assets/sprint1-swagger.png)
+
+Swagger del API en [https://35-224-123-160.sslip.io/swagger-ui/index.html](https://35-224-123-160.sslip.io/swagger-ui/index.html).
+
+![Swagger POST /api/accounts/register](Assets/sprint1-swagger-registro.png)
+
+Operación de registro en Swagger, la misma que usa `/register`.
+
+Si no llega una lectura reciente, esa fila no se marca en verde. Quien no tiene permiso de facturación igual entra por `/login` al panel. `/plan` queda para la suscripción, no para esta revisión de la cámara.
+
+#### 7.2.1.6. Services Documentation Evidence for Sprint Review
+
+En el Sprint 1 se subió al repositorio de la organización el backend existente de FreshSense como versión base, en un único commit inicial. Este código ya contiene los endpoints documentados con OpenAPI 3 (Swagger) que se describen en esta sección, así que en este sprint no hubo cambios sobre los servicios. Las modificaciones y nuevos endpoints (Reports, Billing y Catalog, entre otros) se registrarán como commits propios en los sprints en que se trabajen sus historias de usuario.
+
+- **Swagger UI:** https://35-224-123-160.sslip.io/swagger-ui/index.html
+- **Especificación OpenAPI (JSON):** https://35-224-123-160.sslip.io/v3/api-docs
+
+Todas las operaciones intercambian JSON y están protegidas con un token JWT (`Authorization: Bearer <token>`), salvo el registro, el inicio de sesión y la vinculación del dispositivo (`/api/edge/claim`). Los errores siguen los códigos HTTP estándar: `400` (datos inválidos), `401` (sin token o token inválido), `403` (requiere plan premium), `404` (recurso no encontrado) y `409` (correo ya registrado).
+
+**Auth – registro, inicio de sesión y gestión de sesión (TS43)**
+
+| Endpoint | Acción | Verbo | Sintaxis de llamada | Parámetros | Respuesta |
+|---|---|---|---|---|---|
+| `/api/accounts/register` | Registrar nuevo usuario | POST | `POST /api/accounts/register` | Body `UserRegistrationRequest`: `email`, `password` (mín. 8 caracteres, una mayúscula y un dígito), `fullName` | `201` `UserResponse`. `400` datos inválidos; `409` correo ya registrado. |
+| `/api/accounts/login` | Iniciar sesión | POST | `POST /api/accounts/login` | Body `LoginRequest`: `email`, `password` | `200` `UserResponse` con `token` y `refreshToken`. `401` credenciales incorrectas. |
+| `/api/accounts/refresh` | Renovar el access token | POST | `POST /api/accounts/refresh` | — | `200` `UserResponse` con un nuevo `token`. |
+| `/api/accounts/logout` | Cerrar sesión | POST | `POST /api/accounts/logout` | Header `Authorization` | `204` sin contenido. |
+| `/api/accounts/me` | Obtener el usuario autenticado | GET | `GET /api/accounts/me` | Header `Authorization` | `200` `UserResponse` (`token` en `null`). |
+| `/api/accounts/me` | Actualizar el perfil | PUT | `PUT /api/accounts/me` | Body `UpdateProfileRequest`: `fullName` | `200` `UserResponse`. |
+| `/api/accounts/change-password` | Cambiar la contraseña | POST | `POST /api/accounts/change-password` | Body `ChangePasswordRequest`: `currentPassword`, `newPassword` | `204` sin contenido. `400` / `401`. |
+
+**Devices y Edge/IoT – registro del dispositivo e ingesta de lecturas (TS41, US06)**
+
+| Endpoint | Acción | Verbo | Sintaxis de llamada | Parámetros | Respuesta |
+|---|---|---|---|---|---|
+| `/api/devices` | Registrar un dispositivo en la cuenta | POST | `POST /api/devices` | Body `RegisterDeviceRequest`: `deviceId`, `name` | `200` `DeviceRegistrationResponse`: `deviceId`, `name`, `pairingCode`, `pairingExpiresAt`. |
+| `/api/devices` | Listar los dispositivos de la cuenta | GET | `GET /api/devices` | Header `Authorization` | `200` lista de `DeviceResponse`: `id`, `deviceId`, `name`, `registeredAt`. |
+| `/api/edge/claim` | Vincular el dispositivo con el código de emparejamiento | POST | `POST /api/edge/claim` | Body `ClaimRequest`: `code` | `200` `ClaimResponse`: `deviceId`, `secretKey`. La `secretKey` se usa como `X-Device-Key`. |
+| `/api/edge/readings` | Recibir una lectura enviada por el Edge API | POST | `POST /api/edge/readings` | Header `X-Device-Key`. Body `EdgeReadingRequest`: `deviceId`, `temperature`, `humidity`, `time` (`dd/MM/yyyy HH:mm`), `status`, `category` | `200` `MonitoringReadingDto` con el estado calculado. |
+
+**Monitoring – lecturas y semáforo (US06, US07)**
+
+| Endpoint | Acción | Verbo | Sintaxis de llamada | Parámetros | Respuesta |
+|---|---|---|---|---|---|
+| `/api/monitoring` | Listar las lecturas registradas | GET | `GET /api/monitoring` | Header `Authorization` | `200` lista de `MonitoringReadingDto`. |
+| `/api/monitoring` | Registrar una lectura de monitoreo | POST | `POST /api/monitoring` | Body `MonitoringReadingRequest`: `temperature`, `humidity`, `ethyleneLevel`, `oxygenLevel`, `ripeness`, `cleanliness` | `201` `MonitoringReadingDto`. `400` datos inválidos. |
+| `/api/monitoring/latest` | Obtener la última lectura con su color | GET | `GET /api/monitoring/latest` | Header `Authorization` | `200` `MonitoringReadingDto` con `status` (`GREEN`, `YELLOW`, `RED`, `UNKNOWN`). `204` si aún no hay lecturas. |
+
+**Alerts – alertas de la cadena de frío, vencimiento y stock (US08)**
+
+| Endpoint | Acción | Verbo | Sintaxis de llamada | Parámetros | Respuesta |
+|---|---|---|---|---|---|
+| `/api/alerts` | Listar todas las alertas | GET | `GET /api/alerts` | Header `Authorization` | `200` lista de `AlertResponse`. |
+| `/api/alerts` | Crear una alerta | POST | `POST /api/alerts` | Body `AlertRequest`: `title`, `message`, `severity` (`INFO`, `WARNING`, `CRITICAL`), `source`, `state`, `timeAgo` | `200` `AlertResponse`. |
+| `/api/alerts/{id}` | Actualizar una alerta (por ejemplo, marcarla como resuelta) | PUT | `PUT /api/alerts/{id}` | Path `id` (int64). Body `AlertRequest` | `200` `AlertResponse`. `404` si la alerta no existe. |
+
+**Notifications – envío y gestión de notificaciones (TS42)**
+
+| Endpoint | Acción | Verbo | Sintaxis de llamada | Parámetros | Respuesta |
+|---|---|---|---|---|---|
+| `/api/notifications/send` | Enviar una notificación a un usuario | POST | `POST /api/notifications/send` | Body `SendNotificationRequest`: `userId`, `title`, `message`, `alertType`, `channelType` (`IN_APP`, `EMAIL`, `PUSH`, `VOICE`) | `200` objeto con el resultado del envío. |
+| `/api/notifications` | Obtener la bandeja de notificaciones in-app | GET | `GET /api/notifications` | Header `Authorization` | `200` lista de `NotificationResponse`: `id`, `title`, `message`, `alertType`, `read`, `createdAt`. |
+| `/api/notifications/{id}/read` | Marcar una notificación como leída | PATCH | `PATCH /api/notifications/{id}/read` | Path `id` (int64) | `200`. |
+| `/api/notifications/preferences` | Obtener las preferencias de notificación | GET | `GET /api/notifications/preferences` | Header `Authorization` | `200` `NotificationPreference`. |
+| `/api/notifications/preferences` | Actualizar las preferencias de notificación | PUT | `PUT /api/notifications/preferences` | Body `NotificationPreferenceRequest`: `inAppEnabled`, `emailEnabled`, `pushEnabled`, `quietStart`, `quietEnd` | `200` `NotificationPreference`. |
+
+**Inventory – productos del inventario**
+
+| Endpoint | Acción | Verbo | Sintaxis de llamada | Parámetros | Respuesta |
+|---|---|---|---|---|---|
+| `/api/products` | Listar los productos | GET | `GET /api/products` | Header `Authorization` | `200` lista de `ProductResponse`. |
+| `/api/products` | Registrar un producto | POST | `POST /api/products` | Body `ProductRequest`: `name`, `description`, `category`, `quantity`, `imageUrl`, `expirationDate` (`yyyy-MM-dd`) | `201` `ProductResponse`. `400` datos inválidos. |
+| `/api/products/{id}` | Actualizar parcialmente un producto | PATCH | `PATCH /api/products/{id}` | Path `id` (int64). Body `UpdateProductRequest` (todos los campos opcionales) | `200` `ProductResponse`. `404`. |
+| `/api/products/{id}` | Eliminar un producto | DELETE | `DELETE /api/products/{id}` | Path `id` (int64) | `204` sin contenido. `404`. |
+
+**Recipes – recetas y generación con IA (recipes-service)**
+
+| Endpoint | Acción | Verbo | Sintaxis de llamada | Parámetros | Respuesta |
+|---|---|---|---|---|---|
+| `/api/recipes/generate-batch` | Generar un lote de recetas con IA (OpenAI) a partir de los insumos | POST | `POST /api/recipes/generate-batch` | Header `Authorization` | `201` recetas generadas. |
+| `/api/recipes` | Listar las recetas | GET | `GET /api/recipes` | Header `Authorization` | `200` lista de `RecipeResponse`. |
+| `/api/recipes` | Crear una receta | POST | `POST /api/recipes` | Body `CreateRecipeRequest`: `title`, `description`, `image`, `rating` (1–5), `level` (`Easy`, `Medium`, `Hard`), `type` (`Vegetarian`, `Vegan`, `Omnivore`), `time`, `ingredients[]`, `steps[]` | `201` `RecipeResponse`. `403` si el plan no lo permite. |
+| `/api/recipes/{id}` | Obtener el detalle de una receta | GET | `GET /api/recipes/{id}` | Path `id` (int64) | `200` `RecipeResponse`. `404`. |
+| `/api/recipes/premium` | Listar recetas premium | GET | `GET /api/recipes/premium` | Header `Authorization` | `200` recetas premium. `403` si el usuario no es premium. |
+
+**Ejemplos de request y response con datos de muestra**
+
+*Registro – `POST /api/accounts/register`*
+
+```json
+// Request
+{ "email": "jose.jimenez@restaurante.pe", "password": "Fresh2026", "fullName": "José Jiménez" }
+
+// Response 201
+{ "id": 12, "email": "jose.jimenez@restaurante.pe", "fullName": "José Jiménez",
+  "role": "USER_STANDARD", "token": "eyJhbGciOi...", "refreshToken": "eyJhbGciOi..." }
+```
+
+El API crea la cuenta con el rol `USER_STANDARD` y devuelve el token, así que el usuario entra a la aplicación sin volver a iniciar sesión.
+
+*Lectura del dispositivo – `POST /api/edge/readings`*
+
+```json
+// Header: X-Device-Key: <secretKey obtenida en /api/edge/claim>
+// Request
+{ "deviceId": "FS-ESP32-001", "temperature": 7.8, "humidity": 82.5,
+  "time": "08/10/2026 14:30", "category": "Lácteos" }
+
+// Response 200
+{ "id": 245, "temperature": 7.8, "humidity": 82.5, "recordedAt": "2026-10-08T14:30:00",
+  "deviceId": "FS-ESP32-001", "status": "YELLOW", "category": "Lácteos" }
+```
+
+El Edge API reenvía la lectura del ESP32 simulado en Wokwi. El backend la guarda y le asigna el color del semáforo (`status`): en este ejemplo, `YELLOW` porque la temperatura se acerca al límite seguro.
+
+**Commits relacionados con la documentación**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| 1ASI0572-2620-8725/BackEnd | main | cd732db | first commit | Carga inicial del backend existente de FreshSense (API REST Spring Boot con documentación OpenAPI) como base del proyecto. | 08/10/2026 |
+
+#### 7.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 1 de FreshSense, el equipo realizó actividades de configuración y despliegue de los productos digitales que conforman la primera versión de la solución. Estas actividades comprendieron la publicación del Landing Page mediante GitHub Pages, la preparación de infraestructura en Google Cloud Compute Engine y el despliegue de la aplicación web Angular y los servicios Backend desarrollados con Spring Boot.
+
+Asimismo, se configuró Nginx como servidor web y proxy inverso para facilitar la comunicación entre los componentes de la solución. El proceso contempló la compilación de los servicios, la transferencia de archivos ejecutables al servidor y la verificación de accesibilidad de los componentes desplegados.
+
+**Resumen de los componentes de despliegue**
+
+| Producto | Plataforma | Configuración |
+|---|---|---|
+| Landing Page | GitHub Pages | Publicación del sitio web estático desde el repositorio de GitHub |
+| Frontend Web Application | Google Cloud Compute Engine | Aplicación Angular servida mediante Nginx |
+| Backend REST API | Google Cloud Compute Engine | Servicios Spring Boot ejecutados en la máquina virtual |
+| Base de datos | MySQL 8 | Almacenamiento de información en el entorno del servidor |
+| Documentación de servicios | Swagger UI | Acceso a la documentación de los endpoints REST |
+
+**1. Despliegue del Landing Page**
+
+El Landing Page de FreshSense se publicó utilizando GitHub Pages, a partir del repositorio que contiene los archivos HTML, CSS y JavaScript del sitio web. Esta plataforma permite poner a disposición de los visitantes la información sobre la propuesta de valor, las funcionalidades y los servicios ofrecidos por FreshSense.
+
+La publicación se realizó desde la rama `main`, utilizando la configuración de GitHub Pages descrita en la sección 7.1.4. El sitio web se encuentra documentado en la siguiente dirección:
+
+**URL:** https://1asi0572-2620-8725.github.io/landing-page/
+
+![Landing Page de FreshSense publicada](Assets/sprint1-landing.png)
+
+*Figura 1. Landing Page de FreshSense publicada mediante GitHub Pages.*
+
+**2. Preparación y compilación del Backend**
+
+Para el despliegue de los servicios Backend, el equipo utilizó una máquina virtual de Google Cloud Compute Engine con Rocky Linux 9. De acuerdo con la configuración definida en la sección 7.1.4, el entorno incorpora Java 21, MySQL 8 y Nginx.
+
+Como parte del proceso, se realizó la compilación de los proyectos Spring Boot mediante Maven, generando los archivos ejecutables JAR correspondientes al Backend principal y a los servicios complementarios de alertas y recetas.
+
+La evidencia presentada muestra el resultado `BUILD SUCCESS`, que confirma que el proceso de compilación mostrado finalizó satisfactoriamente.
+
+![Compilación de servicios Backend mediante Maven](Assets/sprint1-deployment-build.png)
+
+*Figura 2. Compilación satisfactoria de los servicios Backend mediante Maven y generación de archivos JAR.*
+
+**3. Transferencia de archivos y preparación del servidor**
+
+Después de la compilación, se preparó el directorio `/opt/freshsense` de la máquina virtual para almacenar los archivos ejecutables de los servicios.
+
+Los archivos JAR fueron transferidos al entorno de despliegue, donde se realiza su ejecución y configuración según los puertos establecidos para cada servicio. Esta organización permite mantener los componentes Backend en una ubicación definida dentro del servidor.
+
+![Transferencia de archivos JAR al servidor](Assets/sprint1-deployment-transfer.png)
+
+*Figura 3. Preparación del directorio de despliegue y transferencia de archivos ejecutables a Google Cloud Compute Engine.*
+
+**4. Configuración del servidor web y verificación del despliegue**
+
+Para publicar la aplicación web y permitir su comunicación con los servicios Backend, se utilizó Nginx como servidor web y proxy inverso. Esta configuración permite atender las solicitudes de la aplicación Angular y redirigir las peticiones del API REST hacia los servicios correspondientes.
+
+Adicionalmente, la configuración de despliegue contempla el acceso mediante HTTPS, utilizando el dominio `35-224-123-160.sslip.io`, según lo establecido en la sección 7.1.4.
+
+Durante la verificación del entorno se ejecutaron comprobaciones de configuración de Nginx y solicitudes HTTP a los componentes del sistema. La evidencia muestra una validación satisfactoria de la configuración del servidor y respuestas HTTP 200 en las comprobaciones realizadas para Backend, Frontend y API.
+
+![Verificación de Nginx y respuestas HTTP](Assets/sprint1-deployment-validation.png)
+
+*Figura 4. Validación de la configuración de Nginx y comprobación de accesibilidad de los componentes desplegados.*
+
+**5. Acceso a los productos desplegados**
+
+Las siguientes direcciones corresponden a los servicios publicados e identificados en la configuración del proyecto.
+
+| Producto | URL |
+|---|---|
+| Landing Page | https://1asi0572-2620-8725.github.io/landing-page/ |
+| Aplicación web | https://35-224-123-160.sslip.io/login |
+| Documentación Swagger | https://35-224-123-160.sslip.io/swagger-ui/index.html |
+| Especificación OpenAPI | https://35-224-123-160.sslip.io/v3/api-docs |
+
+Estas direcciones permiten acceder a los productos principales de la solución y verificar la disponibilidad de sus interfaces. Las comprobaciones HTTP presentadas constituyen evidencia inicial de accesibilidad, mientras que la validación funcional de los recorridos de usuario y endpoints se documenta en las secciones de Testing y Execution Evidence del Sprint.
+
+**6. Estado de los componentes IoT**
+
+La arquitectura de FreshSense contempla el uso de un ESP32 con sensor DHT22 y un Edge API encargado de transmitir las lecturas ambientales hacia el Backend. La configuración prevista para estos componentes se describe en la sección 7.1.4.
+
+La evidencia de instalación, ejecución e integración de estos componentes se incorporará cuando se disponga de las capturas correspondientes al entorno IoT utilizado durante el Sprint.
+
+En conjunto, las evidencias presentadas documentan los procesos de compilación, preparación del servidor, transferencia de ejecutables y comprobación básica de accesibilidad de los componentes web y Backend. Estos avances constituyen la base técnica para continuar con la integración y validación de las funcionalidades de FreshSense en los siguientes incrementos.
+
+#### 7.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 1, el equipo trabajó en la organización de GitHub `1ASI0572-2620-8725`, con un repositorio por producto. Cada integrante desarrolló sus tareas en ramas `feature/*`, las integró a `develop` mediante Pull Requests y, al cerrar el Sprint, se pasaron a `main` para el despliegue. 
+
+**Repositorios del Sprint 1:**
+
+### 7.2.2. Sprint 2
+
+En el sprint 2 queremos que el propietario o administrador de un restaurante y el encargado de un negocio de distribución de alimentos en fríos puedan revisar sus cámaras desde el celular, vincular el sensor escaneando su QR y enterarse cuando el etileno sube. Para eso se construyó la primera versión de la aplicación móvil y del Edge API, y el backend empezó a leer y evaluar el gas etileno.
+
+#### 7.2.2.1. Sprint Planning 2
+
+El equipo FreshEat decidió que el segundo Sprint debía acercar FreshSense al lugar donde se trabaja: la cocina, el almacén y la cámara de frío. En el Sprint 1 la información llegaba al navegador y el dispositivo solo medía temperatura y humedad (DHT22). Para este Sprint se incluyó en el alcance la primera versión de la aplicación móvil, con ingreso, monitoreo, alertas, vinculación del sensor por QR y alta de insumos con la cámara del celular; la primera versión del Edge API, que recibe las lecturas del dispositivo en la red local, las valida y las reenvía al backend aunque se corte el internet por unos minutos; y la lectura del gas etileno en el firmware, en el Edge API y en el backend, que ahora guarda el valor y genera la alerta HIGH_ETHYLENE. Con este criterio se tomaron las historias 12 a 16 del Product Backlog y se completaron los escenarios de etileno que quedaron pendientes en US06, TS41 y US08.
+
+| Sprint # | Sprint 2 |
+|---|---|
+| **Sprint Planning Background** | |
+| Date | 04/11/26 |
+| Time | 10:00 am |
+| Location | Reunión virtual vía Discord |
+| Prepared By | Romina Tuesta Marin |
+| Attendees (to planning meeting) | Chavez Viera Joseph Manuel / Juan Carlos Pastor Napa / Mostajo Orosco Maria Fernanda / Cossar Sanchez Eduardo Jose / Tuesta Marin Romina Alejandra |
+| Previous Sprint Review Summary | En el Sprint 1 se publicaron la Landing Page en GitHub Pages, y la aplicación web y el API REST en Google Cloud con HTTPS. El API quedó documentado en Swagger con 39 operaciones. Se recorrió el flujo de registro, monitoreo con semáforo, alertas y vinculación del dispositivo. Quedaron pendientes tres puntos: el firmware solo se probó en simulación (Wokwi); el DHT22 no mide etileno, por lo que los escenarios de etileno de US06, TS41 y US08 no se pudieron probar; y el panel de la cuenta demo se veía vacío porque no recibía lecturas reales. |
+| Previous Sprint Retrospective Summary | Lo que funcionó: trabajar con GitFlow y Pull Requests permitió integrar el frontend y el backend sin conflictos grandes. Lo que se debe mejorar: algunos commits no siguieron Conventional Commits (por ejemplo, `first commit`) y no se revisaron los checks de GitHub antes de unir ramas. Acuerdos para el Sprint 2: todo commit sigue Conventional Commits, ningún Pull Request se une a `develop` con checks en rojo, y el dispositivo se prueba con hardware físico, no solo en Wokwi. |
+| **Sprint Goal & User Stories** | |
+| Sprint 2 Goal | Nuestro enfoque es proporcionar a los propietarios y administradores de restaurantes, así como a los encargados de negocios de distribución de alimentos en fríos, una aplicación móvil donde puedan iniciar sesión, ver el estado de sus cámaras con el semáforo, recibir las alertas según su turno, vincular un sensor escaneando su QR, registrar insumos o lotes con la cámara del celular y corregir el stock después del conteo; proporcionar a los desarrolladores del dispositivo un Edge API que reciba las lecturas en la red local y las reenvíe al backend; y proporcionar a los desarrolladores del backend la lectura, el almacenamiento y la evaluación del gas etileno.<br><br>Creemos que esto permite revisar las cámaras sin estar frente a una computadora, detectar antes que una fruta o verdura se está deteriorando gracias al etileno, y no perder lecturas cuando la conexión del local falla.<br><br>Esto se confirmará cuando un usuario inicie sesión en la aplicación móvil y vea el estado de su cámara con el color del semáforo; una lectura de etileno enviada por el dispositivo físico pase por el Edge API y aparezca en la aplicación móvil y en la web en menos de 10 segundos; una lectura de etileno por encima del umbral genere la alerta `HIGH_ETHYLENE` en la aplicación móvil; las lecturas tomadas durante un corte de internet lleguen al backend cuando vuelva la conexión; un sensor quede vinculado a su cámara escaneando su QR desde el celular; y las 5 historias del Sprint, junto con los escenarios de etileno pendientes, cumplan sus escenarios de aceptación en el entorno desplegado. |
+| Sprint 2 Velocity | 16 Story Points |
+| Sum of Story Points | 16 Story Points |
+
+**User Stories incluidas en el Sprint 2**
+
+| # | ID | Título | Story Points | Aporte al Sprint Goal |
+|:-:|---|---|:-:|---|
+| 1 | US09 | Preferencias de alertas por turno | 3 | Alertas en el celular según el turno del personal. |
+| 2 | US31 | Vinculación y calibración de sensores | 3 | Vinculación del sensor por QR desde la app y registro en el Edge API. |
+| 3 | US10 | Alta de insumos por lector de código/QR | 5 | Registro de insumos o lotes con la cámara del celular. |
+| 4 | US11 | Modificación manual de stock e insumos | 2 | Corrección del stock desde la app después del conteo. |
+| 5 | US37 | Gestión de colaboradores por local | 3 | Acceso del personal de la sede a la app con su propio usuario. |
+| | | **Total** | **16** | |
+
+**Escenarios pendientes del Sprint 1 que se cierran en este Sprint**
+
+| ID | Título | Escenarios pendientes | Qué se hace en el Sprint 2 |
+|---|---|---|---|
+| US06 | Telemetría y monitoreo IoT de cámaras frías | Escenarios 1 y 3 en lo referido al etileno. | El firmware lee el sensor de gas y envía `ethylenePpm` al Edge API. |
+| TS41 | API Ingesta de Sensores IoT B2B | Escenario 1: lectura con temperatura, humedad y etileno. | El backend valida y guarda `ethylenePpm` en cada lectura. |
+| US08 | Alertas preventivas de temperatura | Escenario 1 cuando el producto está en riesgo por etileno. | El backend compara el etileno con `maxEthylenePpm` y emite `HIGH_ETHYLENE`. |
+
+Estas historias ya se contaron en la velocidad del Sprint 1, por eso no suman puntos nuevos. La velocidad de 16 Story Points es menor que la del Sprint 1 porque buena parte de la capacidad del equipo se usó para crear dos productos nuevos, la aplicación móvil y el Edge API, y para integrar el sensor de etileno con el hardware físico. El detalle de las tareas está en el Sprint Backlog 2 (sección 7.2.2.2).
+
+**Aspect Leaders and Collaborators**
+
+Para el Sprint 2, el equipo organizó el trabajo en aspectos que siguen el camino de una lectura, desde el dispositivo hasta el celular del usuario: el dispositivo IoT, con la lectura del gas etileno en el firmware (US06); el Edge API, que recibe y reenvía las lecturas y registra el sensor vinculado (TS41, US31); el backend, con el almacenamiento del etileno, la alerta `HIGH_ETHYLENE`, las preferencias por turno, el inventario y los colaboradores (TS41, US08, US09, US10, US11, US37); la aplicación móvil, que presenta todo lo anterior al usuario (US09, US31, US10, US11, US37); y el despliegue de los productos. Cada aspecto tiene un líder (L), responsable de coordinarlo y asegurar su calidad, y colaboradores (C), que participan en su implementación. Esta distribución sirvió de base para asignar las tareas del Sprint Backlog 2.
+
+| Team Member (Last Name, First Name) | GitHub Username | IoT Device (Ethylene) | Edge API | Backend (Ingestion & Alerts) | Mobile App | Deployment |
+|---|---|---|---|---|---|---|
+| Tuesta Marin, Romina | Romimi1 | C | C | C | C | C |
+| Chavez Viera, Joseph | u202314019-MrOsoPanda | L | L | C | C | C |
+| Pastor Napa, Juan Carlos | ElKiwi1271 | C | C | C | L | L |
+| Mostajo Orosco, Maria Fernanda | Mafer-m30 | C | C | L | C | C |
+| Cossar Sanchez, Eduardo | coleeeee-dev | C | C | C | C | C |
+
+#### 7.2.2.2. Sprint Backlog 2
+
+Del Product Backlog se tomaron las historias 12 a 16. Suman 16 puntos. Igual que en el Sprint 1, el Sprint 2 no arma dos productos. Arma el mismo recorrido, ahora desde el celular, para propietarios y administradores de restaurantes y para encargados de negocios de distribución de alimentos en fríos:
+
+1. Entrar a la aplicación móvil con la misma cuenta de la web (TS43, ya implementada). Si el usuario es un colaborador, entra con la invitación de su sede (US37).
+2. Vincular el sensor de la cámara escaneando su QR (US31). En el Edge API es `POST /api/edge/claim`.
+3. Recibir la lectura de temperatura, humedad y etileno, que pasa por el Edge API antes de llegar al backend (US06, TS41). En el API es `POST /api/edge/readings`.
+4. Ver esa lectura con color en la app y recibir la alerta según el turno (US08, US09).
+5. Registrar los insumos o lotes con la cámara del celular y corregir el stock tras el conteo (US10, US11).
+
+En el restaurante, el etileno avisa que las frutas y verduras de la cámara de cocina se están madurando antes de tiempo. En la distribución, avisa que un lote de la cámara de mercadería debe salir primero.
+
+| Orden | ID | Título | Puntos | A quién le sirve |
+| :-: | :--- | :--- | :--- | :--- |
+| 1 | US09 | Preferencias de alertas por turno | 3 | Los dos segmentos |
+| 2 | US31 | Vinculación y calibración de sensores | 3 | Los dos segmentos |
+| 3 | US10 | Alta de insumos por lector de código/QR | 5 | Los dos segmentos |
+| 4 | US11 | Modificación manual de stock e insumos | 2 | Los dos segmentos |
+| 5 | US37 | Gestión de colaboradores por local | 3 | Los dos segmentos |
+
+El tablero del Sprint se gestionó en Trello: 
+
+<img src="Assets/sprint-backlog-2.png" alt="Tablero del Sprint Backlog 2." style="max-width:100%;height:auto"/>
+
+**Tareas del Sprint 2**
+
+| User Story ID | User Story Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|:-:|---|---|
+| US06 | Telemetría y monitoreo IoT (etileno) | T01 | Lectura del sensor de gas en el firmware | Conectar el sensor de gas al ESP32, leer su valor y convertirlo a `ethylenePpm`. | 6 | Romina Tuesta | Done |
+| US06 | Telemetría y monitoreo IoT (etileno) | T02 | Envío de lecturas completas al Edge API | Agregar `ethylenePpm` al JSON y enviarlo al Edge API junto con temperatura y humedad. | 3 | Romina Tuesta | Done |
+| US06 | Telemetría y monitoreo IoT (etileno) | T03 | Prueba con hardware físico | Probar el circuito real, no solo en Wokwi, y registrar las lecturas obtenidas. | 3 | Romina Tuesta | Done |
+| TS41 | API Ingesta de Sensores IoT B2B | T04 | Recepción de lecturas en el Edge API | Endpoint que recibe la lectura del dispositivo en la red local y valida su token. | 5 | Joseph Chavez | Done |
+| TS41 | API Ingesta de Sensores IoT B2B | T05 | Cola local de lecturas | Guardar las lecturas mientras no hay internet y reenviarlas en orden cuando vuelve la conexión. | 5 | Joseph Chavez | Done |
+| TS41 | API Ingesta de Sensores IoT B2B | T06 | Lecturas incompletas o duplicadas | Rechazar lecturas sin temperatura, humedad o etileno, y no repetir una lectura ya enviada. | 3 | Joseph Chavez | Done |
+| TS41 | API Ingesta de Sensores IoT B2B | T07 | Campo `ethylenePpm` en el backend | Agregar el campo al modelo y a la tabla de lecturas, con su validación. | 3 | Maria Fernanda Mostajo | Done |
+| US08 | Alertas preventivas (etileno) | T08 | Alerta `HIGH_ETHYLENE` | Comparar la lectura con `maxEthylenePpm` de la zona y emitir la alerta. | 4 | Maria Fernanda Mostajo | Done |
+| US09 | Preferencias de alertas por turno | T09 | Endpoint de preferencias por turno | Guardar el horario del turno y los canales de aviso de cada usuario. | 3 | Maria Fernanda Mostajo | Done |
+| US09 | Preferencias de alertas por turno | T10 | Notificaciones push en la app móvil | Recibir las alertas en el celular: las críticas siempre y las leves solo dentro del turno. | 5 | Eduardo Cossar | Done |
+| US09 | Preferencias de alertas por turno | T11 | Pantallas de monitoreo y alertas en la app | Ver las cámaras con el semáforo, el detalle de la lectura y la lista de alertas. | 6 | Eduardo Cossar | Done |
+| US09 | Preferencias de alertas por turno | T12 | Pantalla de preferencias de turno | Formulario en la app para configurar el horario y los canales. Si falta el horario o el canal, no se guarda y se señalan los datos que faltan. | 3 | Juan Carlos Pastor | Done |
+| US31 | Vinculación y calibración de sensores | T13 | Escaneo del QR del sensor | Leer el QR del dispositivo con la cámara del celular y enviarlo a `POST /api/edge/claim`. Si el QR no es de un sensor FreshSense o ya está vinculado a otra zona, no se vincula y se muestra el motivo. | 4 | Eduardo Cossar | Done |
+| US31 | Vinculación y calibración de sensores | T14 | Registro del dispositivo en el Edge API | Asociar el dispositivo a su zona y guardar la temperatura límite de esa cámara, sin heredar el umbral de otra zona. | 4 | Joseph Chavez | Done |
+| US10 | Alta de insumos por lector de código/QR | T15 | Escaneo de código de barras o QR | Leer el código del empaque y buscarlo en el catálogo. Si el código no existe, no se crea el insumo y se ofrece el alta manual. | 5 | Juan Carlos Pastor | Done |
+| US10 | Alta de insumos por lector de código/QR | T16 | Registro del insumo o lote | Guardar el insumo con su fecha de ingreso y categoría. Si ya existe en la sucursal, sumar la cantidad recibida al stock y registrar el nuevo ingreso. | 4 | Maria Fernanda Mostajo | Done |
+| US11 | Modificación manual de stock e insumos | T17 | Ajuste de stock en la app | Pantalla para cambiar la cantidad de un insumo después del conteo. Si la cantidad es negativa o no numérica, el stock no cambia. | 3 | Juan Carlos Pastor | Done |
+| US11 | Modificación manual de stock e insumos | T18 | Registro de auditoría del ajuste | Guardar usuario, fecha, cantidad anterior y cantidad nueva de cada ajuste. | 2 | Romina Tuesta | Done |
+| US37 | Gestión de colaboradores por local | T19 | Invitación de colaboradores | Endpoint que envía la invitación al correo y asigna la sede y el turno. Si el enlace expiró o el correo ya tiene acceso a esa sede, no se crea otro acceso. | 4 | Joseph Chavez | Done |
+| US37 | Gestión de colaboradores por local | T20 | Ingreso del colaborador en la app | Aceptar la invitación y ver solo el inventario de su sede y turno. | 3 | Eduardo Cossar | Done |
+| — | Despliegue | T21 | Despliegue del backend y del Edge API | Publicar la nueva versión del backend y dejar el Edge API listo para la red del local. | 4 | Juan Carlos Pastor | Done |
+| — | Despliegue | T22 | Versión instalable de la app móvil | Generar el instalable de la app y documentar cómo instalarlo. | 3 | Juan Carlos Pastor | Done |
+| | | | | **Total** | **85** | | |
+
+Una historia de esta lista se cierra cuando se cumplen sus tres escenarios. Los escenarios de etileno de US06, TS41 y US08 se prueban con el dispositivo físico. Si en la revisión falta uno, se deja anotado cuál y por qué no se pudo probar.
+
+#### 7.2.2.3. Development Evidence for Sprint Review
+
+En el Sprint 2 el equipo se centró en la integración IoT de FreshSense. El prototipo físico (ESP32 con sensores AM2302 y MQ135) reemplazó a la simulación del Sprint 1. Se construyó el Edge API en Python/Flask, que clasifica la frescura de cada lectura cerca del dispositivo. El backend se amplió para recibir y guardar el nivel de etileno medido por el sensor de gas. La aplicación web se configuró con la nueva URL de producción del backend y se publicó la primera versión de la aplicación móvil para Android, que muestra temperatura, humedad y etileno.
+
+El Sprint 2 se desarrolló del 03/11/2026 al 14/11/2026. La tabla incluye los commits registrados en los repositorios de la organización durante ese periodo.
+
+Entre los logros destacables se encuentran:
+
+- Firmware del ESP32 (C++/Arduino) con lectura del AM2302 (temperatura y humedad, GPIO 4) y del MQ135 (etileno, GPIO 34), y con actuadores: LED (GPIO 27), buzzer (GPIO 25) y relé con ventilador (GPIO 26).
+- Clasificación local en el dispositivo con la regla FS-FRUIT-1 (FRESH / AT_RISK / SPOILED). Así los actuadores responden aunque no haya conexión a internet.
+- Edge API en Flask con arquitectura DDD (domain, application, infrastructure, interfaces). Valida cada lectura, la clasifica en semáforo (GREEN / YELLOW / RED) según los umbrales de la categoría del dispositivo y la reenvía al backend.
+- Emparejamiento del Edge con la cuenta del usuario mediante un código de un solo uso (`/edge/setup` → `POST /edge/claim` → `POST /api/edge/claim`).
+- Ingesta del etileno en el backend: se agregó `ethylenePpm` a `EdgeReadingRequest`, `EdgeController` y `MonitoringService`. El valor se guarda en `ethylene_level` y llega al front como `ethyleneLevel`.
+- Pruebas unitarias e integrales de la ingesta Edge en el backend (MockMvc) y en el Edge (pytest).
+- Aplicación móvil Flutter para Android con la misma estructura DDD del frontend web, publicada como `freshsense-v1.0.0.apk`.
+- Frontend web y backend apuntando a la nueva URL de producción (`https://137-131-253-18.sslip.io`).
+
+A continuación, se presenta una tabla detallada de los commits más relevantes realizados en los diferentes repositorios durante el Sprint 2:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| https://github.com/1ASI0572-2620-8725/Embebed-System | master | 8e437e0 | Initial commit: Embebed-System FreshSense. | Firmware del nodo ESP32 (`prototipo1/FreshSenseNode.h`, `prototipo1.ino`), supuestos de prueba, servidor local de pruebas por USB (`servidor/servidor.py`) y diagrama de clases. | 07/11/2026 |
+| https://github.com/1ASI0572-2620-8725/Embebed-System | master | 2d7ce7c | Unifica los actuadores y los supuestos con la regla FS-FRUIT-1. | La placa confirma cada caso y el localhost muestra el mismo resultado. | 13/11/2026 |
+| https://github.com/1ASI0572-2620-8725/repositorio-wokwi | main | e01ad1f | Initial commit: repositorio-wokwi FreshSense. | Proyecto de simulación en Wokwi: `sketch.ino`, `diagram.json`, chip personalizado del ventilador (`ventilador.chip.c`) y diagrama de clases. | 07/11/2026 |
+| https://github.com/1ASI0572-2620-8725/Freshsense-EDGE | main | 361928e | Initial commit: Freshsense-EDGE FreshSense. | Edge API en Flask con capas DDD: clasificación de frescura, validación, emparejamiento (`claim_device.py`), reenvío al backend (`upstream_forwarder.py`), catálogo de umbrales en MySQL con respaldo en memoria, Dockerfile y pruebas. | 07/11/2026 |
+| https://github.com/1ASI0572-2620-8725/Freshsense-EDGE | main | 28a3ec9 | test: amplía unitarios e integrales de frescura, claim y validación | Suma cobertura por categoría, aliases del embebido y más rechazos de payload. | 13/11/2026 |
+| https://github.com/1ASI0572-2620-8725/Freshsense-EDGE | main | b74225e | Alinea la frescura de Frutas con las bandas semi de FS-FRUIT-1. | El Edge marcaba como malogrado lo que el prototipo trata como semi. | 13/11/2026 |
+| https://github.com/1ASI0572-2620-8725/BackEnd | main | 5ee19c1 | Recibir nivel de etileno (ethylenePpm) desde el Edge | Agrega `ethylenePpm` a `EdgeReadingRequest` y lo propaga en `EdgeController` y `MonitoringService.saveFromEdge`. | 07/11/2026 |
+| https://github.com/1ASI0572-2620-8725/BackEnd | main | deda7b9 | Documentar el envio de etileno (ethylenePpm) desde el Edge | Actualiza el README con el nuevo campo del payload de `POST /api/edge/readings`. | 07/11/2026 |
+| https://github.com/1ASI0572-2620-8725/BackEnd | main | 6993562 | Actualizar URL de produccion del backend | Cambia en el README la URL del API y de Swagger a `https://137-131-253-18.sslip.io`. | 08/11/2026 |
+| https://github.com/1ASI0572-2620-8725/BackEnd | main | 1a9e58e | test: unitarios e integrales de ingesta Edge (TS41) | Valida EdgeReadingRequest y POST /api/edge/readings con MockMvc sin filtros JWT. | 13/11/2026 |
+| https://github.com/1ASI0572-2620-8725/BackEnd | main | 0d130b9 | test: amplía unitarios e integrales Edge/claim (TS41) | Cubre más validaciones del DTO y escenarios MockMvc de readings y claim. | 13/11/2026 |
+| https://github.com/1ASI0572-2620-8725/Frontend | main | caf397d | Apuntar el frontend al nuevo backend | Cambia `apiBaseUrl` de `environment.production.ts` a `https://137-131-253-18.sslip.io/api` y actualiza el README. | 08/11/2026 |
+| https://github.com/1ASI0572-2620-8725/Mobile-App | main | e99483d | Initial commit | Creación del repositorio con README. | 08/11/2026 |
+| https://github.com/1ASI0572-2620-8725/Mobile-App | main | 95db6e9 | feat: add FreshSense Flutter Android app replicating Frontend DDD structure | Includes real-time gas (ethylene) monitoring consuming the deployed backend. | 08/11/2026 |
+
+Los repositorios `landing-page` y `Acceptance-Tests` no registran commits en este periodo. Sus últimos cambios son del 09/10/2026 y del 08/10/2026, respectivamente.
+
+![Commit 5ee19c1 en el repositorio BackEnd](Assets/sprint2/development/backend-commit-etileno.png)
+
+*Figura: commit 5ee19c1 del BackEnd, que agrega `ethylenePpm` al DTO de ingesta del Edge.*
+
+![Historial de commits del Edge](Assets/sprint2/development/edge-commits.png)
+
+*Figura: historial de commits del repositorio Freshsense-EDGE en la rama main.*
+
+![Historial de commits del sistema embebido](Assets/sprint2/development/embebido-commits.png)
+
+*Figura: historial de commits del repositorio Embebed-System en la rama master.*
+
+#### 7.2.2.4. Testing Suite Evidence for Sprint Review
+
+En el Sprint 2 la evidencia de testing son los **Acceptance Tests** en Gherkin (Given / When / Then). Ya están escritos para las historias y la historia técnica del sprint: inventario, alertas, edición, recetas, análisis premium, historial y API de usuarios.
+
+| ID | Historia / TS | Escenarios | Archivo |
+| :--- | :--- | ---: | :--- |
+| US07 | Visualización de inventario | 2 | `US07_visualizacion_inventario.feature` |
+| US08 | Alertas anticipadas | 2 | `US08_alertas_anticipadas.feature` |
+| US11 | Edición de inventario | 2 | `US11_edicion_inventario.feature` |
+| US13 | Recetas personalizadas | 2 | `US13_recetas_personalizadas.feature` |
+| US17 | Análisis detallado de inventario | 2 | `US17_analisis_detallado_inventario.feature` |
+| US19 | Recetas exclusivas premium | 2 | `US19_recetas_exclusivas_premium.feature` |
+| US29 | Historial de consumo | 3 | `US29_historial_consumo.feature` |
+| TS33 | API para gestión de usuarios | 1 | `TS33_api_gestion_usuarios.feature` |
+
+![Resumen Acceptance Tests Sprint 2](Assets/acceptance-sprint2/sprint2-acceptance-resumen.png)
+
+Resumen: 8 features, 16 escenarios. Los `.feature` están en `Assets/acceptance-sprint2/`.
+
+**US07 — Visualización de inventario**
+
+Colores del inventario (verde / amarillo / rojo) y detalle del alimento con caducidad y condiciones de almacenamiento.
+
+![US07 Acceptance Test](Assets/acceptance-sprint2/sprint2-us07_visualizacion_inventario.png)
+
+**US08 — Alertas anticipadas**
+
+Alerta cuando un alimento está por vencer, y que no se envíe aviso si no hay riesgo.
+
+![US08 Acceptance Test](Assets/acceptance-sprint2/sprint2-us08_alertas_anticipadas.png)
+
+**US11 — Edición de inventario**
+
+Edición exitosa de cantidad o fecha, y rechazo con mensaje de error si los datos son inválidos.
+
+![US11 Acceptance Test](Assets/acceptance-sprint2/sprint2-us11_edicion_inventario.png)
+
+**US13 — Recetas personalizadas**
+
+Recetas con ingredientes en riesgo de vencer, o catálogo general si no hay productos en riesgo.
+
+![US13 Acceptance Test](Assets/acceptance-sprint2/sprint2-us13_recetas_personalizadas.png)
+
+**US17 — Análisis detallado de inventario**
+
+Acceso completo al reporte avanzado con plan premium, y bloqueo con aviso si el plan no es premium.
+
+![US17 Acceptance Test](Assets/acceptance-sprint2/sprint2-us17_analisis_detallado_inventario.png)
+
+**US19 — Recetas exclusivas premium**
+
+Acceso a recetas avanzadas con plan premium, y denegación con sugerencia de upgrade si no lo tiene.
+
+![US19 Acceptance Test](Assets/acceptance-sprint2/sprint2-us19_recetas_exclusivas_premium.png)
+
+**US29 — Historial de consumo**
+
+Registro de consumo o descarte, visualización con gráficas, y filtro/exportación a CSV o Excel.
+
+![US29 Acceptance Test](Assets/acceptance-sprint2/sprint2-us29_historial_consumo.png)
+
+**TS33 — API para gestión de usuarios**
+
+`PUT /api/users/{id}/permissions` actualiza roles/permisos y responde 200 OK.
+
+![TS33 Acceptance Test](Assets/acceptance-sprint2/sprint2-ts33_api_gestion_usuarios.png)
+
+#### 7.2.2.5. Execution Evidence for Sprint Review
+
+Al cierre del Sprint 2, FreshSense cubre el recorrido IoT completo. El ESP32 mide temperatura, humedad y etileno, decide en el propio dispositivo si enciende el LED, el buzzer o el ventilador, y envía la lectura al Edge API de la red local. El Edge clasifica la lectura con los umbrales de la categoría del dispositivo y la reenvía al backend con la clave obtenida al emparejar. El backend la guarda, y la aplicación web y la móvil la muestran con su color de semáforo.
+
+Funcionalidades logradas:
+
+- Lectura de temperatura y humedad (AM2302, cada 3 minutos) y de etileno (MQ135, cada minuto) en el ESP32.
+- Respuesta local de los actuadores según la regla FS-FRUIT-1, incluso sin red.
+- Envío de la lectura del ESP32 al Edge (`POST /api/v1/sensor-readings`), que responde `202` con la frescura calculada.
+- Catálogo de umbrales por categoría en el Edge (`GET /edge/thresholds`) y asignación de categoría por dispositivo (`/edge/devices`).
+- Emparejamiento del Edge con la cuenta del usuario desde la página `/edge/setup`.
+- Ingesta en el backend con el nivel de etileno y consulta de la última lectura (`GET /api/monitoring/latest`).
+- Aplicación móvil Android con monitoreo de temperatura, humedad y etileno.
+
+**Prototipo IoT (ESP32)**
+
+[COMPLETAR: tomar las fotos y capturas del prototipo físico (no se pueden obtener desde el navegador).]
+
+[COMPLETAR: captura `Assets/sprint2/execution/esp32-circuito.png`. Circuito del prototipo armado.]
+
+[COMPLETAR: captura `Assets/sprint2/execution/esp32-monitor-serie.png`. Monitor serie del ESP32.]
+
+[COMPLETAR: captura `Assets/sprint2/execution/esp32-led-buzzer-spoiled.png`. LED y buzzer en estado SPOILED.]
+
+[COMPLETAR: captura `Assets/sprint2/execution/esp32-ventilador-etileno.png`. Ventilador activo por etileno.]
+
+**Edge API**
+
+![Página de emparejamiento del Edge](Assets/sprint2/execution/edge-setup.png)
+
+*Figura: página `/edge/setup`, donde el instalador pega el código de emparejamiento que entrega la aplicación.*
+
+![Umbrales por categoría en el Edge](Assets/sprint2/execution/edge-thresholds.png)
+
+*Figura: respuesta de `GET /edge/thresholds` con los rangos de temperatura, humedad y etileno por categoría.*
+
+![Edge vinculado al dispositivo](Assets/sprint2/execution/edge-setup-vinculado.png)
+
+*Figura: Edge vinculado al dispositivo `esp32-freshsense-1` con el código de emparejamiento generado en la aplicación.*
+
+Respuesta real del Edge, ya emparejado, al recibir una lectura con el formato del ESP32:
+
+```json
+// POST http://localhost:5000/api/v1/sensor-readings
+// Request
+{ "deviceId": "esp32-freshsense-1", "timestamp": "2026-11-14T16:06:00",
+  "temperatureC": 6.4, "humidityPct": 88.0, "ethylenePpm": 0.42, "meta": "esp32-am2302-mq135" }
+
+// Response 202
+{ "status": "ok", "category": "Frutas", "freshness": "YELLOW", "freshnessEmbedded": "AT_RISK",
+  "forwarded": true,
+  "reading": { "deviceId": "esp32-freshsense-1", "id": "8965be1629894cd18d1a",
+               "temperature": 6.4, "humidity": 88.0, "ethylenePpm": 0.42,
+               "recordedAt": "2026-11-14T16:06:00" } }
+```
+
+El Edge clasificó la lectura en `YELLOW` porque la humedad (88 %) está fuera del rango normal de Frutas (90–95 %), aunque dentro de la banda semi de FS-FRUIT-1 (85–98 %). `forwarded: true` indica que la lectura se reenvió al backend de producción con la cabecera `X-Device-Key` obtenida al emparejar. Antes se envió una lectura dentro de rango (4.2 °C, 92 %, 0.35 ppm), que el Edge clasificó como `GREEN` / `FRESH`.
+
+**Aplicación web**
+
+![Registro del dispositivo con código de emparejamiento](Assets/sprint2/execution/web-dispositivos.png)
+
+*Figura: registro del dispositivo `esp32-freshsense-1` en `/devices`, que devuelve el código de emparejamiento de un solo uso (10 minutos).*
+
+![Monitoreo con la lectura enviada por el Edge](Assets/sprint2/execution/web-monitoreo.png)
+
+*Figura: `/monitoring` con la lectura reenviada por el Edge (6.4 °C y 88 %), marcada como advertencia.*
+
+![Detalle de la última lectura](Assets/sprint2/execution/web-ultima-lectura.png)
+
+*Figura: detalle de la última lectura con la frescura clasificada por el Edge (estado regular, equivalente a `YELLOW`) y la categoría Frutas.*
+
+![Dashboard con la lectura en vivo](Assets/sprint2/execution/web-dashboard.png)
+
+*Figura: dashboard con la lectura en vivo y el nivel general de frescura.*
+
+![Alertas activas](Assets/sprint2/execution/web-alertas.png)
+
+*Figura: vista de alertas de la cuenta demo, con las alertas activas de vencimiento del inventario.*
+
+La vista web muestra temperatura y humedad. El nivel de etileno ya se guarda en el backend y se expone como `ethyleneLevel` en `GET /api/monitoring/latest` (sección 7.2.2.6); la aplicación móvil lo muestra.
+
+**Aplicación móvil**
+
+[COMPLETAR: capturas desde el teléfono Android con la APK v1.0.0 instalada.]
+
+[COMPLETAR: captura `Assets/sprint2/execution/movil-monitoreo.png`. Monitoreo en la aplicación móvil.]
+
+[COMPLETAR: captura `Assets/sprint2/execution/movil-alertas.png`. Alertas en la aplicación móvil.]
+
+**Video Explicativo**
+
+El video muestra el flujo completo del Sprint 2. El ESP32 mide temperatura, humedad y etileno. El Edge recibe la lectura, la clasifica en verde, amarillo o rojo y la reenvía al backend. El backend la guarda, y la aplicación web y la móvil la muestran con su semáforo y generan la alerta cuando la lectura sale del rango seguro.
+
+Video Demostración Sprint 2 - FreshSense: [COMPLETAR: completar URL del video (YouTube o Drive)]
+
+El equipo completó el 100 % de las historias de usuario planificadas para este Sprint, cumpliendo con los criterios de aceptación establecidos. La telemetría y el monitoreo IoT (US06), la ingesta de sensores (TS41) y el semáforo de frescura (US07) pasaron de la simulación en Wokwi al prototipo físico con sensor de gas, y se implementó la vinculación de sensores con código de emparejamiento y umbrales por categoría (US31). En los próximos Sprints se trabajarán el alta de insumos por código QR (US10), la modificación manual de stock (US11), la gestión de colaboradores por local (US37) y la visualización del nivel de etileno en la aplicación web.
+
+#### 7.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, la API del backend siguió documentada con OpenAPI 3.1 (springdoc-openapi) y se agregó al contrato de ingesta el nivel de etileno (`ethylenePpm`). La especificación publicada tiene 39 operaciones agrupadas por *tags*. Además, el Edge expone su propia API REST con Flask, que consume el ESP32 en la red local.
+
+- **Swagger UI:** https://137-131-253-18.sslip.io/swagger-ui/index.html
+- **Especificación OpenAPI (JSON):** https://137-131-253-18.sslip.io/v3/api-docs
+
+**Backend (Spring Boot)**
+
+| Categoría (Bounded Context) | Endpoint | Método HTTP | Descripción |
+|---|---|---|---|
+| Auth | /api/accounts/register | POST | Registrar nuevo usuario |
+| Auth | /api/accounts/login | POST | Iniciar sesión |
+| Auth | /api/accounts/refresh | POST | Renovar access token |
+| Auth | /api/accounts/logout | POST | Cerrar sesión |
+| Auth | /api/accounts/me | GET | Obtener usuario autenticado |
+| Auth | /api/accounts/me | PUT | Actualizar el perfil |
+| Auth | /api/accounts/change-password | POST | Cambiar la contraseña |
+| Devices | /api/devices | POST | Registrar un dispositivo IoT y obtener el código de emparejamiento (10 minutos, un solo uso) |
+| Devices | /api/devices | GET | Listar mis dispositivos |
+| Edge/IoT | /api/edge/claim | POST | Canjear un código de emparejamiento y obtener la clave secreta del dispositivo |
+| Edge/IoT | /api/edge/readings | POST | Recibir una lectura del Edge (temperatura, humedad, etileno, estado y categoría) con `X-Device-Key` |
+| Monitoring | /api/monitoring | GET | Listar todas las lecturas |
+| Monitoring | /api/monitoring | POST | Registrar lectura de sensor |
+| Monitoring | /api/monitoring/latest | GET | Obtener la lectura más reciente |
+| Alerts | /api/alerts | GET | Listar todas las alertas |
+| Alerts | /api/alerts | POST | Crear una alerta |
+| Alerts | /api/alerts/{id} | PUT | Actualizar una alerta |
+| Notifications | /api/notifications | GET | Obtener bandeja de notificaciones in-app |
+| Notifications | /api/notifications/send | POST | Enviar notificación a un usuario |
+| Notifications | /api/notifications/{id}/read | PATCH | Marcar notificación como leída |
+| Notifications | /api/notifications/preferences | GET | Obtener preferencias de notificación |
+| Notifications | /api/notifications/preferences | PUT | Actualizar preferencias de notificación |
+| Inventory | /api/products | GET | Listar todos los productos |
+| Inventory | /api/products | POST | Registrar un producto |
+| Inventory | /api/products/{id} | PATCH | Actualizar cantidad de un producto |
+| Inventory | /api/products/{id} | DELETE | Eliminar un producto |
+| Catalog | /api/catalog | GET | Buscar en el catálogo de alimentos |
+| Recipes | /api/recipes | GET | Listar todas las recetas |
+| Recipes | /api/recipes | POST | Crear una receta (solo ADMIN) |
+| Recipes | /api/recipes/{id} | GET | Obtener una receta por ID |
+| Recipes | /api/recipes/premium | GET | Recetas exclusivas para suscriptores premium |
+| Recipes | /api/recipes/generate-batch | POST | Generar recetas nuevas con IA |
+| Reports | /api/history | GET | Obtener historial de acciones |
+| Reports | /api/history | POST | Registrar una acción en el historial |
+| Reports | /api/history/advanced | GET | Análisis detallado de inventario (solo premium) |
+| Billing | /api/billing/plans | GET | Listar planes disponibles (público) |
+| Billing | /api/billing/subscribe | POST | Suscribirse a un plan premium |
+| Billing | /api/billing/subscription | GET | Ver suscripción activa del usuario |
+| Billing | /api/billing/cancel | DELETE | Cancelar suscripción activa |
+
+Las recetas y las alertas las procesan los microservicios `recipes-service` y `alerts-service`. El monolito los consume mediante Feign y Eureka, por lo que sus operaciones se publican a través de los endpoints del monolito listados arriba.
+
+**Edge API (Flask)**
+
+| Categoría (Bounded Context) | Endpoint | Método HTTP | Descripción |
+|---|---|---|---|
+| IoT Ingestion | /api/v1/sensor-readings | POST | Recibe la lectura del ESP32, la valida, la clasifica (GREEN / YELLOW / RED) y la reenvía al backend. Responde `202`. |
+| IoT Ingestion | /edge/process | POST | Mismo caso de uso con el formato anterior (legacy) |
+| IoT Ingestion | /edge/claim | POST | Canjea el código de emparejamiento contra el backend y guarda la clave del dispositivo |
+| IoT Ingestion | /edge/setup | GET | Página HTML para pegar el código de emparejamiento |
+| IoT Ingestion | /edge/thresholds | GET | Lista los umbrales por categoría (temperatura, humedad y etileno) |
+| IoT Ingestion | /edge/devices | GET | Lista el mapeo dispositivo → categoría |
+| IoT Ingestion | /edge/devices | POST | Asigna una categoría a un dispositivo. Responde `201`. |
+| Shared | /health | GET | Estado del servicio |
+
+**Evidencia de pruebas realizadas**
+
+![Swagger en producción: Edge/IoT y Monitoring](Assets/sprint2/services/swagger-edge-monitoring.png)
+
+*Figura: secciones Edge/IoT y Monitoring en el Swagger de producción.*
+
+![Swagger de POST /api/edge/readings con ethylenePpm](Assets/sprint2/services/swagger-edge-readings-etileno.png)
+
+*Figura: documentación de `POST /api/edge/readings` con la cabecera `X-Device-Key` y el campo `ethylenePpm` en el cuerpo.*
+
+![GET /api/monitoring/latest en producción](Assets/sprint2/services/swagger-get-monitoring-latest.png)
+
+*Figura: `GET /api/monitoring/latest` en el Swagger de producción, con respuesta `200` que incluye `ethyleneLevel: 0.42`, `status: YELLOW` y `deviceId: esp32-freshsense-1`.*
+
+El registro del dispositivo (`POST /api/devices`) y el canje del código (`POST /api/edge/claim`) se ejecutaron desde la aplicación web y desde la página `/edge/setup` del Edge (figuras de la sección 7.2.2.5). No se incluye la respuesta de `/api/edge/claim` porque contiene la `secretKey` del dispositivo.
+
+Request real de `POST /api/edge/readings` y la lectura guardada en el backend. El cuerpo es el que arma `upstream_forwarder.py` en el Edge; el backend usa los campos que define `EdgeReadingRequest` (`deviceId`, `temperature`, `humidity`, `ethylenePpm`, `time`, `id`, `status`, `category`):
+
+```json
+// Header: X-Device-Key: <secretKey obtenida en /api/edge/claim>
+// Request
+{ "deviceId": "esp32-freshsense-1", "id": "8965be1629894cd18d1a",
+  "temperature": 6.4, "humidity": 88.0, "ethylenePpm": 0.42,
+  "time": "14/11/2026 16:06", "timestamp": "2026-11-14T16:06:00",
+  "meta": "esp32-am2302-mq135",
+  "status": "YELLOW", "freshness": "YELLOW", "freshnessEmbedded": "AT_RISK",
+  "category": "Frutas" }
+
+// Lectura guardada (GET /api/monitoring/latest)
+{ "id": 3, "temperature": 6.4, "humidity": 88, "ethyleneLevel": 0.42,
+  "oxygenLevel": null, "ripeness": null, "cleanliness": null,
+  "recordedAt": "2026-11-14T16:06:00", "deviceId": "esp32-freshsense-1",
+  "status": "YELLOW", "category": "Frutas" }
+```
+
+**Repositorio y commits relacionados**
+
+- Backend: https://github.com/1ASI0572-2620-8725/BackEnd
+- Edge: https://github.com/1ASI0572-2620-8725/Freshsense-EDGE
+
+| Commit ID | Descripción | Autor | Fecha |
+|---|---|---|---|
+| 5ee19c1 | Recibir nivel de etileno (ethylenePpm) desde el Edge: DTO `EdgeReadingRequest`, `EdgeController` y `MonitoringService` | Pastor Napa, Juan Carlos | 07/11/2026 |
+| deda7b9 | Documentar el envío de etileno (ethylenePpm) desde el Edge | Pastor Napa, Juan Carlos | 07/11/2026 |
+| 6993562 | Actualizar URL de producción del backend (API y Swagger) | Pastor Napa, Juan Carlos | 08/11/2026 |
+| 1a9e58e | test: unitarios e integrales de ingesta Edge (TS41) | Chavez Viera, Joseph Manuel | 13/11/2026 |
+| 0d130b9 | test: amplía unitarios e integrales Edge/claim (TS41) | Chavez Viera, Joseph Manuel | 13/11/2026 |
+| 361928e | Initial commit del Edge: rutas Flask (`routes.py`), casos de uso y reenvío al backend | Chavez Viera, Joseph Manuel | 07/11/2026 |
+| b74225e | Alinea la frescura de Frutas con las bandas semi de FS-FRUIT-1 | Chavez Viera, Joseph Manuel | 13/11/2026 |
+
+#### 7.2.2.7. Software Deployment Evidence for Sprint Review
+
+En el Sprint 2 se mantuvo la Landing Page en GitHub Pages y se trasladaron el backend y la aplicación web a un nuevo servidor de producción con HTTPS, `https://137-131-253-18.sslip.io`. Este servidor publica el API, Swagger y la aplicación Angular en un solo dominio. La aplicación móvil se distribuye como APK desde GitHub Releases. El Edge y el firmware se despliegan junto al dispositivo, en la red local del cliente.
+
+| Producto | Plataforma | URL / Distribución |
+|---|---|---|
+| Landing Page | GitHub Pages | https://1asi0572-2620-8725.github.io/landing-page/ |
+| API REST (Spring Boot) | Oracle Cloud Infrastructure (máquina virtual) + Caddy (HTTPS) | https://137-131-253-18.sslip.io/api |
+| Swagger UI | Mismo servidor | https://137-131-253-18.sslip.io/swagger-ui/index.html |
+| Aplicación web (Angular) | Mismo servidor | https://137-131-253-18.sslip.io |
+| Aplicación móvil (Flutter) | GitHub Releases (APK) | https://github.com/1ASI0572-2620-8725/Mobile-App/releases/tag/v1.0.0 |
+| Edge API (Flask) | Local o Docker en la red del ESP32 | `http://<IP_PC>:5000` |
+| Embebido (ESP32) | Grabado desde Arduino IDE | — |
+
+**Landing Page**
+
+La Landing Page se publica con GitHub Pages desde la rama `main` del repositorio `landing-page`. Cada *push* a `main` vuelve a publicar el sitio. En este Sprint no tuvo cambios.
+
+URL: https://1asi0572-2620-8725.github.io/landing-page/
+
+![Landing Page en GitHub Pages](Assets/sprint2/deployment/landing-github-pages.png)
+
+*Figura: Landing Page publicada en GitHub Pages.*
+
+**Backend API**
+
+El monolito Spring Boot se publica en una máquina virtual de Oracle Cloud Infrastructure, con el dominio `https://137-131-253-18.sslip.io`. Delante del API está Caddy, que funciona como proxy inverso y emite y renueva el certificado HTTPS de forma automática. La URL nueva se registró en el README del backend (commit 6993562). La versión desplegada ya incluye el campo `ethylenePpm` en `EdgeReadingRequest`, como se ve en el Swagger de producción. Los microservicios `alerts-service` y `recipes-service` y el servidor `eureka-server` siguen la arquitectura descrita en la sección 7.1.4; el monolito los consume mediante Feign.
+
+En este Sprint el equipo trasladó la producción de Azure Container Apps a Oracle Cloud. Los workflows de GitHub Actions para Azure (`freshsense-backend`, `eureka-server`, `alerts-service` y `recipes-service`) se mantienen en el repositorio, pero ya no publican la versión vigente; sus ejecuciones del Sprint terminaron en `failure` y se retirarán en el siguiente Sprint.
+
+![Swagger del backend en producción](Assets/sprint2/deployment/backend-swagger-produccion.png)
+
+*Figura: Swagger UI de la FreshSense API (OAS 3.1) en producción.*
+
+**Frontend Web Application**
+
+La aplicación Angular se compila con `environment.production.ts`, que apunta a `https://137-131-253-18.sslip.io/api` (commit caf397d), y se publica en el mismo servidor del backend. Así el navegador y el API comparten dominio y se evitan problemas de CORS y de contenido mixto.
+
+URL: https://137-131-253-18.sslip.io
+
+La publicación anterior en Vercel (`https://front-end-fresh-sense.vercel.app`) corresponde a una versión previa del frontend y no forma parte del despliegue vigente.
+
+![Aplicación web en producción](Assets/sprint2/deployment/frontend-login-produccion.png)
+
+*Figura: pantalla de ingreso de la aplicación web publicada.*
+
+**Aplicación móvil**
+
+La aplicación Flutter para Android se compila como APK y se publica en GitHub Releases (versión `v1.0.0`, archivo `freshsense-v1.0.0.apk`, 58.2 MB). Consume el mismo backend de producción (`API_BASE_URL` por defecto `https://137-131-253-18.sslip.io/api`). Para instalarla se descarga el APK en el teléfono y se permite la instalación de apps de origen desconocido.
+
+![Release v1.0.0 de la aplicación móvil](Assets/sprint2/deployment/mobile-release-apk.png)
+
+*Figura: release v1.0.0 en GitHub con el APK de FreshSense.*
+
+**Edge API**
+
+El Edge se ejecuta en una PC o en un contenedor Docker (`python:3.12-slim`, puerto 5000) dentro de la misma red WiFi que el ESP32. Vive cerca del dispositivo, y no en la nube, porque el ESP32 envía lecturas cada minuto por HTTP simple. Así la clasificación sigue funcionando aunque se corte internet, se reduce la latencia y la clave del dispositivo no se expone en la red pública. El Edge solo sale a internet para reenviar al backend las lecturas ya clasificadas.
+
+```bash
+docker build -t freshsense-edge .
+docker run -p 5000:5000 \
+  -e FRESHSENSE_BACKEND_URL=https://137-131-253-18.sslip.io/api/edge/readings \
+  -e FRESHSENSE_DB_HOST=<host> -e FRESHSENSE_DB_PORT=3306 \
+  -e FRESHSENSE_DB_USER=<usuario> -e FRESHSENSE_DB_PASSWORD=<clave> \
+  -e FRESHSENSE_DB_NAME=freshsense_edge \
+  freshsense-edge
+```
+
+| Variable | Uso |
+|---|---|
+| `FRESHSENSE_BACKEND_URL` | Endpoint del backend al que se reenvían las lecturas (por defecto `http://localhost:8080/api/edge/readings`). |
+| `FRESHSENSE_DB_HOST`, `FRESHSENSE_DB_PORT`, `FRESHSENSE_DB_USER`, `FRESHSENSE_DB_PASSWORD`, `FRESHSENSE_DB_NAME` | Conexión a la base MySQL local con los umbrales y el mapeo de dispositivos. Si MySQL no está disponible, el Edge usa un catálogo en memoria. |
+| `FRESHSENSE_FORWARD_TIMEOUT` | Tiempo máximo del reenvío al backend (5 s por defecto). |
+
+![Página de emparejamiento del Edge en ejecución](Assets/sprint2/execution/edge-setup.png)
+
+*Figura: Edge en ejecución local sirviendo la página `/edge/setup`.*
+
+**Embebido (ESP32)**
+
+El firmware se graba en el ESP32 desde Arduino IDE 2, con la placa *ESP32 Dev Module* y el monitor serie a 115200 baudios. Antes de grabarlo se configura en `FreshSenseNode.h` la red WiFi y la dirección del Edge (`READINGS_URL = http://<IP_PC>:5000/api/v1/sensor-readings`). El comportamiento se validó antes en la simulación de Wokwi (repositorio `repositorio-wokwi`).
+
+#### 7.2.2.8. Team Collaboration Insights during Sprint
+
+El trabajo del Sprint 2 se distribuyó entre los aspectos de dispositivo IoT, Edge API, backend, aplicación móvil y despliegue, con líderes y colaboradores identificados en la matriz incluida en el Sprint Planning 2. Esta distribución orientó la asignación de tareas del Sprint Backlog 2.
+
+Como acuerdos derivados de la retrospectiva del Sprint 1, el equipo estableció el uso de **Conventional Commits**, la revisión de los checks de GitHub antes de integrar Pull Requests a `develop` y la necesidad de validar el dispositivo mediante hardware físico, además de las simulaciones en Wokwi. Estos compromisos se documentan en el Sprint Planning 2; el documento de origen no incorpora en este apartado un registro independiente de su cumplimiento.
 
 ## 7.3. Validation Interviews
 
+En esta sección se presenta el proceso de validación de la experiencia de usuario de FreshSense mediante entrevistas dirigidas a representantes de los segmentos objetivo definidos en el proyecto: propietarios y administradores de restaurantes, y encargados de negocios de distribución de alimentos en fríos.
+
+El propósito de estas entrevistas es evaluar la facilidad de uso, claridad de la información, organización de contenidos y utilidad de las principales funcionalidades de la landing page y la plataforma web. Asimismo, se busca identificar oportunidades de mejora relacionadas con la usabilidad, arquitectura de información y diseño inclusivo.
+
+Las sesiones se plantean mediante un enfoque de validación moderada, en el que los participantes realizan tareas específicas mientras el entrevistador observa su interacción con las interfaces y recoge sus apreciaciones. Para ello, se consideran los flujos de navegación vinculados con el monitoreo de temperatura y humedad, gestión del inventario, consulta de alertas y visualización de reportes.
+
+La validación contempla tanto la comprensión de la propuesta de valor presentada en la landing page como la interacción con las funcionalidades disponibles en la aplicación web. Cuando se utilice una versión local con datos simulados, esta condición será comunicada a los participantes para evitar confundir las funcionalidades demostrativas con servicios operativos.
+
+Los resultados obtenidos permitirán identificar problemas de interacción, evaluar la percepción de utilidad de FreshSense y plantear recomendaciones que contribuyan a mejorar la experiencia de los usuarios en futuras versiones de la solución.
+
 ### 7.3.1. Diseño de Entrevistas
+
+Las entrevistas de validación han sido diseñadas considerando las características, responsabilidades y necesidades de cada segmento objetivo. Se utiliza una estructura semiestructurada que combina tareas prácticas de navegación con preguntas abiertas sobre la experiencia de uso.
+
+Cada sesión contempla la presentación inicial de FreshSense, la revisión de la landing page, la ejecución de tareas sobre la aplicación web y la recopilación de observaciones finales.
+
+Durante la validación se busca observar la capacidad del participante para identificar información relevante, comprender los indicadores presentados, navegar entre las secciones y reconocer las acciones disponibles para cumplir sus objetivos.
+
+#### Segmento 1: Propietarios y administradores de restaurantes
+
+**Objetivo de validación:** Evaluar si FreshSense permite a los responsables de restaurantes comprender y utilizar las funcionalidades de control de inventario, monitoreo de condiciones ambientales y alertas para apoyar la conservación de sus insumos perecibles.
+
+**Tareas y User Flows a validar:**
+
+| ID | Tarea de validación | User Flow |
+| --- | --- | --- |
+| T01 | Revisar la landing page e identificar la propuesta de valor de FreshSense. | Inicio → Cómo funciona → Beneficios |
+| T02 | Identificar en el dashboard los productos registrados y las alertas pendientes. | Dashboard → Indicadores generales |
+| T03 | Buscar un alimento y consultar su información, cantidad y vencimiento. | Inventario → Buscar producto → Detalle |
+| T04 | Identificar un alimento que requiere atención. | Dashboard → Alertas → Detalle de alerta |
+| T05 | Consultar las condiciones de temperatura y humedad. | Monitoreo → Última lectura |
+| T06 | Revisar el historial de consumo y descarte de productos. | Reportes → Historial |
+
+**Preguntas de validación:**
+
+1. Después de revisar la landing page, ¿considera que se explica claramente qué es FreshSense y cómo podría utilizarse en su restaurante?
+2. ¿Qué información identifica inicialmente en el dashboard? ¿Le resulta fácil comprender los indicadores?
+3. ¿Ha podido encontrar un producto en el inventario y consultar su información sin dificultades?
+4. ¿Qué opina sobre la organización de los productos y la información de sus fechas de vencimiento?
+5. ¿Las alertas presentan información suficientemente clara para identificar productos que necesitan atención?
+6. ¿Le resulta sencillo consultar las condiciones de temperatura y humedad?
+7. ¿Considera que los reportes y el historial presentado podrían ayudarle a mejorar el control de los insumos?
+8. ¿Qué funcionalidad considera más útil para las operaciones de su restaurante?
+9. ¿Encontró alguna dificultad durante la navegación o algún elemento que debería explicarse mejor?
+10. ¿Qué cambios recomendaría para facilitar el uso de FreshSense en su negocio?
+
+#### Segmento 2: Encargados de negocios de distribución de alimentos en fríos
+
+**Objetivo de validación:** Evaluar si FreshSense ofrece una experiencia de uso comprensible y útil para responsables de almacenamiento y distribución de alimentos perecibles, priorizando la visualización de condiciones de conservación, la consulta del inventario, la identificación de alertas y el análisis de información histórica.
+
+**Tareas y User Flows a validar:**
+
+| ID | Tarea de validación | User Flow |
+| --- | --- | --- |
+| T01 | Revisar la landing page e identificar la utilidad de FreshSense para un negocio de distribución de alimentos refrigerados. | Inicio → Cómo funciona → Beneficios |
+| T02 | Localizar los indicadores generales relacionados con el almacenamiento y las condiciones ambientales. | Dashboard → Indicadores generales |
+| T03 | Consultar las condiciones de temperatura y humedad y revisar el detalle de la última lectura. | Dashboard → Monitoreo → Última lectura |
+| T04 | Buscar un producto perecible y consultar su información de inventario. | Inventario → Buscar producto → Detalle |
+| T05 | Identificar una alerta y comprender su estado y nivel de prioridad. | Alertas → Filtros → Detalle |
+| T06 | Consultar los reportes e identificar la información histórica disponible. | Reportes → Indicadores → Historial |
+| T07 | Identificar las opciones disponibles para consultar dispositivos asociados a la cuenta. | Dispositivos → Lista de dispositivos |
+
+**Preguntas de validación:**
+
+1. Después de revisar la landing page, ¿considera que FreshSense comunica claramente su propuesta para empresas que almacenan o distribuyen alimentos refrigerados?
+2. ¿Le resulta sencillo identificar la información principal presentada en el dashboard?
+3. ¿Ha podido localizar las lecturas de temperatura y humedad? ¿Considera que la información se presenta de manera comprensible?
+4. ¿Qué opina sobre la facilidad para buscar productos y revisar su información dentro del inventario?
+5. ¿Las alertas permiten reconocer fácilmente qué situación requiere atención?
+6. ¿Considera que la información disponible en los reportes sería útil para supervisar las condiciones de almacenamiento?
+7. ¿La organización de las secciones facilita encontrar las funcionalidades que necesita?
+8. ¿Qué información adicional necesitaría consultar para gestionar los productos y sus condiciones de conservación?
+9. ¿Qué aspectos de la interfaz le parecieron claros y cuáles considera que deberían mejorarse?
+10. Después de conocer la plataforma, ¿qué funcionalidades considera más importantes para su trabajo?
+
+#### Criterios de evaluación
+
+Para ambos segmentos se consideran los siguientes aspectos:
+
+- **Usabilidad:** Facilidad para completar tareas, comprender acciones y navegar entre secciones.
+- **Arquitectura de información:** Claridad de las etiquetas, organización de contenidos y facilidad para localizar información.
+- **Diseño inclusivo:** Legibilidad, comprensión de mensajes, contraste visual y facilidad de interacción.
+- **Utilidad percibida:** Relación entre las funcionalidades mostradas y las necesidades operativas del segmento.
+- **Oportunidades de mejora:** Dificultades identificadas y recomendaciones expresadas durante las sesiones.
+
+Los problemas identificados durante la validación serán analizados posteriormente mediante el formato de evaluación heurística establecido en el Anexo D del Final Project Statement.
 
 ### 7.3.2. Registro de Entrevistas
 
+En esta sección se presentan los registros de las entrevistas de validación realizadas con representantes de los dos segmentos objetivo de FreshSense. Durante las sesiones, los participantes revisaron la landing page y las principales funcionalidades de la plataforma web, proporcionando comentarios sobre su diseño, facilidad de navegación, utilidad y oportunidades de mejora.
+
+#### Segmento 1: Propietarios y administradores de restaurantes
+
+##### Entrevista 1
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Guillermo |
+| Edad | 26 años |
+| Ubicación | Lima |
+| Empresa / sector | Restaurante |
+| Cargo | Propietario |
+| Inicio de entrevista | 00:00 |
+| Duración | [6:55] |
+| Enlace | https://drive.google.com/file/d/13nuVuTI4ZL1ZWRnegA6Oip82JT7qHDdW/view?usp=sharing |
+
+**Evidencia visual de la entrevista:**
+
+![Captura de la entrevista de validación de Guillermo](Assets/ValidacionGuillermo.png)
+
+**Resumen:**
+
+Guillermo, de 26 años, propietario de un restaurante, participó en una entrevista de validación de FreshSense, donde revisó la landing page y las principales funcionalidades de la plataforma web. Consideró que el diseño es moderno, organizado y fácil de comprender, destacando la claridad del dashboard, el inventario, las alertas y el monitoreo de temperatura y humedad. También valoró la utilidad de los reportes para identificar productos descartados y mejorar la planificación de compras.
+
+Como oportunidades de mejora, recomendó incluir más ejemplos visuales relacionados con restaurantes en la landing page, destacar los alimentos próximos a vencer mediante etiquetas más visibles o filtros por fecha y facilitar el acceso a las alertas desde el inventario. En general, consideró que FreshSense es una propuesta útil para mejorar el control de insumos perecibles y reducir posibles pérdidas en su negocio.
+
+##### Entrevista 2
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Romy Panduro |
+| Edad | 46 años |
+| Ubicación | San Borja |
+| Empresa / sector | Restobar karaoke |
+| Cargo | Propietaria |
+| Inicio de entrevista | 00:00 |
+| Duración | 9:04 |
+| Enlace | https://drive.google.com/file/d/1yaP9FCvV9rKo09GO2Eu2jYF9UUS8Ujob/view?usp=sharing |
+
+![Evidencia entrevista Romy Panduro](Assets/2.png)
+
+**Resumen:**
+
+Romy Panduro tiene 46 años y administra un restobar karaoke ubicado en Tarapoto, con aproximadamente dos años de funcionamiento. En su negocio trabaja principalmente con carnes rojas, pollo y pescado, siendo este último el producto que considera más propenso a deteriorarse.
+
+Actualmente utiliza una aplicación para registrar el stock, mientras que sus trabajadores realizan manualmente la rotación de los productos según su antigüedad. Debido a ello, considera útil contar con una solución que permita recibir alertas automáticas sobre el estado y calidad de los alimentos almacenados en las congeladoras, pudiendo consultar esta información desde cualquier lugar.
+
+Respecto a una solución como FreshSense, valora especialmente el monitoreo automático y las notificaciones. Además, estaría interesada en un modelo de pago anual que incluya actualizaciones y mejoras continuas del sistema.
+
+##### Entrevista 3
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Alexandro Sánchez |
+| Edad | 27 años |
+| Empresa / sector | Restaurante |
+| Cargo | Administrador |
+| Función | Supervisión de operaciones, compras y gestión de productos |
+| Inicio de entrevista | 00:00 |
+| Duración | [3:58] |
+| Enlace | https://drive.google.com/file/d/1NrG3ZA6vQgkbtlRClSGPxKEiXvUERpWT/view?usp=sharing |
+
+**Evidencia visual de la entrevista:**
+
+![Captura de la entrevista de validación de Alexander](Assets/entrevistaAlexander.png)
+
+**Resumen:**
+
+Alexandro, de 27 años, administrador de un restaurante, participó en una entrevista de validación de FreshSense, donde revisó la landing page y las principales funcionalidades de la plataforma web. Consideró que la página presenta información clara sobre los beneficios de la solución y que el dashboard permite identificar fácilmente los indicadores del inventario y las alertas pendientes. Destacó especialmente la facilidad para consultar productos, revisar sus fechas de vencimiento y monitorear las condiciones de temperatura y humedad. También valoró la utilidad de los reportes para identificar productos desperdiciados y mejorar las decisiones de compra.
+
+Como oportunidades de mejora, recomendó incorporar más ejemplos relacionados con restaurantes en la landing page, destacar visualmente los productos próximos a vencer y facilitar el acceso directo a las alertas desde el inventario. Asimismo, sugirió agregar filtros por fecha de vencimiento y reportes que permitan identificar los alimentos descartados con mayor frecuencia. En general, consideró que FreshSense es una herramienta útil para mejorar el control de los insumos y prevenir pérdidas de alimentos en su restaurante.
+
+#### Segmento 2: Encargados de negocios de distribución de alimentos en fríos
+
+##### Entrevista 1
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Carmen |
+| Edad | 54 años |
+| Empresa / sector | Comercialización y distribución de alimentos perecibles |
+| Función | Supervisión de almacenamiento, control de inventario y conservación de productos |
+| Inicio de entrevista | [00:00] |
+| Duración | [07:55] |
+| Enlace | https://drive.google.com/file/d/1yKrq3YnjwJ_HUjNw0gdgOVtL0_tbf6sp/view?usp=sharing |
+
+**Evidencia visual de la entrevista:**
+
+![Captura de la entrevista de validación de Carmen](Assets/ValidacionCarmen.png)
+
+**Resumen:**
+
+Carmen, de 54 años, encargada de supervisar el almacenamiento y conservación de alimentos perecibles, participó en una entrevista de validación de FreshSense. Consideró que la landing page presenta información clara y un diseño agradable, mientras que la plataforma ofrece una navegación sencilla e indicadores fáciles de interpretar. Destacó especialmente el monitoreo de temperatura y humedad, las alertas y los reportes, por su utilidad para supervisar las condiciones de almacenamiento y organizar la información del negocio.
+
+Como oportunidades de mejora, sugirió incorporar imágenes relacionadas con empresas distribuidoras en la landing page, identificar las cámaras de refrigeración asociadas a las lecturas y alertas, y agregar filtros por lotes y zonas de almacenamiento. En general, valoró positivamente FreshSense y consideró que estas mejoras permitirían adaptar mejor la plataforma a las necesidades de las empresas de distribución de alimentos refrigerados.
+
+##### Entrevista 2
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Silvia |
+| Edad | 40 años |
+| Empresa / sector | Comercialización y distribución de alimentos perecibles |
+| Función | Supervisión del almacenamiento, control de inventario y conservación de productos |
+| Inicio de entrevista | 00:00 |
+| Duración | [3:55] |
+| Enlace | https://drive.google.com/file/d/1NiMoeYNo5lC3amupjENwm-XcLUQwK97x/view?usp=sharing |
+
+**Evidencia visual de la entrevista:**
+
+![Captura de la entrevista de validación de Silvia](Assets/entrevista2silvia.png)
+
+**Resumen:**
+
+Silvia, de 40 años, encargada de supervisar el almacenamiento y control de inventario en una empresa de comercialización y distribución de alimentos perecibles, participó en una entrevista de validación de FreshSense. Consideró que la landing page comunica claramente la utilidad de la solución y que la plataforma presenta una navegación sencilla e indicadores bien organizados. Destacó especialmente el monitoreo de temperatura y humedad, la facilidad para consultar productos en el inventario y la claridad de las alertas. También valoró los reportes y registros históricos por su utilidad para supervisar las condiciones de almacenamiento y detectar posibles problemas de conservación.
+
+Como oportunidades de mejora, recomendó incorporar más imágenes relacionadas con almacenes y empresas distribuidoras en la landing page, identificar las cámaras de refrigeración asociadas a las lecturas y alertas, y agregar filtros de búsqueda por lotes. Asimismo, sugirió facilitar la identificación de los dispositivos según su zona de almacenamiento y permitir la consulta de historiales de temperatura por lote. En general, consideró que FreshSense es una herramienta útil para mejorar el control de los productos refrigerados, reducir las revisiones manuales y prevenir pérdidas por condiciones inadecuadas de conservación.
+
+##### Entrevista 3
+
+| Dato | Información |
+| --- | --- |
+| Nombre y apellidos | Jesús Pérez |
+| Edad | 45 años |
+| Empresa / sector | Distribución de alimentos refrigerados |
+| Función | Supervisión de almacenamiento, control de inventario y conservación de productos |
+| Inicio de entrevista | 00:00 |
+| Duración | 4:00 |
+| Enlace | https://drive.google.com/file/d/14X-UfZnNv7AskrpvNJla5gQqd6HgTHRP/view?usp=sharing |
+
+**Evidencia visual de la entrevista:**
+
+![Captura de la entrevista de validación de Jesús Pérez](Assets/entrevista2jesus.png)
+
+**Resumen:**
+
+Jesús Pérez, de 45 años, encargado de supervisar el almacenamiento y conservación de productos en una empresa de distribución de alimentos refrigerados, participó en una entrevista de validación de FreshSense. Consideró que la landing page explica claramente la propuesta de la solución y que la plataforma presenta una interfaz organizada y fácil de navegar. Destacó la claridad de los indicadores del dashboard, la facilidad para consultar las lecturas de temperatura y humedad y la utilidad de las alertas para identificar situaciones que requieren atención. También valoró los reportes históricos y la gestión del inventario como herramientas importantes para supervisar las condiciones de conservación antes de distribuir los productos.
+
+Como oportunidades de mejora, recomendó incorporar ejemplos visuales relacionados con almacenes refrigerados y operaciones de distribución, identificar las cámaras de refrigeración asociadas a cada medición y mejorar los filtros de inventario por lotes. Asimismo, sugirió que las alertas permitan reconocer los lotes posiblemente afectados, que los reportes presenten historiales por cámara o lote y que los sensores puedan identificarse según su ubicación. En general, consideró que FreshSense es una propuesta útil para mejorar la supervisión de los alimentos refrigerados, detectar problemas oportunamente y reducir posibles pérdidas económicas.
+
+
 ### 7.3.3. Evaluaciones según heurísticas
+
+En esta sección se presenta la evaluación de la experiencia de usuario de FreshSense, tomando como referencia las observaciones obtenidas durante las entrevistas de validación realizadas con representantes de los dos segmentos objetivo.
+
+La evaluación considera principios de usabilidad, arquitectura de información y diseño inclusivo, con el propósito de identificar oportunidades de mejora en la landing page y la aplicación web. Para ello, se utiliza el formato establecido en el Anexo D del Final Project Statement, que contempla la identificación de problemas, clasificación de severidad y elaboración de recomendaciones.
+
+Los hallazgos se relacionan con los comentarios de los representantes del segmento de propietarios y administradores de restaurantes, y los representantes del segmento de encargados de negocios de distribución de alimentos en fríos. Cada problema se presenta con una captura de la interfaz actual y una propuesta visual de mejora, permitiendo identificar los cambios recomendados.
+
+#### UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+| Campo | Información |
+| --- | --- |
+| Carrera | Ingeniería de Software |
+| Curso de origen de la evaluación | Desarrollo de Soluciones IoT |
+| Sección / NRC del documento de origen | 8725 |
+| Auditor | Equipo FreshSense |
+| Clientes evaluadores | Entrevistados del Segmento 1 y 2 |
+| Sitios y aplicaciones | FreshSense Landing Page y FreshSense Web Application |
+| Segmentos | Propietarios y administradores de restaurantes; encargados de negocios de distribución de alimentos en fríos |
+
+#### Tareas a evaluar
+
+La evaluación comprende las siguientes tareas de interacción:
+
+1. Comprender la propuesta de FreshSense mediante la landing page.
+2. Identificar información general en el dashboard.
+3. Buscar y consultar productos dentro del inventario.
+4. Identificar alimentos próximos a vencer y revisar sus alertas.
+5. Consultar mediciones de temperatura y humedad.
+6. Interpretar advertencias relacionadas con productos almacenados.
+7. Revisar reportes y registros históricos.
+8. Navegar entre las principales funcionalidades de la plataforma.
+
+No se incluyen en esta evaluación las pruebas de conexión con dispositivos físicos, el procesamiento real de mediciones IoT, las transacciones de pago ni las funcionalidades de integración externa que no forman parte de la demostración presentada.
+
+#### Escala de severidad
+
+Los problemas identificados se clasifican de acuerdo con la escala indicada en el Anexo D.
+
+| Nivel | Descripción |
+| --- | --- |
+| 1 | Problema superficial: presenta un impacto reducido y puede corregirse cuando exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede dificultar ocasionalmente la experiencia de uso y debe considerarse para una próxima mejora. |
+| 3 | Problema mayor: ocurre frecuentemente o dificulta significativamente completar una tarea. Requiere prioridad alta. |
+| 4 | Problema muy grave: impide completar una tarea fundamental y requiere corrección antes del lanzamiento. |
+
+#### Tabla resumen
+
+La siguiente tabla presenta los principales problemas y oportunidades de mejora identificados a partir de las entrevistas de validación y la revisión de las interfaces de FreshSense.
+
+| # | Segmento | Problema identificado | Severidad | Heurística / Principio |
+| --- | --- | --- | --- | --- |
+| 1 | Segmento 1 | Poca representación visual de restaurantes en la landing page. | 1 | Usabilidad: Correspondencia entre el sistema y el mundo real |
+| 2 | Segmento 1 | Los productos próximos a vencer no se destacan suficientemente en el inventario. | 2 | Usabilidad: Visibilidad del estado del sistema |
+| 3 | Segmento 1 | No existe un acceso contextual directo a las alertas desde las tarjetas del inventario. | 2 | Usabilidad: Flexibilidad y eficiencia de uso |
+| 4 | Segmento 1 | Los reportes no destacan los productos descartados con mayor frecuencia. | 2 | Arquitectura de información: Facilidad para encontrar información |
+| 5 | Segmento 2 | Poca representación visual de empresas distribuidoras en la landing page. | 1 | Usabilidad: Correspondencia entre el sistema y el mundo real |
+| 6 | Segmento 2 | No se identifica una cámara de refrigeración específica en las lecturas de monitoreo. | 2 | Arquitectura de información: Claridad de etiquetas |
+| 7 | Segmento 2 | No se dispone de opciones específicas para buscar y organizar productos por lotes. | 2 | Arquitectura de información: Facilidad para encontrar información |
+| 8 | Segmento 2 | La descripción de la sección de alertas no corresponde completamente con las advertencias mostradas. | 2 | Usabilidad: Consistencia y estándares |
+
+#### Descripción de problemas
+
+##### Segmento 1: Propietarios y administradores de restaurantes
+
+###### Problema #1: Poca representación visual de restaurantes en la landing page
+
+**Severidad:** 1 – Problema superficial.
+
+**Heurística afectada:** Usabilidad – Correspondencia entre el sistema y el mundo real.
+
+**Problema:**
+
+Durante la validación, Guillermo señaló que la landing page presenta información clara y un diseño atractivo. Sin embargo, recomendó incorporar imágenes y ejemplos relacionados con restaurantes y cocinas comerciales, debido a que algunos elementos visuales están orientados principalmente al uso doméstico. Esto puede dificultar que los propietarios de restaurantes identifiquen rápidamente cómo se aplicaría FreshSense a sus operaciones.
+
+**Recomendación:**
+
+Incorporar imágenes de cocinas comerciales, equipos de refrigeración e inventarios de restaurantes, acompañadas de mensajes relacionados con el control de insumos perecibles y la reducción de pérdidas en negocios gastronómicos.
+
+**Estado actual:**
+
+![Problema 1 - Landing page actual](Assets/Heuristicas/G01-Actual.png)
+
+**Propuesta de mejora:**
+
+![Problema 1 - Landing page orientada a restaurantes](Assets/Heuristicas/G01-Propuesta.png)
+
+###### Problema #2: Visibilidad de productos próximos a vencer
+
+**Severidad:** 2 – Problema menor.
+
+**Heurística afectada:** Usabilidad – Visibilidad del estado del sistema.
+
+**Problema:**
+
+Guillermo consideró que el inventario presenta los productos de manera ordenada y comprensible, pero recomendó destacar visualmente aquellos que se encuentran próximos a vencer. Aunque la plataforma permite consultar información de los productos, las tarjetas no muestran directamente sus fechas de vencimiento ni una diferenciación suficientemente visible de aquellos que requieren atención prioritaria.
+
+**Recomendación:**
+
+Incorporar etiquetas visibles como "Próximo a vencer" y "Vencido", acompañadas de colores e iconos diferenciados. Asimismo, facilitar el ordenamiento por fecha de vencimiento para que los usuarios identifiquen rápidamente los productos que necesitan revisar.
+
+**Estado actual:**
+
+![Problema 2 - Inventario actual](Assets/Heuristicas/G02-Actual.png)
+
+**Propuesta de mejora:**
+
+![Problema 2 - Inventario con indicadores de vencimiento](Assets/Heuristicas/G02-Propuesta.png)
+
+###### Problema #3: Acceso directo a las alertas desde el inventario
+
+**Severidad:** 2 – Problema menor.
+
+**Heurística afectada:** Usabilidad – Flexibilidad y eficiencia de uso.
+
+**Problema:**
+
+Durante la entrevista, Guillermo indicó que la navegación general es sencilla, pero sugirió facilitar el acceso a las alertas relacionadas con los productos desde el propio inventario. Actualmente, el usuario debe dirigirse a la sección de alertas para consultar las advertencias, lo que puede añadir pasos innecesarios cuando necesita revisar rápidamente la situación de un alimento específico.
+
+**Recomendación:**
+
+Incorporar en las tarjetas o detalles de los productos un indicador de advertencias y un acceso contextual a las alertas relacionadas. Esto permitiría consultar la situación de un alimento sin necesidad de realizar una búsqueda adicional desde el menú principal.
+
+**Estado actual:**
+
+![Problema 3 - Inventario sin acceso contextual a alertas](Assets/Heuristicas/G03-Actual.png)
+
+**Propuesta de mejora:**
+
+![Problema 3 - Inventario con acceso directo a alertas](Assets/Heuristicas/G03-Propuesta.png)
+
+###### Problema #4: Identificación de productos descartados en los reportes
+
+**Severidad:** 2 – Problema menor.
+
+**Heurística afectada:** Arquitectura de información – Facilidad para encontrar información.
+
+**Problema:**
+
+Guillermo valoró positivamente los gráficos e historiales de FreshSense, pero consideró importante identificar con rapidez cuáles son los productos que se descartan con mayor frecuencia. Actualmente, la sección de reportes presenta información general sobre desperdicio y un historial de consumo y descarte, pero no destaca directamente los productos que acumulan mayores pérdidas.
+
+**Recomendación:**
+
+Incorporar un resumen visual de los productos más descartados, mediante un gráfico de barras o una tabla ordenada por cantidad de descartes. Esto facilitaría la identificación de patrones de desperdicio y apoyaría la planificación de compras del restaurante.
+
+**Estado actual:**
+
+![Problema 4 - Reportes actuales](Assets/Heuristicas/G04-Actual.png)
+
+**Propuesta de mejora:**
+
+![Problema 4 - Reportes con productos más descartados](Assets/Heuristicas/G04-Propuesta.png)
+
+##### Segmento 2: Encargados de negocios de distribución de alimentos en fríos
+
+###### Problema #5: Poca representación visual de empresas distribuidoras en la landing page
+
+**Severidad:** 1 – Problema superficial.
+
+**Heurística afectada:** Usabilidad – Correspondencia entre el sistema y el mundo real.
+
+**Problema:**
+
+Carmen consideró que la landing page presenta un diseño agradable y una propuesta comprensible. Sin embargo, observó que algunas imágenes y mensajes parecen dirigidos al uso doméstico, por lo que recomendó incluir representaciones de almacenes y empresas de distribución de alimentos refrigerados. Esto podría dificultar que los usuarios del segmento identifiquen los escenarios empresariales a los que está dirigida la solución.
+
+**Recomendación:**
+
+Incorporar imágenes de almacenes refrigerados, cámaras frigoríficas y operaciones de distribución de alimentos perecibles. Complementar las imágenes con textos breves que destaquen el monitoreo de condiciones ambientales y el control de productos almacenados.
+
+**Estado actual:**
+
+![Problema 5 - Landing page actual](Assets/Heuristicas/C01-Actual.png)
+
+**Propuesta de mejora:**
+
+![Problema 5 - Landing page orientada a empresas distribuidoras](Assets/Heuristicas/C01-Propuesta.png)
+
+###### Problema #6: Identificación de cámaras de refrigeración en el monitoreo
+
+**Severidad:** 2 – Problema menor.
+
+**Heurística afectada:** Arquitectura de información – Claridad de etiquetas.
+
+**Problema:**
+
+Carmen destacó que los valores de temperatura y humedad son fáciles de localizar e interpretar. No obstante, sugirió identificar claramente la cámara de refrigeración a la que corresponde cada lectura. Actualmente, la pantalla presenta indicadores generales de temperatura y humedad, pero no muestra una identificación específica de la cámara o zona de almacenamiento asociada a estas mediciones.
+
+**Recomendación:**
+
+Agregar una etiqueta visible con el nombre o identificador de la cámara de refrigeración correspondiente a cada lectura. Por ejemplo, "Cámara 01 – Refrigeración", acompañado de los valores de temperatura y humedad asociados.
+
+**Estado actual:**
+
+![Problema 6 - Monitoreo actual](Assets/Heuristicas/C02-Actual.png)
+
+**Propuesta de mejora:**
+
+![Problema 6 - Monitoreo con identificación de cámaras](Assets/Heuristicas/C02-Propuesta.png)
+
+###### Problema #7: Organización y búsqueda de productos por lotes
+
+**Severidad:** 2 – Problema menor.
+
+**Heurística afectada:** Arquitectura de información – Facilidad para encontrar información.
+
+**Problema:**
+
+Durante la validación, Carmen consideró que la sección de inventario es clara y permite consultar fácilmente la información de los alimentos. Sin embargo, recomendó agregar opciones de búsqueda y filtrado por lotes, debido a que las empresas distribuidoras manejan distintas cantidades de productos que necesitan identificarse y supervisarse de manera independiente. Actualmente, el inventario cuenta con filtros por condición y categoría, pero no dispone de una opción específica por lote.
+
+**Recomendación:**
+
+Incorporar un filtro por número o identificador de lote y mostrar dicha información en los detalles de los productos. Esto facilitaría la localización de mercancías específicas y permitiría una organización más adecuada para empresas de distribución de alimentos perecibles.
+
+**Estado actual:**
+
+![Problema 7 - Inventario actual sin filtro por lotes](Assets/Heuristicas/C03-Actual.png)
+
+**Propuesta de mejora:**
+
+![Problema 7 - Inventario con filtro por lotes](Assets/Heuristicas/C03-Propuesta.png)
+
+###### Problema #8: Inconsistencia entre la descripción y el contenido de las alertas
+
+**Severidad:** 2 – Problema menor.
+
+**Heurística afectada:** Usabilidad – Consistencia y estándares.
+
+**Problema:**
+
+Durante la validación, Carmen destacó la utilidad de las alertas para identificar productos que requieren atención. Sin embargo, al revisar la interfaz se observa que la descripción de la sección hace referencia a alertas de temperatura y humedad, mientras que las advertencias visibles corresponden a productos vencidos o próximos a vencer. Aunque algunas alertas incluyen una etiqueta que identifica su origen, la diferencia entre la descripción general y el contenido puede generar confusión sobre los eventos que realmente supervisa la plataforma.
+
+**Recomendación:**
+
+Modificar la descripción de la sección para indicar que FreshSense contempla alertas de inventario y condiciones ambientales. Asimismo, mejorar la identificación visual del origen de cada advertencia mediante etiquetas diferenciadas, como "Inventario" o "Sensor", incorporando el nombre del equipo o zona cuando se disponga de esa información.
+
+**Estado actual:**
+
+![Problema 8 - Alertas actuales](Assets/Heuristicas/C04-Actual.png)
+
+**Propuesta de mejora:**
+
+![Problema 8 - Alertas con identificación de origen](Assets/Heuristicas/C04-Propuesta.png)
+
+#### Conclusiones de la evaluación
+
+Las entrevistas de validación permitieron identificar una valoración favorable de la organización visual y navegación de FreshSense. Ambos segmentos destacaron la claridad de los indicadores, el inventario, el monitoreo ambiental y las alertas, considerando que estas funcionalidades responden a necesidades importantes de sus respectivos negocios.
+
+Las principales oportunidades de mejora se concentran en adaptar la presentación visual al contexto empresarial de cada segmento, facilitar la identificación de productos y situaciones prioritarias, mejorar la consistencia de los mensajes y proporcionar información más específica para las actividades de almacenamiento y distribución. Estas recomendaciones constituyen propuestas de mejora para futuras versiones de FreshSense y no representan funcionalidades ya implementadas.
+
+<div style="page-break-after: always;"></div>
+
 
 ## 7.4. Video About-the-Product
 

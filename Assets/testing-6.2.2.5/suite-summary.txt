@@ -1,0 +1,5 @@
+﻿Freshsense-EDGE unitarios: 24 passed
+Freshsense-EDGE integrales: 24 passed
+BackEnd unitarios: 11 passed (BUILD SUCCESS)
+BackEnd integrales: 9 passed (BUILD SUCCESS)
+Total: 68 passed · 0 fallos · 0 errores
