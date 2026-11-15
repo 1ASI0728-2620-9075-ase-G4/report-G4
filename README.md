@@ -2007,7 +2007,7 @@ Finalmente, **Subscription Management**, dentro del Backend API, se comunica con
 El siguiente diagrama representa la distribución de estas responsabilidades y las principales relaciones entre los containers y sistemas externos de FreshSense.
 
 <figure id="fig-c4-container" style="margin:1.5em 0;text-align:center">
-<img src="Assets/diagrama-c4-contenedores.png" alt="Software Architecture Container Level Diagram de FreshSense." style="max-width:100%;height:auto"/>
+<img src="Assets/FreshSenseContainers.png" alt="Software Architecture Container Level Diagram de FreshSense." style="max-width:100%;height:auto"/>
 <figcaption style="font-size:0.9em;color:#555;margin-top:0.4em"><em>Software Architecture Container Level Diagram — FreshSense.</em></figcaption>
 </figure>
 
