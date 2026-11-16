@@ -721,238 +721,246 @@ Estas estrategias buscan que FreshSense se diferencie mediante una propuesta foc
 
 ## 2.2. Entrevistas
 
-Las entrevistas constituyen una fuente de información para comprender problemas, necesidades y prácticas relacionadas con la conservación de alimentos perecibles. Para esta versión del informe se conservan las **seis entrevistas realizadas durante la exploración inicial del dominio**, sin modificar la identidad, cargo, respuestas ni evidencia de los participantes.
+Las entrevistas constituyen una de las principales fuentes de información para comprender las necesidades, problemas y expectativas de los segmentos objetivo de FreshSense.
 
-Los entrevistados disponibles corresponden principalmente a responsables de logística, almacén, operaciones, calidad y cadena de frío. Por ello, sus hallazgos se utilizan como evidencia del problema transversal de conservación, monitoreo, lotes e incidencias. La interpretación de estos resultados se alinea con los segmentos objetivo definitivos del proyecto:
+El proceso de investigación se enfoca en representantes de empresas que participan en actividades de almacenamiento, distribución, producción y comercialización de alimentos perecibles. A través de estas entrevistas se busca conocer cómo gestionan actualmente las condiciones de conservación de sus productos, qué dificultades enfrentan, qué herramientas utilizan y qué valor podría aportar una solución basada en dispositivos IoT y monitoreo digital.
 
-- **Segmento 1: Propietarios y Gerentes de Restaurantes Pequeños.**
-- **Segmento 2: Propietarios y Encargados de Negocios de Alimentos Fríos.**
+Los resultados obtenidos permitirán validar los principales supuestos de FreshSense y servirán posteriormente como base para la elaboración de User Personas, User Task Matrix, User Journey Maps y demás artefactos de análisis.
 
-La evidencia disponible tiene una relación más directa con el segundo segmento. Para el primer segmento, los hallazgos se utilizan únicamente cuando describen necesidades transferibles al contexto de conservación de insumos perecibles; no se atribuyen a los entrevistados características propias de un restaurante que no hayan sido registradas.
+Los segmentos considerados son:
+
+- **Segmento 1: Propietarios y administradores de restaurantes**
+- **Segmento 2: Encargados de Negocio de Distribución de alimentos en frio**
+
 
 ### 2.2.1. Diseño de entrevistas
 
-Las entrevistas realizadas fueron de tipo semiestructurado. La guía se orientó a conocer el contexto de trabajo de los participantes, los procesos actuales de conservación de productos perecibles, los problemas encontrados, las herramientas utilizadas y los criterios de adopción de una posible solución de monitoreo.
+Las entrevistas serán de tipo semiestructurado, utilizando preguntas orientadas a conocer el contexto de trabajo del entrevistado, los procesos actuales de conservación de productos perecibles, los principales problemas encontrados, el uso de tecnología y la percepción de valor frente a una solución como FreshSense.
 
-Las preguntas principales consideradas durante la investigación fueron las siguientes:
+Las preguntas han sido diseñadas de acuerdo con las características de cada segmento objetivo y buscan obtener información suficiente para identificar necesidades, objetivos, frustraciones y patrones de comportamiento que posteriormente serán utilizados en la construcción de los arquetipos de usuario.
 
-1. ¿Cuál es su cargo y qué responsabilidades tiene relacionadas con almacenamiento, conservación, calidad, transporte o comercialización de alimentos perecibles?
-2. ¿Qué tipo de productos perecibles maneja y cuáles requieren mayor control de sus condiciones de conservación?
-3. ¿Cómo monitorean actualmente variables como temperatura y humedad durante el almacenamiento o transporte?
-4. ¿Qué problemas de conservación, deterioro o ruptura de la cadena de frío se presentan con mayor frecuencia?
-5. ¿Qué consecuencias económicas, operativas o de calidad generan estas incidencias?
-6. ¿Qué herramientas utilizan actualmente para controlar las condiciones de conservación: termómetros, sensores, registradores, hojas de cálculo, sistemas de inventario u otras?
-7. ¿Con qué frecuencia revisan las condiciones de almacenamiento y qué información consideran más importante consultar?
-8. ¿Qué tan útil sería recibir alertas automáticas cuando las condiciones se encuentren fuera de los límites establecidos?
-9. ¿Cómo identifican y realizan actualmente el seguimiento de los lotes o grupos de productos?
-10. Cuando ocurre una incidencia, ¿qué tan sencillo es identificar los productos o lotes que podrían haber sido afectados?
-11. ¿Qué características debería tener una solución de monitoreo para que resulte útil y sencilla de implementar?
-12. ¿Qué factores influirían más en una decisión de adopción: costo, precisión, facilidad de uso, instalación, trazabilidad, alertas, reportes, soporte u otros?
+#### Segmento 1: Propietarios y administradores de restaurantes
 
-Además de las respuestas funcionales, el análisis considera características observables de los entrevistados como rol, responsabilidades, uso de herramientas digitales y principales frustraciones operativas, de modo que los hallazgos puedan alimentar los artefactos posteriores de Needfinding.
+1. ¿Qué tipo de alimentos manejas en tu negocio y cuáles son más propensos a perderse o malograrse?
+   
+3. ¿Con qué frecuencia enfrentas pérdidas por deterioro de productos?
+   
+4. ¿Tienes actualmente un método para controlar la frescura de tus ingredientes (listas, hojas de Excel, memoria, otro)?
+   
+5. ¿Qué impacto tiene para tu negocio perder productos perecibles? (económico, reputación, tiempo, clientes).
+   
+6. ¿Qué importancia le das a la calidad y frescura de los alimentos que vendes?
+   
+7. ¿Qué tipo de alertas o reportes te gustaría recibir para mejorar tu control de inventario?
+   
+8. ¿Te resultaría útil tener un dispositivo que monitoree automáticamente el estado de los productos dentro de tu refrigerador?
+   
+9. ¿Qué características serían imprescindibles para que confíes en este tipo de solución
+   
+10. ¿Pagarías por una herramienta que te ayude a reducir pérdidas y mantener la frescura? ¿Prefieres un pago único por el dispositivo o una suscripción mensual con funciones adicionales?
+    
+11. ¿Si el sistema pudiera darte estadísticas de consumo, desperdicio y hasta proyecciones de compras, ¿te serviría para tu negocio? 
+
+---
+
+#### Segmento 2: Empresas productoras y comercializadoras de alimentos perecibles
+
+1. ¿Cuál es su cargo dentro de la empresa y qué responsabilidades tiene relacionadas con producción, almacenamiento, calidad o comercialización?
+
+2. ¿Qué tipo de alimentos perecibles maneja la empresa y cuáles requieren un mayor control de sus condiciones de conservación?
+
+3. ¿Cómo verifican actualmente que los productos se encuentren almacenados bajo condiciones adecuadas?
+
+4. ¿Qué problemas de conservación o deterioro se presentan con mayor frecuencia dentro de la empresa?
+
+5. ¿Qué impacto generan estas pérdidas o deterioros en términos económicos, operativos o de calidad?
+
+6. ¿Utilizan sensores, termómetros, hojas de cálculo, sistemas de inventario u otras herramientas para controlar las condiciones de almacenamiento?
+
+7. ¿Con qué frecuencia revisan actualmente variables como temperatura y humedad?
+
+8. ¿Qué tan útil sería contar con información de estas condiciones en tiempo real y recibir alertas cuando exista una desviación?
+
+9. ¿Cómo identifican y realizan actualmente el seguimiento de los diferentes lotes de productos?
+
+10. Si se detecta un problema de conservación, ¿qué tan sencillo es identificar cuáles lotes podrían haber sido afectados?
+
+11. ¿Qué características considera indispensables en una plataforma de monitoreo de productos perecibles?
+
+12. ¿Qué factores serían más importantes al momento de adoptar una solución como FreshSense: costo, facilidad de uso, precisión, trazabilidad, alertas, reportes u otros?
 
 ### 2.2.2. Registro de entrevistas
 
+#### Segmento 1: Propietarios y administradores de restaurantes
 
 ##### Entrevista 1
 
 | Dato | Información |
 | --- | --- |
-| Nombre y apellidos | Carlos Mendoza Ruiz |
+| Nombre y apellidos | Guillermo |
 | Edad | 26 años |
-| Distrito | Callao |
-| Empresa / sector | Distribución refrigerada de alimentos |
-| Cargo | Supervisor de Logística |
+| Ubicación | Lima |
+| Empresa / sector | Restaurante |
+| Cargo | Propietario |
 | Inicio de entrevista | 00:00 |
-| Duración | 08:42 |
-| Enlace | [Ver entrevista](URL) |
+| Duración | 06:18 |
+| Enlace | https://drive.google.com/file/d/1NJtkNjEPtNI9XM_wAJCINVNJYsAqRvtj/view?usp=sharing |
 
-![Evidencia entrevista](Assets/EntrevistaS21.png)
+![Evidencia entrevista Guillermo](Assets/EntrevistaGuillermo.png)
 
-**Resumen:**  
-Carlos Mendoza trabaja como supervisor de logística en una empresa dedicada a la distribución refrigerada de alimentos. Dentro de sus funciones supervisa el almacenamiento y transporte de productos como lácteos, carnes y alimentos congelados.
+**Resumen:**
 
-Explicó que actualmente realizan el control de temperatura mediante termómetros instalados en cámaras de refrigeración y registradores ubicados en algunas unidades de transporte. Parte de la información es revisada manualmente y posteriormente registrada en hojas de cálculo.
+Guillermo tiene 26 años y es propietario de un restaurante en Lima, donde supervisa las compras, el inventario y el estado de los alimentos. Trabaja principalmente con carnes, pescado, pollo, verduras y lácteos, siendo las carnes, el pescado y algunas verduras los productos más propensos a deteriorarse.
 
-Señaló que uno de los principales problemas ocurre cuando existen variaciones de temperatura durante el transporte y estas se detectan recién al finalizar el recorrido. Este tipo de incidencias puede ocasionar revisión adicional de mercadería, retrasos y, en algunos casos, pérdida de productos.
+Actualmente, el control de frescura se realiza mediante revisión manual, fechas de vencimiento, etiquetas y registros en Excel. Sin embargo, este proceso depende bastante del personal y puede generar pérdidas cuando algún producto no se revisa a tiempo. Para Guillermo, estas pérdidas representan un impacto económico y también afectan la operatividad del restaurante.
 
-Considera que recibir alertas automáticas sería especialmente útil para reaccionar antes de que una desviación genere un daño importante. Entre la información que considera prioritaria se encuentran la temperatura, humedad, ubicación del producto, identificación del lote y el historial de lecturas.
-
-También indicó que una solución como FreshSense debería ser fácil de instalar, contar con información clara y permitir revisar rápidamente qué producto o lote fue afectado. Para una eventual adopción considera importantes la precisión de los sensores, el precio y la disponibilidad de soporte técnico.
-
+Considera útil una solución que permita monitorear temperatura y humedad, enviar alertas ante variaciones anormales y avisar sobre productos próximos a vencer. También valora contar con reportes de desperdicio y consumo para mejorar las compras. Estaría dispuesto a pagar por una herramienta de este tipo siempre que sea precisa, fácil de usar y contribuya realmente a reducir pérdidas.
 
 ##### Entrevista 2
 
 | Dato | Información |
 | --- | --- |
-| Nombre y apellidos | Carlos Guimaraes |
-| Edad | 27 años |
-| Distrito | Villa El Salvador |
-| Empresa / sector | Producción y almacenamiento de carnes y productos congelados |
-| Cargo | Jefe de Almacén |
-| Inicio de entrevista | 0:00 |
-| Duración | 08:36 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1Q8i84GD9mqFdKOLVYLR2PqdWQVT1MYik/view?usp=drive_link) |
+| Nombre y apellidos | Romy Panduro |
+| Edad | 46 años |
+| Ubicación | San Borja |
+| Empresa / sector | Restobar karaoke |
+| Cargo | Propietaria |
+| Inicio de entrevista | 00:00 |
+| Duración | 9:04 |
+| Enlace | https://drive.google.com/file/d/1yaP9FCvV9rKo09GO2Eu2jYF9UUS8Ujob/view?usp=sharing |
 
-![Evidencia entrevista](Assets/1.png)
+![Evidencia entrevista Romy Panduro](Assets/2.png)
 
-**Resumen:**  
-Carlos Guimaraes se desempeña como jefe de almacén en una empresa que trabaja con carnes y productos congelados. Dentro de sus funciones se encuentra supervisar el ingreso y salida de mercadería, verificar las condiciones de las cámaras frigoríficas y coordinar el movimiento de los diferentes lotes almacenados.
+**Resumen:**
 
-Explicó que los controles se realizan mediante termómetros instalados en las cámaras y verificaciones periódicas del personal. La identificación de lotes se gestiona mediante registros internos y etiquetas asociadas a cada ingreso de mercadería.
+Romy Panduro tiene 46 años y administra un restobar karaoke ubicado en Tarapoto, con aproximadamente dos años de funcionamiento. En su negocio trabaja principalmente con carnes rojas, pollo y pescado, siendo este último el producto que considera más propenso a deteriorarse.
 
-Indicó que los principales problemas pueden aparecer cuando existen fallas en los equipos de refrigeración o cuando las cámaras permanecen abiertas durante demasiado tiempo. Estas situaciones pueden ocasionar incrementos temporales de temperatura que deben ser identificados rápidamente.
+Actualmente utiliza una aplicación para registrar el stock, mientras que sus trabajadores realizan manualmente la rotación de los productos según su antigüedad. Debido a ello, considera útil contar con una solución que permita recibir alertas automáticas sobre el estado y calidad de los alimentos almacenados en las congeladoras, pudiendo consultar esta información desde cualquier lugar.
 
-Considera especialmente útil contar con alertas que indiquen cuándo una cámara o producto se encuentra fuera del rango permitido. También mencionó que sería importante identificar rápidamente qué lotes se encontraban almacenados durante una incidencia.
-
-Para una posible implementación, considera relevantes el costo del sistema, la facilidad de instalación, la confiabilidad de las mediciones y la disponibilidad de soporte técnico.
+Respecto a una solución como FreshSense, valora especialmente el monitoreo automático y las notificaciones. Además, estaría interesada en un modelo de pago anual que incluya actualizaciones y mejoras continuas del sistema.
 
 
 ##### Entrevista 3
 
 | Dato | Información |
 | --- | --- |
-| Nombre y apellidos | Daniela Vargas Medina |
-| Edad | 22 años |
-| Distrito | Lurín |
-| Empresa / sector | Comercialización y almacenamiento de frutas y vegetales |
-| Cargo | Coordinadora de Operaciones |
+| Nombre y apellidos | Persona A (seudónimo) |
+| Edad | 27 años |
+| Empresa / sector | Restaurante |
+| Cargo | Administrador |
+| Función | Supervisión de operaciones, compras y gestión de productos |
 | Inicio de entrevista | 00:00 |
-| Duración | 09:04 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1AqFpCV5FGpSXy3RIi9gN7BdsXJm4ywSU/view?usp=drive_link) |
+| Duración | 4:44 |
+| Enlace | https://drive.google.com/file/d/1aCd80YB6zoBtOJcUTQrDffn5Tb8MfSop/view?usp=sharing |
 
-![Evidencia entrevista](Assets/4.png)
+![Evidencia entrevista Persona A](Assets/EntrevistaPersonaA.png)
 
-**Resumen:**  
-Daniela Vargas trabaja como coordinadora de operaciones en una empresa dedicada al almacenamiento y comercialización de frutas y vegetales. Sus responsabilidades incluyen coordinar el ingreso de productos, revisar el inventario disponible y supervisar las condiciones generales de almacenamiento.
+**Resumen:**
 
-Comentó que algunos controles de temperatura se realizan mediante equipos instalados en las cámaras, mientras que la revisión de humedad y estado de los productos depende en mayor medida de inspecciones realizadas por el personal.
+Persona A tiene 27 años y trabaja como administrador de un restaurante, donde supervisa las operaciones, las compras y el manejo de los alimentos. El negocio utiliza principalmente carnes, pollo, pescado, verduras, lácteos y productos congelados, siendo las carnes, el pescado y algunas verduras los más propensos a deteriorarse si no se almacenan correctamente.
 
-Uno de los problemas que identifica es que diferentes productos requieren condiciones distintas de conservación y no siempre resulta sencillo mantener un seguimiento constante de todos los lotes almacenados.
+Actualmente, el control de frescura se realiza mediante revisiones manuales de fechas de vencimiento, inspecciones visuales, verificación de temperatura y registros de inventario. Sin embargo, menciona que ocasionalmente se producen pérdidas por compras excesivas o productos almacenados durante demasiado tiempo. Estas situaciones generan gastos adicionales y pueden afectar la preparación de los pedidos.
 
-Considera que una plataforma que permita visualizar lotes, condiciones ambientales e incidencias desde un mismo lugar ayudaría a mejorar el control de la operación. También considera útil contar con alertas configurables según el tipo de producto.
-
-Entre las funcionalidades que considera importantes destacó el historial de mediciones, los reportes, la identificación de lotes afectados y una interfaz sencilla que pueda ser utilizada tanto por responsables de operaciones como por personal de calidad.
+Considera útil una solución como FreshSense que permita monitorear temperatura y humedad, enviar alertas sobre cambios de temperatura o productos próximos a vencer y consultar historiales de mediciones. También valora la precisión de los sensores, la facilidad de uso y la rapidez de las notificaciones. Finalmente, estaría dispuesto a adquirir el dispositivo y pagar una suscripción económica, siempre que contribuya a reducir pérdidas y mejorar la gestión del restaurante.
 
 
-##### Entrevista 4
+#### Segmento 2: Empresas productoras y comercializadoras de alimentos perecibles
+
+##### Entrevista 1
 
 | Dato | Información |
 | --- | --- |
-| Nombre y apellidos | María Fernanda Rojas Díaz |
-| Edad | 36 años |
-| Distrito | Santa Anita |
-| Empresa / sector | Producción y comercialización de productos lácteos |
-| Cargo | Supervisora de Calidad |
+| Nombre y apellidos | Silvia |
+| Edad | 40 años |
+| Empresa / sector | Comercialización y distribución de alimentos perecibles |
+| Función | Supervisión del almacenamiento, control de inventario y conservación de productos |
 | Inicio de entrevista | 00:00 |
-| Duración | 09:18 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1yaP9FCvV9rKo09GO2Eu2jYF9UUS8Ujob/view?usp=drive_link) |
+| Duración | 3:52 |
+| Enlace | https://drive.google.com/file/d/1im0wnd2XqLIU5hLwFVeBPy_K5FL50XW8/view?usp=sharing |
 
-![Evidencia entrevista](Assets/2.png)
+![Evidencia entrevista Silvia](Assets/entrevistasilvia.png)
 
-**Resumen:**  
-María Fernanda Rojas trabaja como supervisora de calidad en una empresa dedicada a la producción y comercialización de productos lácteos. Entre sus responsabilidades se encuentra verificar las condiciones de almacenamiento de productos terminados y coordinar controles relacionados con temperatura y calidad.
+**Resumen:**
 
-Comentó que actualmente utilizan termómetros digitales y realizan registros periódicos de temperatura en las áreas de almacenamiento. Parte de esta información es trasladada posteriormente a hojas de cálculo para mantener evidencia de los controles realizados.
+Silvia tiene 40 años y trabaja en una empresa dedicada a la comercialización y distribución de alimentos perecibles, donde participa en la supervisión del almacenamiento y control del inventario. La empresa maneja principalmente carnes, lácteos y productos congelados, siendo las carnes y los lácteos los que requieren mayor cuidado debido a su sensibilidad ante cambios de temperatura.
 
-Según indicó, uno de los principales problemas se presenta cuando una desviación ocurre entre dos controles manuales, debido a que puede pasar cierto tiempo antes de ser detectada. Esto puede generar revisiones adicionales del producto y, en algunos casos, la separación de lotes hasta confirmar que mantienen condiciones adecuadas.
+Actualmente realizan inspecciones manuales, revisiones periódicas de los equipos de refrigeración y registros de inventario, utilizando también Excel. Sin embargo, el proceso todavía depende considerablemente de verificaciones realizadas por el personal. Silvia señala que una variación de temperatura no detectada a tiempo puede deteriorar productos, generar pérdidas económicas y afectar los pedidos planificados.
 
-Considera que contar con información disponible en tiempo real y recibir alertas automáticas facilitaría el trabajo del área de calidad. También considera importante poder revisar el historial de temperatura y humedad correspondiente a cada lote.
-
-Entre los factores más relevantes para adoptar una solución de este tipo destacó la precisión de los sensores, la facilidad de uso, la generación de reportes y la posibilidad de acceder a información histórica.
+Considera útil una solución como FreshSense que permita monitorear temperatura y humedad en tiempo real, enviar alertas ante condiciones inadecuadas y consultar el historial de cada lote. Para ella, la plataforma debería ser fácil de utilizar, ofrecer mediciones confiables y generar reportes que permitan identificar problemas ocurridos durante el almacenamiento.
 
 
-##### Entrevista 5
+##### Entrevista 2
 
 | Dato | Información |
 | --- | --- |
-| Nombre y apellidos | Andrea Salazar Paredes |
-| Edad | 29 años |
-| Distrito | Ate |
-| Empresa / sector | Operador logístico de productos refrigerados |
-| Cargo | Coordinadora de Operaciones |
+| Nombre y apellidos | Jesús Pérez |
+| Edad | 45 años |
+| Empresa / sector | Distribución de alimentos refrigerados |
+| Función | Supervisión de almacenamiento, control de inventario y conservación de productos |
 | Inicio de entrevista | 00:00 |
-| Duración | 09:15 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1iQW9Vu0lRPL9HhDX3PIfNHNQqrBESufE/view?usp=drive_link) |
+| Duración | 4:57|
+| Enlace | https://drive.google.com/file/d/1NCnw1minxYLf-k89c6vxbyryJ1yoyXz-/view?usp=sharing |
 
-![Evidencia entrevista](Assets/5.png)
+![Evidencia entrevista Jesús Pérez](Assets/EntrevistaJesusPerez.png)
 
-**Resumen:**  
-Andrea Salazar se desempeña como coordinadora de operaciones en una empresa que almacena y distribuye productos refrigerados para diferentes clientes del sector alimentario.
+**Resumen:**
 
-Indicó que la empresa trabaja con cámaras de refrigeración y vehículos acondicionados para mantener determinadas temperaturas. El control se realiza mediante sensores en algunos puntos de almacenamiento y verificaciones periódicas efectuadas por el personal.
+Jesús Pérez tiene 45 años y trabaja en una empresa dedicada a la distribución de alimentos refrigerados, donde supervisa el almacenamiento, controla el inventario y verifica el estado de los productos antes de su distribución. Trabajan principalmente con carnes, pollo, lácteos y productos congelados, siendo las carnes y los lácteos los que requieren mayor control.
 
-Comentó que una dificultad importante es que la información de almacenamiento, transporte y lotes se encuentra distribuida entre diferentes registros. Cuando ocurre una incidencia, identificar cuándo sucedió y qué mercadería estuvo expuesta puede requerir revisar distintas fuentes de información.
+Actualmente realizan revisiones periódicas de las cámaras de refrigeración, verificaciones de temperatura y controles visuales, además de utilizar registros internos para el seguimiento de los lotes. Sin embargo, Jesús señala que cuando una variación de temperatura no se detecta rápidamente puede ocasionar deterioro de productos y pérdidas económicas, además de dificultar la identificación exacta de los lotes afectados.
 
-Para ella, una plataforma centralizada que permita relacionar dispositivos, lotes e incidencias facilitaría considerablemente el trabajo operativo. Considera especialmente importantes las alertas en tiempo real y la posibilidad de consultar un historial de temperatura y humedad.
+Considera útil una solución como FreshSense que permita monitorear temperatura y humedad en tiempo real, enviar alertas rápidas y relacionar las mediciones con los lotes almacenados. También valora contar con historiales y reportes, y considera importantes la precisión de los sensores, la facilidad de uso, el costo y la posibilidad de consultar la información desde una computadora o celular.
 
-Señaló también que una solución tecnológica debería ser sencilla de utilizar por diferentes perfiles de empleados y ofrecer reportes que puedan ser revisados posteriormente. En una decisión de compra priorizaría la confiabilidad, facilidad de implementación y capacidad de generar alertas oportunas.
-
-
-##### Entrevista 6
+##### Entrevista 3
 
 | Dato | Información |
 | --- | --- |
-| Nombre y apellidos | Javier Torres Castillo |
-| Edad | 26 años |
-| Distrito | San Luis |
-| Empresa / sector | Distribución mayorista de alimentos perecibles |
-| Cargo | Responsable de Cadena de Frío |
+| Nombre y apellidos | Carmen |
+| Edad | 54 años |
+| Empresa / sector | Comercialización y distribución de alimentos perecibles |
+| Función | Supervisión de almacenamiento, control de inventario y conservación de productos |
 | Inicio de entrevista | 00:00 |
-| Duración | 08:57 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1_Jg-67dLuuAXt6bTV69x12lShay-IJ0v/view?usp=drive_link) |
+| Duración | 6:07|
+| Enlace | https://drive.google.com/file/d/17b7sV7W1QHlYEh9eXrvsy_Lgdfv51viF/view?usp=sharing |
 
-![Evidencia entrevista](Assets/3.png)
+![Evidencia entrevista Carmen](Assets/EntrevistaCarmen.png)
 
-**Resumen:**  
-Javier Torres trabaja como responsable de cadena de frío en una empresa distribuidora de productos perecibles. Sus principales responsabilidades incluyen supervisar las condiciones de almacenamiento, coordinar despachos y verificar que los productos mantengan condiciones adecuadas durante su traslado.
+**Resumen:**
 
-Actualmente utilizan termómetros digitales y controles manuales realizados por el personal. Algunos vehículos disponen de dispositivos capaces de registrar temperatura, aunque señaló que no toda la información se encuentra disponible en una única plataforma.
+Carmen tiene 54 años y trabaja en una empresa dedicada a la comercialización y distribución de alimentos perecibles, donde supervisa el almacenamiento, el inventario y la conservación de productos. La empresa maneja principalmente carnes, pollo, lácteos y alimentos congelados, siendo las carnes y los lácteos los que requieren mayor cuidado debido a su sensibilidad ante cambios de temperatura.
 
-Según su experiencia, las principales incidencias están relacionadas con variaciones de temperatura ocasionadas por aperturas prolongadas, problemas de refrigeración o retrasos durante la distribución. Estas situaciones pueden afectar la calidad de los productos y ocasionar devoluciones.
+Actualmente realizan revisiones periódicas de las cámaras de refrigeración, controles visuales y registros de inventario mediante herramientas internas y Excel. Sin embargo, Carmen señala que las verificaciones todavía dependen considerablemente del personal, lo que dificulta detectar fallas de refrigeración a tiempo. Estas situaciones pueden generar pérdidas económicas, afectar los pedidos y complicar la identificación de los lotes que estuvieron expuestos a condiciones inadecuadas.
 
-Considera que contar con alertas automáticas y un historial asociado a cada lote ayudaría a detectar problemas más rápidamente y facilitaría la identificación de responsabilidades frente a una incidencia.
-
-Entre las características que considera indispensables mencionó facilidad de uso, precisión de las mediciones, disponibilidad de información histórica y generación de reportes. También considera importante que la solución pueda implementarse progresivamente, comenzando con determinados almacenes o vehículos antes de extenderse al resto de la operación.
+Considera útil una solución como FreshSense que permita monitorear temperatura y humedad automáticamente, recibir alertas inmediatas y consultar historiales de mediciones asociados a los lotes almacenados. También valora la facilidad de uso, la precisión de los sensores y el acceso desde computadoras o celulares. Finalmente, considera que el costo y la capacidad del sistema para reducir pérdidas serían factores importantes para decidir su implementación.
 
 
 ### 2.2.3. Análisis de entrevistas
 
-#### Hallazgos generales de la evidencia disponible
+#### Segmento 1:  Propietarios y administradores de restaurantes
 
-Los resultados registrados en las seis entrevistas muestran patrones consistentes relacionados con la conservación de alimentos perecibles. En los dos grupos originales de entrevistas, el **100 % de los participantes indicó realizar algún tipo de control de temperatura**, aunque parte del proceso continúa dependiendo de verificaciones manuales.
+A partir de las tres entrevistas realizadas, se identificó que el **100 % de los entrevistados realiza algún control de temperatura**, aunque todos mencionaron que parte del proceso todavía depende de verificaciones manuales.
 
-Asimismo, en ambos grupos originales el **100 % consideró útil recibir alertas automáticas** cuando las condiciones salen de los rangos establecidos y el **100 % consideró relevante relacionar las condiciones registradas con los lotes monitoreados** para facilitar la identificación de incidencias.
+El **66.7 %** indicó que utiliza sensores o registradores digitales en determinadas etapas, pero la información no siempre se encuentra centralizada. Asimismo, el **100 % considera útil recibir alertas automáticas** cuando las condiciones salen de los rangos establecidos.
 
-En el primer grupo de entrevistas, el **66.7 %** indicó utilizar sensores o registradores digitales en determinadas etapas, aunque la información no siempre se encuentra centralizada. En el segundo grupo, el **66.7 %** destacó la utilidad de disponer de reportes e historiales de mediciones.
+También se observó que el **100 % considera importante relacionar las condiciones registradas con los lotes monitoreados**, principalmente para identificar rápidamente posibles incidencias.
 
-De manera transversal, los principales problemas y necesidades identificados son:
+En este segmento, las principales necesidades identificadas son el monitoreo continuo, las alertas oportunas, la trazabilidad y la centralización de la información.
 
-- dependencia parcial de controles manuales;
-- detección tardía de variaciones de temperatura;
-- información distribuida entre diferentes registros;
-- dificultad para identificar rápidamente productos o lotes afectados;
-- necesidad de alertas oportunas;
-- necesidad de consultar historial de condiciones;
-- importancia de la facilidad de uso, precisión de las mediciones y reportes.
+#### Segmento 2: Encargados de negocios de distribución de alimentos en fríos
 
-#### Interpretación para el Segmento 1: Propietarios y Gerentes de Restaurantes Pequeños
+En este segmento, el **100 % de los entrevistados utiliza algún mecanismo para controlar la temperatura**, aunque las tres empresas también realizan verificaciones manuales periódicas.
 
-Las entrevistas disponibles no incluyen de manera directa a propietarios o gerentes de restaurantes pequeños. Por ello, para este segmento se utilizan únicamente los hallazgos que pueden trasladarse de forma razonable al manejo de insumos perecibles: controles manuales, necesidad de detectar desviaciones de conservación, importancia de actuar antes de que el producto se deteriore y necesidad de reducir pérdidas.
+El **100 % considera útil contar con información en tiempo real y alertas automáticas**, especialmente para detectar desviaciones antes de que afecten la calidad de los productos.
 
-Con base en ello, la investigación disponible permite sustentar de manera preliminar necesidades relacionadas con la **supervisión de condiciones de conservación**, el **control de inventario perecible**, la **detección oportuna de productos en riesgo** y la **reducción de mermas**. Las características específicas del flujo operativo de un restaurante deben tratarse como hipótesis del arquetipo y no como respuestas directas de los entrevistados existentes.
+Además, el **100 % considera relevante asociar las condiciones de almacenamiento con los lotes**, mientras que el **66.7 %** destacó la utilidad de contar con reportes e historiales de mediciones.
 
-#### Interpretación para el Segmento 2: Propietarios y Encargados de Negocios de Alimentos Fríos
+Las principales necesidades identificadas son el monitoreo en tiempo real, la gestión de lotes, las alertas y el acceso a información histórica.
 
-La evidencia disponible presenta una relación directa con este segmento, ya que varios entrevistados son responsables de almacenes, operaciones, calidad o cadena de frío en negocios que manipulan alimentos refrigerados, congelados o perecibles.
+#### Conclusión general
 
-Los hallazgos respaldan especialmente la necesidad de **monitorear temperatura y humedad**, **detectar desviaciones mediante alertas**, **relacionar incidencias con lotes o productos**, **consultar información histórica** y **centralizar datos que actualmente se encuentran distribuidos**. También se observa que la facilidad de implementación, la precisión de las mediciones y la disponibilidad de reportes son factores relevantes para la adopción.
+En ambos segmentos se observa una necesidad común de mejorar el control de las condiciones de conservación mediante una solución más centralizada y automatizada.
 
-#### Conclusión del análisis de entrevistas
-
-La evidencia de entrevistas respalda el problema general que FreshSense busca abordar: la dificultad de mantener un control continuo y centralizado sobre las condiciones de conservación de alimentos perecibles.
-
-Para el **Segmento 2**, el sustento es directo y permite identificar patrones de comportamiento y necesidades operativas. Para el **Segmento 1**, el sustento es indirecto y se utiliza como evidencia del problema transversal de conservación de insumos; por ello, los artefactos de Needfinding correspondientes se presentan como una aproximación preliminar alineada con la definición del segmento establecida en el Capítulo I.
+Los resultados respaldan principalmente cuatro funcionalidades de FreshSense: **monitoreo de temperatura y humedad, alertas automáticas, gestión de lotes e historial de mediciones**.
 
 
 ## 2.3. Needfinding
